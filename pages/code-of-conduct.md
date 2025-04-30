@@ -3,6 +3,7 @@ title: Código de conducta
 menu:
   - text: Portada
     url: /
+basename: codigo-de-conducta
 ---
 
 La TRGCON pretende ser **una experiencia agradable para todos los asistentes,**

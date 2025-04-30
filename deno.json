@@ -1,7 +1,7 @@
 {
   "imports": {
     "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@66b6c1847ce9a15bf3c437e01f55f294c3c7925a/",
-    "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@e0804309b94ff513b5c7de80fddd05e5167cf748/",
+    "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@3f5c3be3019184cfc53500f3ca2792adc1b4d4ff/",
     "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@518ddc9734bf817e699b05e14ef21ed2e5efd78e/",
     "lume/jsx-runtime": "https://deno.land/x/ssx@v0.1.8/jsx-runtime.ts"
   },
@@ -9,7 +9,8 @@
     "lume": "echo \"import 'lume/cli.ts'\" | deno run -A -",
     "build": "deno task lume",
     "serve": "deno task lume -s",
-    "cms": "deno task lume cms"
+    "cms": "deno task lume cms",
+    "cms:prod": "deno serve -A https://deno.land/x/lume_cms_adapter@v0.2.2/mod.ts -- --location=https://cms.trgcon.com"
   },
   "compilerOptions": {
     "types": [

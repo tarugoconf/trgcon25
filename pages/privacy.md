@@ -1,9 +1,10 @@
 ---
 title: Política de privacidad
-subtitle: Madrid, 24 de mayo de 2018
+subtitle: 'Madrid, 24 de mayo de 2018'
 menu:
   - text: Portada
-    url: '/'
+    url: /
+basename: politica-de-privacidad
 ---
 
 ## Titular y Responsable del tratamiento de los Datos

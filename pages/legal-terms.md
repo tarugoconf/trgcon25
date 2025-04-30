@@ -1,10 +1,10 @@
 ---
 title: Aviso legal
 subtitle: 'Madrid, 24 de mayo de 2018'
-url: /aviso-legal/
 menu:
   - text: Portada
     url: /
+basename: aviso-legal
 ---
 
 ## 1. Propiedad del sitio
