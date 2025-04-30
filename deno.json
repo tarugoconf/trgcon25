@@ -10,7 +10,7 @@
     "build": "deno task lume",
     "serve": "deno task lume -s",
     "cms": "deno task lume cms",
-    "cms:prod": "deno serve -A https://deno.land/x/lume_cms_adapter@v0.2.2/mod.ts -- --location=https://cms.trgcon.com"
+    "cms:prod": "deno serve -A --env-file https://deno.land/x/lume_cms_adapter@v0.2.2/mod.ts -- --location=https://cms.trgcon.com"
   },
   "compilerOptions": {
     "types": [
