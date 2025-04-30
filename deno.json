@@ -1,0 +1,24 @@
+{
+  "imports": {
+    "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@66b6c1847ce9a15bf3c437e01f55f294c3c7925a/",
+    "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@e0804309b94ff513b5c7de80fddd05e5167cf748/",
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@518ddc9734bf817e699b05e14ef21ed2e5efd78e/",
+    "lume/jsx-runtime": "https://deno.land/x/ssx@v0.1.8/jsx-runtime.ts"
+  },
+  "tasks": {
+    "lume": "echo \"import 'lume/cli.ts'\" | deno run -A -",
+    "build": "deno task lume",
+    "serve": "deno task lume -s",
+    "cms": "deno task lume cms"
+  },
+  "compilerOptions": {
+    "types": [
+      "lume/types.ts"
+    ],
+    "jsx": "react-jsx",
+    "jsxImportSource": "lume"
+  },
+  "unstable": [
+    "temporal"
+  ]
+}
