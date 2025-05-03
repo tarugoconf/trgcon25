@@ -1,7 +1,7 @@
 {
   "imports": {
     "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@66b6c1847ce9a15bf3c437e01f55f294c3c7925a/",
-    "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@3f5c3be3019184cfc53500f3ca2792adc1b4d4ff/",
+    "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@032e7f6761a1937d160a9d9090b943069e2de23e/",
     "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@518ddc9734bf817e699b05e14ef21ed2e5efd78e/",
     "lume/jsx-runtime": "https://deno.land/x/ssx@v0.1.8/jsx-runtime.ts"
   },

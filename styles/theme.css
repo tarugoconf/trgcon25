@@ -13,14 +13,23 @@
 
 :root {
   /* Colors */
-  --color-primary: CornflowerBlue;
-  --color-secondary: DarkSalmon;
-  --color-dark: black;
-  --color-light: Linen;
+  --color-primary: #03a5cd;
+  --color-secondary: #2afdb8;
+  --color-dark: #222735;
+  --color-light: white;
 
   /* Fonts */
   --font-family-display: Roobert;
   --font-family-ui: Roobert, system-ui, sans-serif;
-  --font-weight-bold: 750;
-  --font-weight-bolder: 900;
+  --font-weight-bold: 550;
+  --font-weight-bolder: 650;
+}
+
+.block-hero {
+  background-image: linear-gradient(to bottom, color-mix(in srgb, var(--color-primary) 30%, var(--color-dark)), var(--color-dark) 80%);
+  background-repeat: no-repeat;
+
+  h1 {
+    color: var(--color-secondary);
+  }
 }

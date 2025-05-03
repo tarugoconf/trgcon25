@@ -1,17 +1,17 @@
 menu:
   - text: Cómo patrocinar
-    url: "#patrocinio"
+    url: '#patrocinio'
     highlight: false
   - text: Contact
-    url: "#contacto"
+    url: '#contacto'
     highlight: false
 blocks:
   - type: hero
     title: TRGCON 25
-    intro: "Madrid, noviembre 2025"
+    intro: 'Madrid, noviembre 2025'
   - type: text
     title: Minimo texto de intro
-    theme: is-light width-box box-fill
+    theme: is-dark width-full box-fill
     columns: false
     text: >-
       Un solo track y una única experiencia para todos los asistentes.
@@ -41,9 +41,11 @@ blocks:
 
       diseñadas para que conozcas gente de forma sencilla, natural, agradable y
       segura.
-  - type: video
-    src: /files/video-trg24.mp4
-    text_over: ¿Qué vas a encontrar?
+  - type: vimeo
+    code: '1079153582'
+    cover: /files/video-cover.png
+    caption: Resumen de la edición de 2024.
+    id: video-resumen
   - type: logos
     title: Partners
     id: partners
@@ -56,17 +58,17 @@ blocks:
     items:
       - alt: Logo
         img: /files/logos/logo.png
-        url: "https://github.com/tarugoconf/TOP"
+        url: 'https://github.com/tarugoconf/TOP'
       - alt: Logo
         img: /files/logos/logo.png
-        url: "https://github.com/tarugoconf/TOP"
+        url: 'https://github.com/tarugoconf/TOP'
       - alt: Logo
         img: /files/logos/logo.png
-        url: "https://github.com/tarugoconf/TOP"
+        url: 'https://github.com/tarugoconf/TOP'
   - type: pdf
     title: Cómo patrocinar
     id: patrocinio
-    theme: is-primary width-box box-fill
+    theme: is-dark width-full box-fill
     text: >
       En la TRG intentamos huir de la figura del «sponsor» habitual y
       consideramos a nuestros patrocinadores verdaderos socios. Nos preocupamos
@@ -92,12 +94,10 @@ blocks:
 
 
       [Versión en inglés](https://bit.ly/trg24-deck-EN)
-  - type: separator
-    width: is-full
   - type: faq
     title: FAQ
     id: faq
-    theme: is-light width-box box-fill
+    theme: is-dark width-full box-fill
     questions:
       - question: ¿A quién está dirigido este evento? ¿Es para mi?
         answer: >
@@ -161,30 +161,30 @@ blocks:
   - type: contact
     title: Contacto
     id: contacto
-    theme: is-light width-box box-fill
+    theme: is-dark width-full box-fill
     items:
       - title: Candela Milán Dopico
         info: Event manager
         links:
-          - url: "mailto:tarugoconf@bonillaware.com"
+          - url: 'mailto:tarugoconf@bonillaware.com'
             icon: envelope
             text: tarugoconf@bonillaware.com
-          - url: "https://twitter.com/candelamd"
+          - url: 'https://twitter.com/candelamd'
             icon: twitter-logo
-            text: "@candelamd"
+            text: '@candelamd'
       - title: Bonillaware SLU
-        info: "Castellana 194, Cink Coworking<br>28046 Madrid (España)"
+        info: 'Castellana 194, Cink Coworking<br>28046 Madrid (España)'
         links:
-          - url: "https://g.page/cink-coworking?share"
+          - url: 'https://g.page/cink-coworking?share'
             icon: map-pin
             text: Ver mapa
-          - url: "https://tarugoconf.slack.com"
+          - url: 'https://tarugoconf.slack.com'
             icon: slack-logo
             text: tarugoconf.slack.com
-          - url: "https://twitter.com/tarugoconf"
+          - url: 'https://twitter.com/tarugoconf'
             icon: twitter-logo
-            text: "@tarugoconf"
+            text: '@tarugoconf'
 metas:
-  image: ""
+  image: ''
 url: /
 title: TRGCON 25
