@@ -7,6 +7,6 @@ const pass = Deno.env.get("CMS_PASSWORD") ?? "";
 
 cms.auth({
   [user]: pass,
-})
+});
 
 export default cms;
