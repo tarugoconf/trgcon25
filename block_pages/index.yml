@@ -11,7 +11,7 @@ blocks:
     intro: "Madrid, noviembre 2025"
   - type: text
     title: Minimo texto de intro
-    theme: is-light width-box box-fill
+    theme: is-dark width-box box-fill
     columns: false
     text: >-
       Un solo track y una única experiencia para todos los asistentes.
@@ -41,12 +41,15 @@ blocks:
 
       diseñadas para que conozcas gente de forma sencilla, natural, agradable y
       segura.
-  - type: video
-    src: /files/video-trg24.mp4
-    text_over: ¿Qué vas a encontrar?
+  - type: vimeo
+    code: "1079153582"
+    cover: /files/video-cover.png
+    caption: Resumen de la edición de 2024.
+    id: video-resumen
   - type: logos
     title: Partners
     id: partners
+    theme: is-dark width-box box-fill
     description: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
       venenatis, laoreet libero ut, lobortis ipsum. Lorem ipsum dolor sit amet,
@@ -66,7 +69,7 @@ blocks:
   - type: pdf
     title: Cómo patrocinar
     id: patrocinio
-    theme: is-primary width-box box-fill
+    theme: is-dark width-box box-fill
     text: >
       En la TRG intentamos huir de la figura del «sponsor» habitual y
       consideramos a nuestros patrocinadores verdaderos socios. Nos preocupamos
@@ -92,12 +95,10 @@ blocks:
 
 
       [Versión en inglés](https://bit.ly/trg24-deck-EN)
-  - type: separator
-    width: is-full
   - type: faq
     title: FAQ
     id: faq
-    theme: is-light width-box box-fill
+    theme: is-dark width-box box-fill
     questions:
       - question: ¿A quién está dirigido este evento? ¿Es para mi?
         answer: >
@@ -161,7 +162,7 @@ blocks:
   - type: contact
     title: Contacto
     id: contacto
-    theme: is-light width-box box-fill
+    theme: is-dark width-box box-fill
     items:
       - title: Candela Milán Dopico
         info: Event manager

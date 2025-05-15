@@ -13,14 +13,86 @@
 
 :root {
   /* Colors */
-  --color-primary: CornflowerBlue;
-  --color-secondary: DarkSalmon;
-  --color-dark: black;
-  --color-light: Linen;
+  --color-primary: #2ac1b1;
+  --color-secondary: #2afdf2;
+  --color-dark: #0d121f;
+  --color-light: white;
 
   /* Fonts */
   --font-family-display: Roobert;
   --font-family-ui: Roobert, system-ui, sans-serif;
-  --font-weight-bold: 750;
-  --font-weight-bolder: 900;
+  --font-weight-bold: 550;
+  --font-weight-bolder: 650;
+
+  --border-radius-button: 8px;
+  --neon-effect:
+    0 0 7px var(--color-secondary), 0 0 10px white, 0 0 42px var(
+    --color-secondary
+  ), 0 0 92px #981bca, 0 0 151px var(--color-secondary);
+}
+
+body {
+  --color-lines: #076259;
+  background-color: var(--color-dark);
+  background-image:
+    linear-gradient(var(--color-lines) 1px, transparent 1px),
+    linear-gradient(to right, var(--color-lines) 1px, var(--color-dark) 1px);
+  background-size: 40px 40px;
+}
+
+.block-hero {
+  background: none;
+
+  h1 {
+    color: white;
+    font-size: min(150px, 15vw);
+    font-weight: 700;
+
+    /* text-shadow: var(--neon-effect); */
+    animation: flicker 1.5s infinite alternate;
+  }
+}
+.block-vimeo {
+  background: none;
+  color: white;
+  text-align: center;
+}
+.block-logos-list {
+  a {
+    filter: brightness(4) sepia(100) hue-rotate(130deg);
+    &:hover {
+      filter: brightness(7) drop-shadow(0 0 20px var(--color-secondary));
+    }
+  }
+}
+.button {
+  background-color: color-mix(in srgb, black, var(--color-secondary) 15%);
+  color: var(--color-secondary);
+  border: solid 1px currentColor;
+
+  &:hover {
+    color: white;
+  }
+}
+
+@keyframes flicker {
+  0%, 18%, 22%, 25%, 53%, 57%, 100% {
+    text-shadow: var(--neon-effect);
+  }
+  20%, 24%, 55% {
+    text-shadow: none;
+  }
+}
+
+.box-fill.width-box {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border: 2px solid white;
+  border-radius: 20px;
+  box-shadow:
+    0 0 2px #fff,
+    0 0 2px var(--color-primary),
+    0 0 20px var(--color-primary),
+    0 0 40px #981bca,
+    inset 0 0 20px var(--color-primary);
 }
