@@ -1,59 +1,108 @@
 menu:
   - text: Cómo patrocinar
-    url: "#patrocinio"
+    url: '#patrocinio'
     highlight: false
   - text: Contact
-    url: "#contacto"
+    url: '#contacto'
     highlight: false
 blocks:
   - type: hero
-    title: |
-      <svg width="876" height="783" viewBox="0 0 876 783" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M312.94 547.36V488.4h65.57v58.96h74.71v-93.78l-45.06-39.92H282.84l-44.61 39.94v93.76h74.71ZM378.51 576.44v126.24h-65.57V576.44h-74.71v161.07l44.63 39.47h125.28l45.08-39.46V576.44h-74.71ZM552.05 137.41V79.34h63.37v27.27h76.47V44.46L645.45 5.04H522.02l-46.45 39.42v92.95h76.48ZM569.68 166.49v57.14h45.74v69.55h-63.37V166.49h-76.48v161.54l45.54 39.45h124.34l46.44-39.42V166.49H569.68ZM452.22 166.49H237.67v200.99h76.91V223.63h11.14l48.27 46.62v96.79h78.23V238.63l-32.14-30.92 32.14-28.86v-12.36ZM314.58 137.41V78.9h60.73v58.51h76.91v-92.9L407.59 5.04H237.67v132.37h76.91ZM4.6 4.6v74.74h66.84v59.6h76.91v-59.6h66.85V4.6M148.35 180.909v186.57H71.44v-199.45h76.49l.42 12.88ZM812.38 249.74l-14.49-65.98-14.23 65.98H726.1l34.76-127.59L727.32 4.6H784l13.93 65.78L812.38 4.6h56.33l-33.54 117.55 34.76 127.59h-57.55ZM50.21 414.1 5.6 454.04v93.32h74.71V488.4h61.17v26.4h74.72v-60.81l-45.98-39.89H50.21ZM211.6 674.09h-70.12v28.59H80.31V576.44H5.6v161.51l44.63 39.47h119.99l45.54-39.44v-59.29h-4.16v-4.6ZM691.57 414.1h-74.28v133.26h74.28V414.1ZM617.29 576.439v3.24l-1.25-3.24H475.69v200.98h74.28v-165.43l63.49 165.43h78.11v-200.98h-74.28ZM604.82 547.36 553.36 414.1h-77.67v133.26h129.13Z" class="logo-fill"/>
-        <path d="M9.19 112.56H0v307.02h9.19V112.56ZM862.62 9.19 830.4 122.12l33.52 123.02h-47.84l-18.22-82.99-17.9 82.99h-47.84l33.52-123.02L733.42 9.19h46.86l17.57 82.99 18.22-82.99h46.54M874.8 0h-66.11l-1.59 7.22-9.08 41.36-8.74-41.29L787.73 0h-66.49l3.34 11.71 31.52 110.46-32.85 120.54-3.16 11.61h67.29l1.56-7.25 8.99-41.7 9.17 41.74 1.59 7.22h67.26l-3.16-11.61-32.85-120.54 31.52-110.46L874.8 0Z" class="logo-stroke"/>
-        <path fill-rule="evenodd" clip-rule="evenodd" d="M178.35 163.48v9.191h-25.4V372.07H66.84V163.48h111.51ZM76.03 362.88h67.73V172.671H76.03V362.88Z" class="logo-stroke"/>
-        <path d="M210.6 0H0V83.93h66.84v55.01h9.19v-64.2H9.19V9.19H210.6v65.55h-66.84v64.2h9.19V83.93h66.84V0h-9.19ZM174.53 411.76l-2.59-2.25H48.45l-2.61 2.34-41.78 37.39L1 451.98v95.38h9.19v-91.27l41.78-37.39h116.54l43.09 37.39v54.11h-65.52v-26.39H75.71v63.55h9.2V493h51.97v26.39h83.91V451.9l-3.17-2.75-43.09-37.39ZM242.26 137.41V9.63h163.59l41.78 36.96v90.82h9.19V42.44l-3.1-2.74-41.78-36.95-2.61-2.31H233.07v136.97h9.19Z" class="logo-stroke"/>
-        <path fill-rule="evenodd" clip-rule="evenodd" d="m456.819 163.48.001 17.42-29.99 26.93 29.99 28.84v134.96h-87.43V272.2l-45.531-43.979h-4.679V372.08h-86.11V172.671h-29.31v-9.191h253.059ZM242.26 362.88h67.719V219.03h17.591l51.02 49.27v94.14h69.04V240.59l-34.3-33 34.3-30.79v-4.129H242.26V362.88Z" class="logo-stroke"/>
-        <path d="M309.98 74.3v63.111h9.2v-53.92h51.53v53.92h9.2v-63.11h-69.93ZM480.17 137.41V46.59l43.54-36.96h120.05l43.53 36.96v55.42h-67.28V74.74h-72.56v62.67h9.19V83.93h54.18V111.21h85.67V42.33l-3.25-2.75-43.53-36.95-2.57-2.19H520.33l-2.57 2.19-43.54 36.95-3.24 2.75v95.08h9.19ZM621.89 547.36V418.7h65.09v128.66h9.19V409.51H612.7v137.85h9.19ZM480.29 547.36V418.7h69.92l49.68 128.66h9.85l-50.95-131.97-2.27-5.88H471.1v137.85h9.19ZM317.54 547.36V493h56.37v54.36h9.2v-63.55h-74.76v63.55h9.19Z" class="logo-stroke"/>
-        <path d="M242.82 547.36v-91.71l41.78-37.39h121.81l42.22 37.39v91.71h9.19v-95.85l-3.1-2.74-42.21-37.39-2.61-2.31H281.09l-2.62 2.34-41.78 37.39-3.06 2.74v95.82h9.19Z" class="logo-stroke"/>
-        <path fill-rule="evenodd" clip-rule="evenodd" d="M556.65 172.671h-.009V288.58h54.179v-60.359h-45.74V163.48h147.981v9.191H696.49v157.51l-46.78 39.71-2.57 2.189H519.4l-2.59-2.25-45.83-39.7V163.48h85.67v9.191Zm-76.48 153.26 42.65 36.949h120.94l43.53-36.949v-153.26H574.28v46.359h45.73v78.75h-72.56V172.671h-67.28v153.26ZM326.471 573.43v9.19h-8.931v115.47h56.37V582.62h-3.42v-9.19h339.92v9.19h-14.24v199.4H610.3l-55.739-145.231V782.02h-83.46v-199.4H457.82v156.99l-3.14 2.741-44.81 39.229H281.12l-47.49-42V582.62h-14.89v-9.19h107.731ZM480.29 772.829h65.08V587.18l71.25 185.649h70.36V582.62h-65.089v21.72l-8.385-21.72H480.29v190.209ZM242.82 735.44l41.78 36.951h121.81l42.22-36.951V582.62h-65.52v124.659h-74.759V582.62H242.82v152.82ZM108.73 573.43v9.19H84.91v115.471h51.97V669.49h83.47v70.58l-48.42 41.951H48.49l-47.49-42V573.43h107.73ZM10.19 735.881l41.78 36.949h116.54l42.65-36.949V678.69h-65.08v28.59H75.71V582.62H10.19v153.261Z" class="logo-stroke"/>
-      </svg>
-    intro: "Madrid, noviembre 2025"
-
+    title: >-
+      <svg width="876" height="783" viewBox="0 0 876 783" fill="none"
+      xmlns="http://www.w3.org/2000/svg">  <path d="M312.94
+      547.36V488.4h65.57v58.96h74.71v-93.78l-45.06-39.92H282.84l-44.61
+      39.94v93.76h74.71ZM378.51 576.44v126.24h-65.57V576.44h-74.71v161.07l44.63
+      39.47h125.28l45.08-39.46V576.44h-74.71ZM552.05
+      137.41V79.34h63.37v27.27h76.47V44.46L645.45 5.04H522.02l-46.45
+      39.42v92.95h76.48ZM569.68
+      166.49v57.14h45.74v69.55h-63.37V166.49h-76.48v161.54l45.54
+      39.45h124.34l46.44-39.42V166.49H569.68ZM452.22
+      166.49H237.67v200.99h76.91V223.63h11.14l48.27
+      46.62v96.79h78.23V238.63l-32.14-30.92 32.14-28.86v-12.36ZM314.58
+      137.41V78.9h60.73v58.51h76.91v-92.9L407.59 5.04H237.67v132.37h76.91ZM4.6
+      4.6v74.74h66.84v59.6h76.91v-59.6h66.85V4.6M148.35
+      180.909v186.57H71.44v-199.45h76.49l.42 12.88ZM812.38
+      249.74l-14.49-65.98-14.23 65.98H726.1l34.76-127.59L727.32 4.6H784l13.93
+      65.78L812.38 4.6h56.33l-33.54 117.55 34.76 127.59h-57.55ZM50.21 414.1 5.6
+      454.04v93.32h74.71V488.4h61.17v26.4h74.72v-60.81l-45.98-39.89H50.21ZM211.6
+      674.09h-70.12v28.59H80.31V576.44H5.6v161.51l44.63
+      39.47h119.99l45.54-39.44v-59.29h-4.16v-4.6ZM691.57
+      414.1h-74.28v133.26h74.28V414.1ZM617.29
+      576.439v3.24l-1.25-3.24H475.69v200.98h74.28v-165.43l63.49
+      165.43h78.11v-200.98h-74.28ZM604.82 547.36 553.36
+      414.1h-77.67v133.26h129.13Z" class="logo-fill"/>  <path d="M9.19
+      112.56H0v307.02h9.19V112.56ZM862.62 9.19 830.4 122.12l33.52
+      123.02h-47.84l-18.22-82.99-17.9 82.99h-47.84l33.52-123.02L733.42
+      9.19h46.86l17.57 82.99 18.22-82.99h46.54M874.8 0h-66.11l-1.59 7.22-9.08
+      41.36-8.74-41.29L787.73 0h-66.49l3.34 11.71 31.52 110.46-32.85 120.54-3.16
+      11.61h67.29l1.56-7.25 8.99-41.7 9.17 41.74 1.59
+      7.22h67.26l-3.16-11.61-32.85-120.54 31.52-110.46L874.8 0Z"
+      class="logo-stroke"/>  <path fill-rule="evenodd" clip-rule="evenodd"
+      d="M178.35 163.48v9.191h-25.4V372.07H66.84V163.48h111.51ZM76.03
+      362.88h67.73V172.671H76.03V362.88Z" class="logo-stroke"/>  <path d="M210.6
+      0H0V83.93h66.84v55.01h9.19v-64.2H9.19V9.19H210.6v65.55h-66.84v64.2h9.19V83.93h66.84V0h-9.19ZM174.53
+      411.76l-2.59-2.25H48.45l-2.61 2.34-41.78 37.39L1
+      451.98v95.38h9.19v-91.27l41.78-37.39h116.54l43.09
+      37.39v54.11h-65.52v-26.39H75.71v63.55h9.2V493h51.97v26.39h83.91V451.9l-3.17-2.75-43.09-37.39ZM242.26
+      137.41V9.63h163.59l41.78
+      36.96v90.82h9.19V42.44l-3.1-2.74-41.78-36.95-2.61-2.31H233.07v136.97h9.19Z"
+      class="logo-stroke"/>  <path fill-rule="evenodd" clip-rule="evenodd"
+      d="m456.819 163.48.001 17.42-29.99 26.93 29.99
+      28.84v134.96h-87.43V272.2l-45.531-43.979h-4.679V372.08h-86.11V172.671h-29.31v-9.191h253.059ZM242.26
+      362.88h67.719V219.03h17.591l51.02 49.27v94.14h69.04V240.59l-34.3-33
+      34.3-30.79v-4.129H242.26V362.88Z" class="logo-stroke"/>  <path d="M309.98
+      74.3v63.111h9.2v-53.92h51.53v53.92h9.2v-63.11h-69.93ZM480.17
+      137.41V46.59l43.54-36.96h120.05l43.53
+      36.96v55.42h-67.28V74.74h-72.56v62.67h9.19V83.93h54.18V111.21h85.67V42.33l-3.25-2.75-43.53-36.95-2.57-2.19H520.33l-2.57
+      2.19-43.54 36.95-3.24 2.75v95.08h9.19ZM621.89
+      547.36V418.7h65.09v128.66h9.19V409.51H612.7v137.85h9.19ZM480.29
+      547.36V418.7h69.92l49.68
+      128.66h9.85l-50.95-131.97-2.27-5.88H471.1v137.85h9.19ZM317.54
+      547.36V493h56.37v54.36h9.2v-63.55h-74.76v63.55h9.19Z"
+      class="logo-stroke"/>  <path d="M242.82
+      547.36v-91.71l41.78-37.39h121.81l42.22
+      37.39v91.71h9.19v-95.85l-3.1-2.74-42.21-37.39-2.61-2.31H281.09l-2.62
+      2.34-41.78 37.39-3.06 2.74v95.82h9.19Z" class="logo-stroke"/>  <path
+      fill-rule="evenodd" clip-rule="evenodd" d="M556.65
+      172.671h-.009V288.58h54.179v-60.359h-45.74V163.48h147.981v9.191H696.49v157.51l-46.78
+      39.71-2.57 2.189H519.4l-2.59-2.25-45.83-39.7V163.48h85.67v9.191Zm-76.48
+      153.26 42.65
+      36.949h120.94l43.53-36.949v-153.26H574.28v46.359h45.73v78.75h-72.56V172.671h-67.28v153.26ZM326.471
+      573.43v9.19h-8.931v115.47h56.37V582.62h-3.42v-9.19h339.92v9.19h-14.24v199.4H610.3l-55.739-145.231V782.02h-83.46v-199.4H457.82v156.99l-3.14
+      2.741-44.81 39.229H281.12l-47.49-42V582.62h-14.89v-9.19h107.731ZM480.29
+      772.829h65.08V587.18l71.25
+      185.649h70.36V582.62h-65.089v21.72l-8.385-21.72H480.29v190.209ZM242.82
+      735.44l41.78
+      36.951h121.81l42.22-36.951V582.62h-65.52v124.659h-74.759V582.62H242.82v152.82ZM108.73
+      573.43v9.19H84.91v115.471h51.97V669.49h83.47v70.58l-48.42
+      41.951H48.49l-47.49-42V573.43h107.73ZM10.19 735.881l41.78
+      36.949h116.54l42.65-36.949V678.69h-65.08v28.59H75.71V582.62H10.19v153.261Z"
+      class="logo-stroke"/></svg>
+    intro: 'Madrid, 23-25 de octubre de 2025'
   - type: text
-    title: Minimo texto de intro
+    title: 3 días / 7 charlas / 1.000 asistentes / 1 comunidad
     theme: is-dark width-box box-fill
     columns: false
     text: >-
-      Un solo track y una única experiencia para todos los asistentes.
+      La TRG es **una conferencia sobre diseño, desarrollo y comercialización de
+      servicios digitales** que nace alrededor de la hiperactiva Comunidad de
+      suscriptores de La Bonilista, una newsletter semanal sobre emprendimiento
+      tecnológico escrita por David Bonilla.
 
 
-      No esperes una conferencia técnica al uso sino una experiencia mucho más
-      intensa, con charlas prácticas que tocan todas las áreas de actividad
-      relacionadas con la industria tecnológica (no solo las técnicas), una
-      altísima interacción con el público, un turno de preguntas que se asemeja
-      a un late night show y un despliegue audiovisual cercano al de un programa
-      de televisión.
+      Es ante todo, **un punto de encuentro para gente que «hace cosas»
+      alrededor del software, la innovación tecnológica e Internet**:
+      desarrolladores, diseñadores, inversores, comerciales, gente de marketing
+      o soporte, administradores de sistemas o recruiters. Aquí nadie sobra y
+      todos son bienvenidos.
 
 
-      Y, fuera del auditorio, un montón de actividades y dinámicas diseñadas
-      para que conozcas gente de forma sencilla, natural, agradable y segura.
-
-
-      No esperes una conferencia técnica al uso sino una experiencia mucho más
-      intensa, con charlas prácticas que tocan todas las áreas de actividad
-      relacionadas con la industria tecnológica (no solo las técnicas), una
-      altísima interacción con el público, un turno de preguntas que se asemeja
-      a un late night show y un despliegue audiovisual cercano al de un programa
-      de televisión.
-
-
-      Y, fuera del auditorio, un montón de actividades y dinámicas
-
-      diseñadas para que conozcas gente de forma sencilla, natural, agradable y
-      segura.
+      Se organiza cuidando cada detalle de forma enfermiza —desde las
+      acreditaciones hasta la oferta gastronómica— para intentar **transformar
+      la asistencia en una experiencia** y aportar el mayor valor posible a
+      asistentes, ponentes y patrocinadores.
   - type: vimeo
-    code: "1079153582"
+    code: '1079153582'
     cover: /files/video-cover.png
     caption: Resumen de la edición de 2024.
     id: video-resumen
@@ -70,13 +119,13 @@ blocks:
     items:
       - alt: Logo
         img: /files/logos/logo.png
-        url: "https://github.com/tarugoconf/TOP"
+        url: 'https://github.com/tarugoconf/TOP'
       - alt: Logo
         img: /files/logos/logo.png
-        url: "https://github.com/tarugoconf/TOP"
+        url: 'https://github.com/tarugoconf/TOP'
       - alt: Logo
         img: /files/logos/logo.png
-        url: "https://github.com/tarugoconf/TOP"
+        url: 'https://github.com/tarugoconf/TOP'
   - type: pdf
     title: Cómo patrocinar
     id: patrocinio
@@ -99,13 +148,13 @@ blocks:
       Si quieres que tu empresa sea parte de la próxima #trg24 puedes mandarnos
       un mail a [tarugoconf@bonillaware.com](mailto:tarugoconf@bonillaware.com)
       ¡Nos encantará charlar contigo!
-    src: /files/TRG24_sponsorship_deck_ES.pdf
+    src: /files/trg25_sponsors_deck_es.pdf
     caption: >-
       [Descarga el dosier del
-      patrocinio](/files/TRG24_sponsorship_deck_ES.pdf){.button}
+      patrocinio]([Link](/files/trg25_sponsors_deck_es.pdf)){.button}
 
 
-      [Versión en inglés](https://bit.ly/trg24-deck-EN)
+      [Versión en inglés]([Link](/files/trg25_sponsors_deck_es.pdf))
   - type: faq
     title: FAQ
     id: faq
@@ -178,25 +227,25 @@ blocks:
       - title: Candela Milán Dopico
         info: Event manager
         links:
-          - url: "mailto:tarugoconf@bonillaware.com"
+          - url: 'mailto:tarugoconf@bonillaware.com'
             icon: envelope
             text: tarugoconf@bonillaware.com
-          - url: "https://twitter.com/candelamd"
+          - url: 'https://twitter.com/candelamd'
             icon: twitter-logo
-            text: "@candelamd"
+            text: '@candelamd'
       - title: Bonillaware SLU
-        info: "Castellana 194, Cink Coworking<br>28046 Madrid (España)"
+        info: 'Castellana 194, Cink Coworking<br>28046 Madrid (España)'
         links:
-          - url: "https://g.page/cink-coworking?share"
+          - url: 'https://g.page/cink-coworking?share'
             icon: map-pin
             text: Ver mapa
-          - url: "https://tarugoconf.slack.com"
+          - url: 'https://tarugoconf.slack.com'
             icon: slack-logo
             text: tarugoconf.slack.com
-          - url: "https://twitter.com/tarugoconf"
+          - url: 'https://twitter.com/tarugoconf'
             icon: twitter-logo
-            text: "@tarugoconf"
+            text: '@tarugoconf'
 metas:
-  image: ""
+  image: ''
 url: /
 title: TRGCON 25
