@@ -106,26 +106,6 @@ blocks:
     cover: /files/video-cover.png
     caption: Resumen de la edición de 2024.
     id: video-resumen
-  - type: logos
-    title: Partners
-    id: partners
-    theme: is-dark width-box box-fill
-    description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
-      venenatis, laoreet libero ut, lobortis ipsum. Lorem ipsum dolor sit amet,
-      consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut,
-      lobortis ipsum.
-    size: medium
-    items:
-      - alt: Logo
-        img: /files/logos/logo.png
-        url: 'https://github.com/tarugoconf/TOP'
-      - alt: Logo
-        img: /files/logos/logo.png
-        url: 'https://github.com/tarugoconf/TOP'
-      - alt: Logo
-        img: /files/logos/logo.png
-        url: 'https://github.com/tarugoconf/TOP'
   - type: pdf
     title: Cómo patrocinar
     id: patrocinio
@@ -138,7 +118,7 @@ blocks:
       relaciones que perduran a lo largo de los años.
 
 
-      - **1200** asistentes a lo largo de los 3 días
+      - Más de **1.000** asistentes a lo largo de los 3 días
 
       - **2** días trending topic nacional
 
@@ -151,10 +131,10 @@ blocks:
     src: /files/trg25_sponsors_deck_es.pdf
     caption: >-
       [Descarga el dosier del
-      patrocinio]([Link](/files/trg25_sponsors_deck_es.pdf)){.button}
+      patrocinio](/files/trg25_sponsors_deck_es.pdf){target=_blank}{.button}
 
 
-      [Versión en inglés]([Link](/files/trg25_sponsors_deck_es.pdf))
+      [Versión en inglés](/files/trg25_sponsors_deck_es.pdf){target=_blank}
   - type: faq
     title: FAQ
     id: faq
@@ -178,8 +158,10 @@ blocks:
       - question: "¿Qué es eso del Community Day del sábado? \U0001F389"
         answer: >
           Una jornada abierta, a la que podréis traer a familia, compañeros y/o
-          amigos, con un montón de actividades para grandes y pequeños. Tenéis
-          mucha más info en [esta página](/community-day/){target=_blank}.
+          amigos, con un montón de actividades para grandes y pequeños.
+
+
+          ¡Muy pronto publicaremos toda la información
       - question: ¿Ofrecéis ayuda para gestionar viajes y/o hoteles?
         answer: >
           Sí, gracias a nuestro partnership con Vyootrip, podéis reservar
@@ -194,20 +176,25 @@ blocks:
           TRG](https://twitter.com/tarugoconf){target=_blank} y,
 
           especialmente, el hashtag
-          [#trg24](https://twitter.com/search?q=%23trg24&src=typed_query&f=live){target=_blank}.
-      - question: "¿Todavía puedo comprar una entrada? \U0001F39F️"
+          [#trgX](https://twitter.com/search?q=%23trgX&src=typed_query&f=live){target=_blank}.
+      - question: "¿Cuándo se podrán comprar entradas? \U0001F39F️"
         answer: >
-          Puedes comparar los diferentes tipos de entrada en [esta
-          página](/entradas/). Si aún quedan disponibles, puedes adquirirlas en
-          [Eventbrite](https://trg24.eventbrite.es){target=_blank}. No quedan
-          muchas, la verdad.
+          Solemos sacar las entradas a la venta en junio.
+
+
+          Avisamos con bastante antelación del día que se ponen a la venta. Los
+          suscriptores de [La
+          Bonilista](https://www.bonilista.com/){target=_blank}, eso sí, pueden
+          **acceder a las entradas *early bird* —de precio reducido— un día
+          antes que el público general**.
       - question: Si mi empresa me paga la entrada ¿Hacéis factura?
         answer: >
           Por supuesto. En la TRG, lo único negro es el futuro de David Bonilla
           como cantante.
       - question: ¿Tenéis Código de Conducta?
-        answer: |
-          Por supuesto que tenemos [Código de Conducta](/codigo-de-conducta).
+        answer: >
+          Por supuesto que tenemos [Código de
+          Conducta](https://2024.trgcon.com/codigo-de-conducta/){target=_blank}.
       - question: Sigo teniendo dudas ¿qué hago?
         answer: >
           No problemo. Visita la sección de [Contacto](/#contacto) de esta misma
