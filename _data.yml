@@ -1,12 +1,12 @@
 title_suffix: TOP event
 metas:
   title: =title
-  site: TRGCON 24
+  site: TRGCON X
   lang: es
-  twitter: null
-  color: '#00ab7d'
+  twitter: '@tarugoconf'
+  color: '#0e111e'
   generator: true
-  image: /files/img-home.png
+  image: ''
 state: post-event
 cta:
   text: Consigue tu entrada
