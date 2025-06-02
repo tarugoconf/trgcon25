@@ -14,7 +14,7 @@
 :root {
   /* Colors */
   --color-primary: #2bc0f2;
-  --color-secondary: #ca1b21;
+  --color-secondary: #EA3368;
   --color-dark: #0d121f;
   --color-light: white;
 
@@ -43,7 +43,7 @@ body {
   background-size: 40px 40px;
 }
 .navbar-logo img {
-  filter: brightness(7) sepia(100%) hue-rotate(110deg);
+  filter: brightness(4) sepia(100%) hue-rotate(310deg);
   transition: filter 200ms;
 
   &:hover {
