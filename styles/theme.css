@@ -60,7 +60,6 @@ body {
   svg {
     display: block;
     max-width: 100%;
-    margin: 0 auto;
     width: 500px;
     height: auto;
     animation: flicker 3s infinite alternate;
@@ -69,6 +68,37 @@ body {
   }
   .logo-fill {
     fill: none;
+  }
+}
+.block-hero-header h1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column-reverse;
+  justify-content: center;
+
+  img {
+    max-width: min(350px, 33vw);
+    z-index: 2;
+    margin: -250px 0 0;
+  }
+  
+  @media (width > 600px) {
+    flex-direction: row;
+    
+    img {
+      margin: 0 -50px 0 0;
+    }
+  }
+
+}
+#intro {
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+  img {
+    object-fit: contain;
+    max-width: min(500px, 50vw);
+    margin: 0 auto;
   }
 }
 .block-vimeo {
@@ -115,4 +145,24 @@ body {
     0 0 16px var(--color-secondary),
     0 0 40px color-mix(in srgb, var(--color-primary), transparent 50%),
     inset 0 0 8px var(--color-primary);
+}
+
+.block-faq-questions {
+  .accordion:hover {
+    background-color: var(--color-primary);
+    color: var(--color-dark);
+  }
+  .accordion[open] {
+    background-color: var(--color-primary);
+    color: var(--color-dark);
+
+    > div {
+      padding-right: 32px;
+      padding-bottom: 32px;
+    }
+
+    a {
+      color: inherit;
+    }
+  }
 }

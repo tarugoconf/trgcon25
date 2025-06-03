@@ -8,7 +8,8 @@ menu:
 blocks:
   - type: hero
     title: >-
-      <svg width="876" height="783" viewBox="0 0 876 783" fill="none"
+      <img class="hero-recreativa" src="/files/recreativa.png"> <svg width="876"
+      height="783" viewBox="0 0 876 783" fill="none"
       xmlns="http://www.w3.org/2000/svg">  <path d="M312.94
       547.36V488.4h65.57v58.96h74.71v-93.78l-45.06-39.92H282.84l-44.61
       39.94v93.76h74.71ZM378.51 576.44v126.24h-65.57V576.44h-74.71v161.07l44.63
@@ -79,10 +80,11 @@ blocks:
       36.949h116.54l42.65-36.949V678.69h-65.08v28.59H75.71V582.62H10.19v153.261Z"
       class="logo-stroke"/></svg>
     intro: 'Madrid, 23-25 de octubre de 2025'
-  - type: text
+  - type: imagetext
     title: 3 días / 7 charlas / 1.000 asistentes / 1 comunidad
-    theme: is-dark width-box box-fill
-    columns: false
+    id: intro
+    theme: is-dark width-full box-fill
+    src: /files/recognizer.png
     text: >-
       La TRG es **una conferencia sobre diseño, desarrollo y comercialización de
       servicios digitales** que nace alrededor de la hiperactiva Comunidad de
@@ -135,10 +137,21 @@ blocks:
 
 
       [Versión en inglés](/files/trg25_sponsors_deck_es.pdf){target=_blank}
+  - type: speakers
+    title: Speakers
+    description: >
+      El «speaker» o ponente de la Tarugoconf no nace, [SE
+      HACE](https://github.com/tarugoconf/TRG24/blob/main/SPEAKERS.md). Estos
+
+      son los awesómicos invitados con los que contaremos este año:
+    theme: is-dark width-full box-fill
+    speakers: []
+  - type: separator
+    width: is-full
   - type: faq
     title: FAQ
     id: faq
-    theme: is-dark width-box box-fill
+    theme: is-dark width-full box-fill
     questions:
       - question: ¿A quién está dirigido este evento? ¿Es para mi?
         answer: >
@@ -232,6 +245,28 @@ blocks:
           - url: 'https://twitter.com/tarugoconf'
             icon: twitter-logo
             text: '@tarugoconf'
+  - type: text
+    title: 3 días / 7 charlas / 1.000 asistentes / 1 comunidad
+    theme: is-dark width-full box-fill
+    columns: false
+    text: >-
+      La TRG es **una conferencia sobre diseño, desarrollo y comercialización de
+      servicios digitales** que nace alrededor de la hiperactiva Comunidad de
+      suscriptores de La Bonilista, una newsletter semanal sobre emprendimiento
+      tecnológico escrita por David Bonilla.
+
+
+      Es ante todo, **un punto de encuentro para gente que «hace cosas»
+      alrededor del software, la innovación tecnológica e Internet**:
+      desarrolladores, diseñadores, inversores, comerciales, gente de marketing
+      o soporte, administradores de sistemas o recruiters. Aquí nadie sobra y
+      todos son bienvenidos.
+
+
+      Se organiza cuidando cada detalle de forma enfermiza —desde las
+      acreditaciones hasta la oferta gastronómica— para intentar **transformar
+      la asistencia en una experiencia** y aportar el mayor valor posible a
+      asistentes, ponentes y patrocinadores.
 metas:
   image: ''
 url: /
