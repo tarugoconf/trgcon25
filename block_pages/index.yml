@@ -245,28 +245,6 @@ blocks:
           - url: 'https://twitter.com/tarugoconf'
             icon: twitter-logo
             text: '@tarugoconf'
-  - type: text
-    title: 3 días / 7 charlas / 1.000 asistentes / 1 comunidad
-    theme: is-dark width-full box-fill
-    columns: false
-    text: >-
-      La TRG es **una conferencia sobre diseño, desarrollo y comercialización de
-      servicios digitales** que nace alrededor de la hiperactiva Comunidad de
-      suscriptores de La Bonilista, una newsletter semanal sobre emprendimiento
-      tecnológico escrita por David Bonilla.
-
-
-      Es ante todo, **un punto de encuentro para gente que «hace cosas»
-      alrededor del software, la innovación tecnológica e Internet**:
-      desarrolladores, diseñadores, inversores, comerciales, gente de marketing
-      o soporte, administradores de sistemas o recruiters. Aquí nadie sobra y
-      todos son bienvenidos.
-
-
-      Se organiza cuidando cada detalle de forma enfermiza —desde las
-      acreditaciones hasta la oferta gastronómica— para intentar **transformar
-      la asistencia en una experiencia** y aportar el mayor valor posible a
-      asistentes, ponentes y patrocinadores.
 metas:
   image: ''
 url: /

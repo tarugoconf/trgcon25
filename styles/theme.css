@@ -166,3 +166,12 @@ body {
     }
   }
 }
+
+#contacto {
+  @media (width > 1050px) {
+    background-image: url(/files/3d.png);
+    background-repeat: no-repeat;
+    background-size: 100px auto;
+    background-position: 80px 100px;
+  }
+}
