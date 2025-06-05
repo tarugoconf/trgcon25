@@ -90,15 +90,19 @@ body {
 }
 #intro {
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 80px;
 
   img {
     object-fit: contain;
     max-width: min(500px, 50vw);
+    height: auto;
     margin: 0 auto;
     animation: recognizer 3s infinite alternate ease-in-out;
+    z-index: 2;
+    position: relative;
   }
 }
+
 @keyframes recognizer {
   from {
     transform: translateY(50px);
@@ -107,6 +111,7 @@ body {
     transform: translateY(0);
   }
 }
+
 top-vimeo img {
   filter: sepia(100%) hue-rotate(190deg) brightness(50%);
 }
