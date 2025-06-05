@@ -885,6 +885,7 @@
     "https://deno.land/x/lume@v3.0.0/plugins/yaml.ts": "d0ebf37c38648172c6b95c502753a3edf60278ab4f6a063f3ca00f31e0dd90cc",
     "https://deno.land/x/lume@v3.0.0/types.ts": "5f580502f366b9b25106eb72d49b30d9af7715c8a304fe6e21f382d3c2a4cc38",
     "https://deno.land/x/lume_cms_adapter@v0.2.2/adapter.ts": "894b2888b9fdfff4eb36edb6a8e2113661e11e583f4ae4c5600459a09b25b2c3",
+    "https://deno.land/x/lume_cms_adapter@v0.2.2/mod.ts": "16b707a5c36dbfeae2fa8cb729804df315930bd3d6e498225569332fbbcbe217",
     "https://deno.land/x/lume_icon_plugins@v0.2.1/catalogs/phosphor.ts": "cc966c642ae20a099590569d1508b0b85afe649a2e9c4ffe7edb96ec851cff94",
     "https://deno.land/x/lume_icon_plugins@v0.2.1/catalogs/utils.ts": "64cf66b209b4174e28365d1d558473aba58799a9cfd0f46150b267df30f01a1e",
     "https://deno.land/x/lume_icon_plugins@v0.2.1/phosphor.ts": "ad6e8ba7b388b476a889313ca0b113767d37e14dee0590b557296a0f431fefdd",
