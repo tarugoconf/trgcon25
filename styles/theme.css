@@ -36,11 +36,17 @@
 
 body {
   --color-lines: #076259;
-  background-color: var(--color-dark);
-  background-image:
-    linear-gradient(var(--color-lines) 1px, transparent 1px),
-    linear-gradient(to right, var(--color-lines) 1px, var(--color-dark) 1px);
-  background-size: 40px 40px;
+  background-image: url("/files/fondo_middle.jpg");
+  background-repeat: repeat;
+  background-position: center;
+}
+.navbar-flexible {
+  background-color: color-mix(in srgb, var(--color-bg) 70%, transparent);
+  backdrop-filter: blur(25px);
+}
+.navbar-menu,
+.navbar-menu a:not(:hover) {
+  background-color: transparent;
 }
 .navbar-logo img {
   filter: brightness(4) sepia(100%) hue-rotate(310deg);
@@ -56,11 +62,15 @@ body {
 
 .block-hero {
   background-color: var(--color-dark);
-  background-image: radial-gradient(
+  background-image: url("/files/fondo_top.png");
+  background-repeat: repeat-x;
+  background-size: auto 100%;
+  background-position: center;
+  /* background-image: radial-gradient(
     closest-side,
     color-mix(in srgb, var(--color-primary) 20%, transparent),
     var(--color-dark)
-  );
+  ); */
 
   svg {
     display: block;
@@ -150,18 +160,26 @@ top-vimeo img {
     filter: none;
   }
 }
-
-.box-fill.width-box {
-  margin-top: 40px;
-  margin-bottom: 40px;
-  border: 2px solid var(--color-primary);
-  border-radius: 20px;
-  box-shadow:
-    0 0 16px var(--color-secondary),
-    0 0 40px color-mix(in srgb, var(--color-primary), transparent 50%),
-    inset 0 0 8px var(--color-primary);
+.theme.is-dark {
+  background: none;
 }
+.block-header {
+  background: none;
+  color: var(--color-light);
 
+  a {
+    color: var(--color-primary);
+  }
+
+  .markdown-alert {
+    background: black;
+    margin-top: 20px;
+  }
+}
+.block-tickets {
+  background: none;
+  --color-highlight: rgb(0, 11, 16);
+}
 .block-faq-questions {
   .accordion:hover {
     background-color: var(--color-primary);
