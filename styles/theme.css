@@ -14,7 +14,7 @@
 :root {
   /* Colors */
   --color-primary: #2bc0f2;
-  --color-secondary: #EA3368;
+  --color-secondary: #ea3368;
   --color-dark: #0d121f;
   --color-light: white;
 
@@ -25,20 +25,23 @@
   --font-weight-bolder: 650;
 
   --border-radius-button: 8px;
-  --neon-effect:
-      drop-shadow(0 0 2px var(--color-primary))
-      drop-shadow(0 0 8px var(--color-secondary))
-      drop-shadow(0 0 32px var(--color-primary));
-  --neon-effect2:
-      drop-shadow(0 0 4px var(--color-primary))
-      drop-shadow(0 0 32px var(--color-secondary));
+  --neon-effect: drop-shadow(0 0 2px var(--color-primary)) drop-shadow(
+    0
+    0
+    8px
+    var(--color-secondary)
+  ) drop-shadow(0 0 32px var(--color-primary));
+  --neon-effect2: drop-shadow(0 0 4px var(--color-primary)) drop-shadow(
+    0
+    0
+    32px
+    var(--color-secondary)
+  );
 }
 
 body {
   --color-lines: #076259;
-  background-image: url("/files/fondo_middle.jpg");
-  background-repeat: repeat;
-  background-position: center;
+  background-color: var(--color-dark);
 }
 .navbar-flexible {
   background-color: color-mix(in srgb, var(--color-bg) 70%, transparent);
@@ -46,26 +49,57 @@ body {
 }
 .navbar-menu,
 .navbar-menu a:not(:hover) {
-  background-color: transparent;
+  background-color: var(--color-bg);
 }
 .navbar-logo img {
-  filter: brightness(4) sepia(100%) hue-rotate(310deg);
+  filter: brightness(7) sepia(100%) hue-rotate(110deg) var(--neon-effect2);
   transition: filter 200ms;
 
   &:hover {
-    filter: brightness(7) sepia(100%) hue-rotate(110deg) var(--neon-effect2);
+    filter: brightness(4) sepia(100%) hue-rotate(110deg) var(--neon-effect);
   }
 }
 .footer-logo {
   filter: brightness(7) sepia(100%) hue-rotate(110deg) var(--neon-effect2);
 }
+.block-speakers {
+  gap: 40px;
+}
+.speaker {
+  background-color: var(--color-dark);
+  color: var(--color-primary);
+  border: solid 1px;
+  border-left-width: 6px;
+  border-bottom-width: 6px;
+  border-radius: 0;
+
+  &:hover {
+    color: var(--color-secondary);
+    box-shadow: -10px 10px 0 currentColor;
+  }
+}
+.modal {
+  background-color: var(--color-primary);
+}
+.speaker-modal-links a {
+  border-radius: 0;
+  color: white;
+  border: solid 1px;
+  &:hover {
+    color: var(--color-dark);
+  }
+
+  svg {
+    fill: currentColor;
+  }
+}
 
 .block-hero {
   background-color: var(--color-dark);
-  background-image: url("/files/fondo_top.png");
   background-repeat: repeat-x;
   background-size: auto 100%;
   background-position: center;
+  padding-top: 80px;
   /* background-image: radial-gradient(
     closest-side,
     color-mix(in srgb, var(--color-primary) 20%, transparent),
@@ -96,7 +130,7 @@ body {
     max-width: min(175px, 25vw);
     z-index: 2;
     margin: 0 0 -25px -120px;
-  }  
+  }
 }
 #intro {
   padding-top: 40px;
