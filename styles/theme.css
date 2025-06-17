@@ -101,16 +101,16 @@ body {
   background-size: auto 100%;
   background-position: center;
   padding-top: 80px;
-  /* background-image: radial-gradient(
+  background-image: radial-gradient(
     closest-side,
     color-mix(in srgb, var(--color-primary) 20%, transparent),
     var(--color-dark)
-  ); */
+  );
 
   svg {
     display: block;
-    max-width: 100%;
-    width: 500px;
+    max-width: 80%;
+    width: 1100px;
     height: auto;
     animation: flicker 3s infinite alternate;
     animation-timing-function: linear;
