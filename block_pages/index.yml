@@ -1,9 +1,9 @@
 menu:
   - text: Cómo patrocinar
-    url: "#patrocinio"
+    url: '#patrocinio'
     highlight: false
   - text: Contacto
-    url: "#contacto"
+    url: '#contacto'
     highlight: false
 blocks:
   - type: hero
@@ -79,12 +79,12 @@ blocks:
       41.951H48.49l-47.49-42V573.43h107.73ZM10.19 735.881l41.78
       36.949h116.54l42.65-36.949V678.69h-65.08v28.59H75.71V582.62H10.19v153.261Z"
       class="logo-stroke"/></svg>
-    intro: "Madrid, 23-25 de octubre de 2025"
+    intro: 'Madrid, 23-25 de octubre de 2025'
   - type: imagetext
     title: 3 días / 7 charlas / 1.000 asistentes / 1 comunidad
     id: intro
     theme: is-dark width-full box-fill
-    src: /files/recognizer.png
+    src: /files/TRGCON 25 - icon ON LINE.svg
     text: >-
       La TRG es **una conferencia sobre diseño, desarrollo y comercialización de
       servicios digitales** que nace alrededor de la hiperactiva Comunidad de
@@ -104,7 +104,7 @@ blocks:
       la asistencia en una experiencia** y aportar el mayor valor posible a
       asistentes, ponentes y patrocinadores.
   - type: vimeo
-    code: "1079153582"
+    code: '1079153582'
     cover: /files/video-cover.png
     caption: Resumen de la edición de 2024.
     id: video-resumen
@@ -154,7 +154,7 @@ blocks:
         image: /files/oyabun.jpg
         links:
           - icon: x-logo
-            url: "https://x.com/oyabun"
+            url: 'https://x.com/oyabun'
   - type: separator
     width: is-full
   - type: faq
@@ -236,25 +236,25 @@ blocks:
       - title: Candela Milán Dopico
         info: Event manager
         links:
-          - url: "mailto:tarugoconf@bonillaware.com"
+          - url: 'mailto:tarugoconf@bonillaware.com'
             icon: envelope
             text: tarugoconf@bonillaware.com
-          - url: "https://twitter.com/candelamd"
+          - url: 'https://twitter.com/candelamd'
             icon: twitter-logo
-            text: "@candelamd"
+            text: '@candelamd'
       - title: Bonillaware SLU
-        info: "Castellana 194, Cink Coworking<br>28046 Madrid (España)"
+        info: 'Castellana 194, Cink Coworking<br>28046 Madrid (España)'
         links:
-          - url: "https://g.page/cink-coworking?share"
+          - url: 'https://g.page/cink-coworking?share'
             icon: map-pin
             text: Ver mapa
-          - url: "https://tarugoconf.slack.com"
+          - url: 'https://tarugoconf.slack.com'
             icon: slack-logo
             text: tarugoconf.slack.com
-          - url: "https://twitter.com/tarugoconf"
+          - url: 'https://twitter.com/tarugoconf'
             icon: twitter-logo
-            text: "@tarugoconf"
+            text: '@tarugoconf'
 metas:
-  image: ""
+  image: ''
 url: /
 title: TRGCON 25
