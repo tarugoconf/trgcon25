@@ -59,7 +59,7 @@ blocks:
     tickets:
       - name: Early Bird
         pricing: 165€ + IVA
-        img: /files/TRGCON-25-EARLY-BIRD.png
+        img: /files/TRGCON 25 - icon EARLY BIRD.svg
         buy:
           text: Comprar
           url: "https://trg24.eventbrite.es/"
@@ -75,7 +75,7 @@ blocks:
           - networking
       - name: Normal
         pricing: 250€ + IVA
-        img: /files/TRGCON-25-NORMAL.png
+        img: /files/TRGCON 25 - icon NORMAL.svg
         buy:
           text: Comprar
           url: "https://trg24.eventbrite.es/"
@@ -91,7 +91,7 @@ blocks:
           - networking
       - name: Killer Combo
         pricing: 350€ + IVA
-        img: /files/TRGCON-25-KILLER_COMBO.png
+        img: /files/TRGCON 25 - icon KILLER_COMBO.svg
         buy:
           text: Comprar
           url: "https://trg24.eventbrite.es/"
@@ -108,7 +108,7 @@ blocks:
           - networking
       - name: Taller
         pricing: 150€ + IVA
-        img: /files/TRGCON-25-TALLERES.png
+        img: /files/TRGCON 25 - icon TALLERES.svg
         buy:
           text: Comprar
           url: "https://trg24.eventbrite.es/"
@@ -118,7 +118,7 @@ blocks:
           - workshop
       - name: Mecenas
         pricing: 500€ + IVA
-        img: /files/TRGCON-25-MECENAS.png
+        img: /files/TRGCON 25 - icon MECENAS.svg
         buy:
           text: Comprar
           url: "https://trg24.eventbrite.es/"

@@ -17,6 +17,7 @@
   --color-secondary: #ea3368;
   --color-dark: #0d121f;
   --color-light: white;
+  --color-highlight: color-mix(in srgb, var(--color-primary) 10%, transparent);
 
   /* Fonts */
   --font-family-display: Roobert;
@@ -206,13 +207,14 @@ top-vimeo img {
   }
 
   .markdown-alert {
-    background: black;
+    background: var(--color-highlight);
     margin-top: 20px;
   }
 }
 .block-tickets {
   background: none;
-  --color-highlight: rgb(0, 11, 16);
+  --color-highlight: color-mix(in srgb, var(--color-primary) 10%, transparent);
+  --color-border: var(--color-highlight);
 }
 .block-faq-questions {
   .accordion:hover {
