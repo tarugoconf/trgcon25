@@ -40,10 +40,6 @@
   );
 }
 
-body {
-  --color-lines: #076259;
-  background-color: var(--color-dark);
-}
 .navbar-flexible {
   background-color: color-mix(in srgb, var(--color-bg) 70%, transparent);
   backdrop-filter: blur(25px);
@@ -191,9 +187,6 @@ top-vimeo img {
   }
 }
 
-.theme.is-dark {
-  background: none;
-}
 .block-header {
   background: none;
   color: var(--color-light);
@@ -229,6 +222,16 @@ top-vimeo img {
     a {
       color: inherit;
     }
+  }
+}
+.block-calendar {
+  .event {
+    border-radius: 0;
+  }
+  .event[open],
+  .event summary:hover {
+    background-color: var(--color-primary);
+    color: var(--color-dark);
   }
 }
 

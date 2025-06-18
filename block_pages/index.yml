@@ -8,23 +8,17 @@ menu:
 blocks:
   - type: hero
     title: >-
-      <picture>
-        <source srcset="/files/trgcon-desktop.png" media="(min-width: 700px)" />
-        <img srcset="/files/trgcon-mobile.png">
-      </picture>
-      <picture>
-        <source srcset="/files/trgcon-desktop.png" media="(min-width: 700px)" />
-        <img srcset="/files/trgcon-mobile.png">
-      </picture>
-      <picture>
-        <source srcset="/files/trgcon-desktop.png" media="(min-width: 700px)" />
-        <img srcset="/files/trgcon-mobile.png">
-      </picture>
+      <picture>  <source srcset="/files/trgcon-desktop.png" media="(min-width:
+      700px)" />  <img srcset="/files/trgcon-mobile.png"></picture> <picture> 
+      <source srcset="/files/trgcon-desktop.png" media="(min-width: 700px)" /> 
+      <img srcset="/files/trgcon-mobile.png"></picture> <picture>  <source
+      srcset="/files/trgcon-desktop.png" media="(min-width: 700px)" />  <img
+      srcset="/files/trgcon-mobile.png"></picture>
     intro: 'Madrid, 23-25 de octubre de 2025'
   - type: imagetext
     title: 3 días / 7 charlas / 1.000 asistentes / 1 comunidad
     id: intro
-    theme: is-dark width-full box-fill
+    theme: width-full
     src: /files/TRGCON 25 - icon ON LINE.svg
     text: >-
       La TRG es **una conferencia sobre diseño, desarrollo y comercialización de
@@ -52,7 +46,7 @@ blocks:
   - type: pdf
     title: Cómo patrocinar
     id: patrocinio
-    theme: is-dark width-box box-fill
+    theme: width-full
     text: >
       En la TRG intentamos huir de la figura del «sponsor» habitual y
       consideramos a nuestros patrocinadores verdaderos socios. Nos preocupamos
@@ -78,6 +72,407 @@ blocks:
 
 
       [Versión en inglés](/files/trg25_sponsors_deck_es.pdf){target=_blank}
+  - type: separator
+    width: is-full
+  - type: calendar
+    title: Agenda
+    description: >-
+      Una jornada abierta, a la que podréis traer a familia, compañeros y/o
+      amigos, con un montón de actividades para grandes y pequeños.
+    id: calendar
+    theme: width-full
+    days:
+      - title: 'Jueves, 14 de noviembre'
+        events:
+          - time: '15:00h'
+            title: Apertura de puertas y acreditación de asistentes
+            id: apertura-jueves
+            description: >
+              ¡Acredítate antes que nadie y evita las colas del viernes! Trae tu
+              entrada, impresa o en el móvil, y recoge tu awesómico welcome pack
+              antes de disfrutar de todas las actividades y contenido de la TRG
+              ¡Bienvenidos!
+            speakers: []
+          - time: '15:30 - 18:00h'
+            title: TALLERES de patrocinadores
+            id: taller-sponsors
+            subtitle: 'DIVERGER, IZERTIS y FACTORIAL'
+            description: >-
+              Talleres patrocinados por nuestros sponsors, que abren a los
+              asistentes de la TRG que se hagan con una de las invitaciones
+              ¡Hablad con ellos!
+            speakers: []
+          - time: '15:30 - 18:00h'
+            title: 'TALLER: Diseño de producto para no-diseñadores'
+            id: taller-cris
+            subtitle: por Cris Busquets
+            description: >-
+              En este taller, Cris nos enseñará los fundamentos de la
+              disciplina, pero —sobre todo— cómo implementar procesos de diseño
+              de producto que involucren a los diferentes roles necesarios para
+              desarrollar con éxito un producto digital, desde Product Managers
+              a desarrolladores.
+
+
+              Trabajaremos con **casos prácticos** para aprender a colaborar de
+              forma efectiva con un diseñador y cómo debe entregarnos este su
+              trabajo. Acabaremos, a golpe de **plantillas y ejemplos**, con el
+              mito de que los programadores son de Venus, los diseñadores de
+              Marte y jamás podrán entenderse.
+
+
+              Nos llevaremos, instaladas en nuestro ordenador, las
+              **herramientas** necesarias para empezar a hacer Product Design en
+              nuestro equipo; y **documentación y bibliografía** para seguir
+              ampliando nuestros conocimientos.
+            speakers:
+              - cris
+          - time: '15:30 - 18:00h'
+            title: >-
+              TALLER: Herramientas y procesos para equipos de desarrollo de alto
+              rendimiento
+            id: taller-recena
+            subtitle: por Manuel Recena
+            description: >-
+              Este taller lleva DOS AÑOS CONSECUTIVOS PETÁNDOLO, así que, hemos
+              decidido repetirlo de nuevo. Conoceremos las herramientas y
+              procesos necesarios para **conseguir que nuestro ciclo de
+              desarrollo de software sea lo más productivo posible**.
+
+
+              Desde definir OKRs que nos ayuden a medir nuestro progreso hasta
+              establecer el flujo de trabajo necesario para **conseguir que el
+              despliegue en producción de nuestro software sea tan frecuente
+              como ABURRIDO** —porque nunca pase nada— pasando por los
+              radiadores de información necesarios para que todo el mundo sepa
+              lo que está pasando en cada momento.
+
+
+              Da igual si tu equipo de desarrollo es mejor o peor, de este
+              taller te llevarás un montón de ideas y buenas prácticas para que
+              sea MEJOR.
+            speakers:
+              - recena
+          - time: '15:30 - 18:00h'
+            title: 'TALLER: De técnicos a Tech Leads'
+            id: taller-felix
+            subtitle: por Félix López
+            description: >-
+              En este taller se diseccionará el rol de Tech Lead y **los
+              asistentes aprenderán no solo las responsabilidades habituales del
+              mismo, sino también las métricas, herramientas, documentación y
+              procesos que les ayudarán a alcanzarlas**.
+
+
+              Pero un taller debe ser práctico, por eso Félix os planteará
+              algunas de las situaciones y experiencias más complejas que podrás
+              encontrar como líder técnico, y así experimentar cómo se puede
+              aplicar todo lo aprendido para llevar a tu equipo al próximo
+              nivel.
+            speakers:
+              - felix
+          - time: '18:00 - 20:00h'
+            title: Networking Tarugo
+            id: networking-jueves
+            subtitle: "Conoce a gente nueva \U0001F60A"
+            description: >-
+              Actividades y dinámicas divertidas para que los asistentes se
+              conozcan entre sí en un ambiente distendido y seguro.
+
+
+              Si no conoces a nadie, saldrás con un grupo con el que compartir
+              el resto de la conferencia y, si vienes acompañado, ampliarás el
+              circulo con el que interactuarás durante el resto del evento.
+            speakers: []
+          - time: '20:00 - 22:00h'
+            title: Juicio al Trabajo Remoto
+            id: podcasting-jueves
+            subtitle: Crossover de los podcasts Mixx.io y Heavy Mental
+            description: >-
+              Alex Barredo, del popular podcast de tecnología
+              [Mixx.io](https://x.com/mixx_io){target="_blank"}, y Miki, David y
+              Javi de [Heavy
+              Mental](https://x.com/HeavyMental_es){target="_blank"}, reeditarán
+              el crossover del año pasado sin evitar el elefante dentro de la
+              habitación, más bien ATROPELLÁNDOLO: **Trabajo Remoto... ¿sí o
+              no?**
+
+
+              El público podrá interactuar con los presentadores e intervenir en
+              un podcast único gestionado como un auténtico *late night show*.
+
+
+              Los has escuchado MUCHAS veces, pero NUNCA como hoy !!!
+            speakers: []
+      - title: 'Viernes, 15 de noviembre'
+        events:
+          - time: '9:00h'
+            title: Apertura de puerta y acreditación de asistentes
+            id: apertura-viernes
+            description: >-
+              ¡Acredítate antes que nadie y evita las colas! Trae tu entrada,
+              impresa o en el móvil, y disfruta de todas las actividades y
+              contenido de la TRG.
+
+
+              Te recibiremos con **café, bica gallega y fruta**... además de
+              amenizar la espera con la música [Don
+              Robot](https://www.youtube.com/watch?v=ltXX9Ab6vuo){target="_blank"},
+              nuestro DJ Residente.
+
+
+              ¡Bienvenidos!
+            speakers: []
+          - time: '10:00 - 10:15h'
+            title: Regreso al Futuro
+            id: keynote
+            subtitle: Keynote
+            description: >-
+              En la apertura de la TRG puede pasar cualquier cosa, desde que
+              alguien salga vestido de comandante de la Fuerza Aerea Gallega
+              hasta que aparezca Steve Jobs. Te podrá gustar más o menos, pero
+              no te dejará indiferente.
+
+
+              En esta keynote, David nos dará toda la información para disfrutar
+              del evento y nos planteará un reto imposible... o no.
+            speakers:
+              - david-bonilla
+          - time: '10:15 - 11:00h'
+            title: Hardware abierto en tiempos de modelos cerrados
+            id: charla-cuartielles
+            subtitle: por David Cuartielles
+            description: >-
+              En una era en la que las grandes multinacionales tecnológicas se
+              plantean desarrollar su propio *hierro* para soportar y optimizar
+              la inmensa capacidad de cálculo que necesitan para entrenar sus
+              modelos de IA, David nos explicará porqué es más necesario que
+              nunca que haya hardware abierto y potente disponible para
+              cualquiera.
+
+
+              Huele a cerrado. Es hora de airear.
+            speakers:
+              - david-cuartielles
+          - time: '11:00 - 11:45h'
+            title: La tecnología para luchar contra la desinformación
+            id: charla-clara
+            subtitle: por Clara Jiménez Cruz
+            description: >-
+              Cada día generamos más información que en los 2000 años anteriores
+              JUNTOS.
+
+
+              En este contexto, la tecnología se hace imprescindible para
+              separar el polvo de la paja y Clara nos contará como la utiliza en
+              su día a día para determinar lo que es verdad y lo que no.
+            speakers:
+              - clara
+          - time: '11:45 - 12:00h'
+            title: ¿Donde está Boni?
+            subtitle: Demo del juego ¿de mesa? de la TRG24
+            description: >-
+              Como en cada edición, cada asistente se llevará a casa un juego de
+              mesa original que disfrutar con amigos y familia.
+
+
+              En este ocasión, tendremos que encontrar a alguien muy particular
+              en un contexto muy especial...
+            speakers: []
+          - time: '12:00 - 12:45h'
+            title: ☕ Coffe Break
+            subtitle: ofrecido por Factorial
+            description: >-
+              Café, snacks y pastitas para llenar las tripitas.
+
+
+              Este intermedio estará amenizado por el DJ residente de la TRG
+              —**Don Robot**- que nos llevará a 1955 con un recorrido por la
+              música que podría escuchar Marty McFly durante la primera mitad de
+              la década de los 50.
+            speakers: []
+          - time: '12:45 - 13:00h'
+            title: ¡El precio Justo!
+            subtitle: ofrecido por Diverger
+            description: >-
+              Un concursote de Lanzarote en el que los asistentes de la TRG
+              podrán demostrar sus conocimientos sobre el bisnes de la
+              Informática y ¡ganar suculentos premios!
+            speakers: []
+          - time: '13:00 - 13:45h'
+            title: Curar con algoritmos
+            id: charla-aurelia
+            subtitle: por Aurelia Bustos
+            description: >-
+              Los medios dibujan la Inteligencia Artificial como una tecnología
+              que pareciera servir solo para crear imágenes más o menos
+              aparentes y generar canciones dándole a un botón, pero eso sólo
+              rasca la superficie de la revolución que va a suponer en nuestro
+              día a día.
+
+
+              En esta charla, Aurelia nos contará **una aplicación real de la
+              IA, alejada de la fanfarria de los *prompts* y las herramientas
+              generativas**: la mejora de diagnósticos clínicos a partir de
+              algoritmos que permitan —por ejemplo— identificar un tumor con más
+              precisión que el ojo humano. Y, también, **su experiencia creando
+              una startup alrededor de todo ese valor sin tener que marcharse a
+              Silicon Valley**.
+            speakers:
+              - aurelia
+          - time: '13:45 - 14:30h'
+            title: 'Evangelismo técnico: qué, cómo y por qué'
+            id: charla-trisha
+            subtitle: Trisha Gee
+            description: >-
+              *Developer Advocacy*, *Technical Evangelism*, *Developer Relations
+              (DevRel)*... no hemos parado de escuchar estos términos durante
+              los últimos diez años, pero ¿qué significan realmente?
+
+
+              En su presentación, Trisha nos contará la historia detrás de estos
+              roles, por qué una empresa podría necesitar una o más personas
+              para desempeñarlos, y las buenas y malas prácticas que ha
+              identificado a lo largo de su carrera.
+
+
+              Después de esta charla, comprenderás **por qué no podemos ignorar
+              el evangelismo técnico si trabajamos en la industría del
+              software**. 
+            speakers:
+              - trisha
+          - time: '14:30 - 16:30h'
+            title: "\U0001F419 Comida y Pulpeirada"
+            id: comida-viernes
+            subtitle: ofrecido por SNGULAR
+            description: >-
+              Diferentes opciones gastronómicas ecológicas, sostenibles y mucho
+              gallegas... incluyendo a Anxo —nuestro pulpeiro de O Carballiño—
+              que distribuirá **300 raciones de pulpo *a feira* recien hecho**,
+              y muchas mas cosas distribuidas por las mesas para que nadie tenga
+              que esperar ninguna cola.
+
+
+              Y, por supuesto, contaremos con opciones veganas y sin gluten.
+            speakers: []
+          - time: '16:30 - 16:45'
+            title: ¿Qué saben los muggles?
+            subtitle: Video
+            description: >-
+              Nuestros intrépidos reporteros se lanzarán a la calle, micrófono
+              en mano, para averiguar hasta qué punto el público general -sin
+              experiencia técnica- conoce el día a día del sector informático.
+            speakers: []
+          - time: '16:45 - 17:30'
+            title: No montes un estudio de videojuegos
+            id: charla-daniel
+            subtitle: por Daniel Sanchez-Crespo
+            description: >-
+              ¿Cuánto cuesta desarrollar un videojuego? ¿Cuántas unidades tendré
+              que vender para que sea rentable?
+
+
+              En esta charla, Dani nos contará **todas las cifras que derías
+              saber —pero que nadie te contará— antes de montar un estudio de
+              videojuegos**. Si Dani no puede convencerte para que no lo hagas,
+              al menos te ayudará para que tengas más probabilidades de hacerlo
+              con éxito
+            speakers:
+              - dani-novarama
+          - time: '17:30 - 18:15 '
+            title: Effective data
+            id: charla-giuseppe
+            subtitle: por Giuseppe Sollazzo
+            description: >-
+              Los informáticos trabajan con la matería prima más cara y
+              peligrosa del mundo, la información.
+
+
+              En este charla, Giuseppe nos explicará las mejores prácticas sobre
+              gestión de datos que ha identificado liderando múltiples proyectos
+              para el Gobierno del Reino Unido. Información que ha generado un
+              verdadero impacto en la vida de los ciudadanos británicos.
+            speakers:
+              - giuseppe
+          - time: '18:15 - 19:00h'
+            title: "\U0001F36A Merienda"
+            id: merienda-viernes
+            description: >-
+              Café y bollería artesanal para aguantar hasta el final.
+
+
+              En esta ocasión, Don Robot nos llevará hasta ese 1985 de «Regreso
+              al Futuro» con una selección de música para recargar las pilas con
+              la energía de los 80.
+            speakers: []
+          - time: '19:00 - 19:15'
+            title: "\U0001F3B0 La Jerocleta"
+            description: >-
+              Sorteo de jugosos premios entre todos los que hayan tuiteado con
+              el hashtag
+              [#trg24](https://x.com/search?q=%23trg24&src=typed_query&f=live){target="_blank"},
+              realizado con la mítica «Jerocleta» de **Jerónimo López**. Sin
+              duda alguna, el software español más utilizado de la historía.
+
+
+              Cuanto más tuitees, más posibilidades tendrás de ganar.
+            speakers: []
+          - time: '19:15 - 20:00h'
+            title: Cómo crear una App de pago único (y no morir en el intento)
+            id: charla-rafa
+            subtitle: por Rafael Pons
+            description: >-
+              1. Crea software que resuelva un problema o ayude a realizar una
+              tarea por el que la gente esté dispuesta a pagar.
+
+              2. Cobra una cuota mensual o anual por usarlo.
+
+
+              PhotoPills se ha atrevido a desafiar la «receta del éxito» y con
+              más de 800.000 descargas en todo el mundo, se ha convertido en la
+              herramienta definitiva para planificar y ejecutar ideas
+              fotográficas... sin ninguna inversión externa.
+
+
+              Rafael nos contará su particular *receta* y como la han cocinado
+              no en Silicon Valley sino en Menorca.
+
+
+              En esta charla, descubrirás que hay otras formas de emprender en
+              Tecnología y ~~las hostias~~ lecciones aprendidas de una startup
+              que decidió no seguir el cámino habitual.
+            speakers:
+              - rafa-pons
+          - time: '20:00 - 20:30h'
+            title: Rendición de cuentas
+            id: rendicion-cuentas
+            description: >-
+              Como ya es tradición, **haremos públicas todas las cifras del
+              evento** -fuentes de ingresos, partidas de gastos y cuenta de
+              resultados-, agradeceremos el esfuerzo a todo el equipo de
+              profesionales y voluntarios que lo hacen posible y vislumbraremos
+              qué podemos esperar para el año que viene.
+            speakers:
+              - david-bonilla
+          - time: '20:30 - 22:30h'
+            title: "\U0001F973 Legendaria Fiesta Taruga"
+            id: fiesta
+            subtitle: ofrecida por Eventbrite
+            description: >-
+              Transformaremos La Nave en una auténtica "Sesión Vermú" con comida
+              y bebida, churros, música y las mejores conversaciones del planeta
+              porque... LA VIDA PUEDE SER MARAVILLOSA.
+
+
+              * **INTRO** - ¿Qué sonaba en 2015? Don Robot nos hará dar un
+              último salto musical para bailar grandes éxitos del rock y la
+              electrónica hasta el supuesto futuro que planteaba «Regreso al
+              Futuro II».
+
+              * **MAIN EVENT** - Stay tuned Antunez!
+            speakers: []
+      - title: 'Sábado, 16 de noviembre'
+        events: []
   - type: speakers
     title: Speakers
     description: >
@@ -85,7 +480,7 @@ blocks:
       HACE](https://github.com/tarugoconf/TRG24/blob/main/SPEAKERS.md). Estos
 
       son los awesómicos invitados con los que contaremos este año:
-    theme: is-dark width-full box-fill
+    theme: width-full
     speakers:
       - name: Javier Alonso
         id: oyabun
@@ -129,7 +524,7 @@ blocks:
   - type: faq
     title: FAQ
     id: faq
-    theme: is-dark width-full box-fill
+    theme: width-full
     questions:
       - question: ¿A quién está dirigido este evento? ¿Es para mi?
         answer: >
@@ -227,3 +622,4 @@ metas:
   image: ''
 url: /
 title: TRGCON 25
+theme: is-dark
