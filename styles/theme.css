@@ -103,7 +103,7 @@ body {
   padding-top: 80px;
   background-image: radial-gradient(
     closest-side,
-    color-mix(in srgb, var(--color-primary) 20%, transparent),
+    color-mix(in srgb, var(--color-secondary) 25%, transparent),
     var(--color-dark)
   );
 }
@@ -115,22 +115,26 @@ body {
   align-items: end;
 
   img {
-    grid-area: 1 / 1;
     display: block;
-    max-width: 80%;
+    max-width: 80vw;
     width: 1100px;
     height: auto;
+    margin: auto;
+  }
+
+  > * {
+    grid-area: 1 / 1;
     
     &:nth-child(1) {
-      animation: glitch1 5s infinite;
+      animation: glitch1 10s infinite;
     }
     &:nth-child(2) {
-      animation: glitch2 2s infinite;
+      animation: glitch2 4s infinite;
       animation-delay: 1s;
       clip-path: polygon(0 25%, 100% 25%, 100% 70%, 0 70%);
     }
     &:nth-child(3) {
-      animation: glitch3 3.5s infinite;
+      animation: glitch3 7s infinite;
       animation-delay: 2s;
       clip-path: polygon(0 70%, 100% 70%, 100% 100%, 0 100%);
     }
@@ -242,51 +246,51 @@ top-vimeo img {
     transform: none;
     opacity: 1;
   }
-  7% {
+  3% {
     transform: skew(-0.5deg, 0deg);
     opacity: 0.75;
   }
-  10% {
+  5% {
     transform: none;
     opacity: 1;
   }
-  27% {
+  13% {
     transform: none;
     opacity: 1;
   }
-  30% {
+  15% {
     transform: skew(0.8deg, 0deg);
     opacity: 0.75;
   }
-  35% {
+  17% {
     transform: none;
     opacity: 1;
   }
-  52% {
+  26% {
     transform: none;
     opacity: 1;
   }
-  55% {
+  28% {
     transform: skew(-1deg, 0deg);
     opacity: 0.75;
   }
-  50% {
+  30% {
     transform: none;
     opacity: 1;
   }
-  72% {
+  36% {
     transform: none;
     opacity: 1;
   }
-  75% {
+  38% {
     transform: skew(0.4deg, 0deg);
     opacity: 0.75;
   }
-  80% {
+  40% {
     transform: none;
     opacity: 1;
   }
-  100% {
+  50% {
     transform: none;
     opacity: 1;
   }
@@ -297,51 +301,51 @@ top-vimeo img {
     transform: none;
     opacity: 0.25;
   }
-  7% {
+  3% {
     transform: translate(-2px, -3px);
     opacity: 0.5;
   }
-  10% {
+  5% {
     transform: none;
     opacity: 0.25;
   }
-  27% {
+  13% {
     transform: none;
     opacity: 0.25;
   }
-  30% {
+  15% {
     transform: translate(-5px, -2px);
     opacity: 0.5;
   }
-  35% {
+  17% {
     transform: none;
     opacity: 0.25;
   }
-  52% {
+  26% {
     transform: none;
     opacity: 0.25;
   }
-  55% {
+  28% {
     transform: translate(-5px, -1px);
     opacity: 0.5;
   }
-  50% {
+  30% {
     transform: none;
     opacity: 0.25;
   }
-  72% {
+  36% {
     transform: none;
     opacity: 0.25;
   }
-  75% {
+  38% {
     transform: translate(-2px, -6px);
     opacity: 0.5;
   }
-  80% {
+  40% {
     transform: none;
     opacity: 0.25;
   }
-  100% {
+  50% {
     transform: none;
     opacity: 0.25;
   }
@@ -352,51 +356,51 @@ top-vimeo img {
     transform: none;
     opacity: 0.25;
   }
-  7% {
+  3% {
     transform: translate(2px, 3px);
     opacity: 0.5;
   }
-  10% {
+  5% {
     transform: none;
     opacity: 0.25;
   }
-  27% {
+  13% {
     transform: none;
     opacity: 0.25;
   }
-  30% {
+  15% {
     transform: translate(5px, 2px);
     opacity: 0.5;
   }
-  35% {
+  17% {
     transform: none;
     opacity: 0.25;
   }
-  52% {
+  26% {
     transform: none;
     opacity: 0.25;
   }
-  55% {
+  28% {
     transform: translate(5px, 1px);
     opacity: 0.5;
   }
-  50% {
+  30% {
     transform: none;
     opacity: 0.25;
   }
-  72% {
+  36% {
     transform: none;
     opacity: 0.25;
   }
-  75% {
+  38% {
     transform: translate(2px, 6px);
     opacity: 0.5;
   }
-  80% {
+  40% {
     transform: none;
     opacity: 0.25;
   }
-  100% {
+  50% {
     transform: none;
     opacity: 0.25;
   }

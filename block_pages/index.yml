@@ -8,9 +8,18 @@ menu:
 blocks:
   - type: hero
     title: >-
-      <img src="/files/trgcon-bg.svg">
-      <img src="/files/trgcon-bg.svg">
-      <img src="/files/trgcon-bg.svg">
+      <picture>
+        <source srcset="/files/trgcon-desktop.png" media="(min-width: 700px)" />
+        <img srcset="/files/trgcon-mobile.png">
+      </picture>
+      <picture>
+        <source srcset="/files/trgcon-desktop.png" media="(min-width: 700px)" />
+        <img srcset="/files/trgcon-mobile.png">
+      </picture>
+      <picture>
+        <source srcset="/files/trgcon-desktop.png" media="(min-width: 700px)" />
+        <img srcset="/files/trgcon-mobile.png">
+      </picture>
     intro: 'Madrid, 23-25 de octubre de 2025'
   - type: imagetext
     title: 3 días / 7 charlas / 1.000 asistentes / 1 comunidad
@@ -87,6 +96,34 @@ blocks:
         links:
           - icon: x-logo
             url: 'https://x.com/oyabun'
+      - name: Paloma Barreiro
+        id: paloma
+        image: /files/Paloma Barreiro.jpg
+        links: []
+      - name: TBC
+        id: tbc1
+        image: /files/MODELO 3.jpg
+        links: []
+      - name: TBC
+        id: tbc2
+        image: /files/MODELO 4.jpg
+        links: []
+      - name: Hugo Tobío
+        id: hugo
+        image: /files/MODELO 2.jpg
+        links: []
+      - name: TBC
+        id: tbc3
+        image: /files/MODELO 5.jpg
+        links: []
+      - name: TBC
+        id: tbc4
+        image: /files/MODELO 6.jpg
+        links: []
+      - name: TBC
+        id: tbc5
+        image: /files/MODELO 7.jpg
+        links: []
   - type: separator
     width: is-full
   - type: faq
