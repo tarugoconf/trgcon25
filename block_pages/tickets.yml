@@ -35,7 +35,7 @@ blocks:
       - id: workshop
         text: Entrada a un taller práctico (jueves)
       - id: dinner
-        text: 'Entrada a la cena de mecenas, patrocinadores y ponentes (jueves)'
+        text: "Entrada a la cena de mecenas, patrocinadores y ponentes (jueves)"
       - id: food
         text: Comida y bebida ilimitada durante la jornada principal (viernes)
       - id: party
@@ -62,7 +62,7 @@ blocks:
         img: /files/TRGCON 25 - icon EARLY BIRD.svg
         buy:
           text: Comprar
-          url: 'https://trg24.eventbrite.es/'
+          url: "https://trg24.eventbrite.es/"
           disabled: false
         features:
           - sold_out
@@ -78,7 +78,7 @@ blocks:
         img: /files/TRGCON 25 - icon NORMAL.svg
         buy:
           text: Comprar
-          url: 'https://trg24.eventbrite.es/'
+          url: "https://trg24.eventbrite.es/"
           disabled: false
         features:
           - sold_out
@@ -94,7 +94,7 @@ blocks:
         img: /files/TRGCON 25 - icon KILLER_COMBO.svg
         buy:
           text: Comprar
-          url: 'https://trg24.eventbrite.es/'
+          url: "https://trg24.eventbrite.es/"
           disabled: false
         features:
           - sold_out
@@ -111,7 +111,7 @@ blocks:
         img: /files/TRGCON 25 - icon TALLERES.svg
         buy:
           text: Comprar
-          url: 'https://trg24.eventbrite.es/'
+          url: "https://trg24.eventbrite.es/"
           disabled: false
         features:
           - sold_out
@@ -121,7 +121,7 @@ blocks:
         img: /files/TRGCON 25 - icon MECENAS.svg
         buy:
           text: Comprar
-          url: 'https://trg24.eventbrite.es/'
+          url: "https://trg24.eventbrite.es/"
           disabled: false
         features:
           - sold_out
@@ -140,5 +140,5 @@ blocks:
           - extra
 title: Entradas
 metas:
-  image: ''
+  image: ""
 theme: is-dark

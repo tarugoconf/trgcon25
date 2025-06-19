@@ -120,7 +120,7 @@
 
   > * {
     grid-area: 1 / 1;
-    
+
     &:nth-child(1) {
       animation: glitch1 10s infinite;
     }
@@ -226,13 +226,26 @@ top-vimeo img {
 }
 .block-calendar {
   .event {
-    border-radius: 0;
+    border: solid 1px var(--color-secondary);
   }
   .event[open],
   .event summary:hover {
     background-color: var(--color-primary);
     color: var(--color-dark);
   }
+  .event[open],
+  .event:has(summary:hover) {
+    border-color: var(--color-primary);
+  }
+  .event[open] {
+    box-shadow: 0 0 50px
+      color-mix(in srgb, var(--color-secondary) 50%, transparent);
+    z-index: 2;
+  }
+}
+
+.badge {
+  color: var(--color-dark);
 }
 
 #contacto {
@@ -242,6 +255,15 @@ top-vimeo img {
     background-size: 100px auto;
     background-position: 80px 100px;
   }
+}
+
+.block-separator.is-full {
+  height: 92px;
+  background-image: url("/files/separator1.png");
+  background-repeat: repeat-x;
+  background-position: center center;
+  background-size: 400px 122px;
+  border: none;
 }
 
 @keyframes glitch1 {
