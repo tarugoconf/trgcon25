@@ -2,6 +2,9 @@ menu:
   - text: Cómo patrocinar
     url: "#patrocinio"
     highlight: false
+  - text: Community Day
+    url: /community-day/
+    highlight: true
   - text: Contacto
     url: "#contacto"
     highlight: false
@@ -472,7 +475,15 @@ blocks:
               * **MAIN EVENT** - Stay tuned Antunez!
             speakers: []
       - title: "Sábado, 16 de noviembre"
-        events: []
+        events:
+          - time: "11:00 - 16:00h"
+            label: Community day
+            description: >-
+              Una jornada abierta, a la que podréis traer a familia, compañeros
+              y/o
+                    amigos, con un montón de actividades para grandes y pequeños. Tenéis mucha
+                    más info [en esta página](/community-day/).
+            speakers: []
   - type: speakers
     title: Speakers
     description: >
