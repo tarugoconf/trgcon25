@@ -103,27 +103,30 @@
     var(--color-dark)
   );
 }
-.block-hero-header h1 {
-  display: grid;
-  align-items: center;
-  flex-direction: row-reverse;
-  justify-content: center;
-  align-items: end;
+.block-hero-header {
+  > h1 {
+    display: none;
+  }
+
+  > p {
+    display: grid;
+    align-items: center;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: end;
+  }
 
   img {
     display: block;
     max-width: 80vw;
-    width: 1100px;
+    width: 800px;
     height: auto;
     margin: auto;
   }
 
-  > * {
-    grid-area: 1 / 1;
+  > p > * {
+    grid-area: 2 / 1;
 
-    &:nth-child(1) {
-      animation: glitch1 10s infinite;
-    }
     &:nth-child(2) {
       animation: glitch2 4s infinite;
       animation-delay: 1s;
@@ -275,7 +278,7 @@ top-vimeo img {
     opacity: 1;
   }
   3% {
-    transform: skew(-0.5deg, 0deg);
+    transform: translatex(-6px);
     opacity: 0.75;
   }
   5% {
@@ -287,7 +290,7 @@ top-vimeo img {
     opacity: 1;
   }
   15% {
-    transform: skew(0.8deg, 0deg);
+    transform: translatex(6px);
     opacity: 0.75;
   }
   17% {
@@ -299,7 +302,7 @@ top-vimeo img {
     opacity: 1;
   }
   28% {
-    transform: skew(-1deg, 0deg);
+    transform: translatex(-6px);
     opacity: 0.75;
   }
   30% {
@@ -311,7 +314,7 @@ top-vimeo img {
     opacity: 1;
   }
   38% {
-    transform: skew(0.4deg, 0deg);
+    transform: translatex(6px);
     opacity: 0.75;
   }
   40% {
@@ -330,7 +333,7 @@ top-vimeo img {
     opacity: 0.25;
   }
   3% {
-    transform: translate(-2px, -3px);
+    transform: skewX(2deg);
     opacity: 0.5;
   }
   5% {
@@ -342,7 +345,7 @@ top-vimeo img {
     opacity: 0.25;
   }
   15% {
-    transform: translate(-5px, -2px);
+    transform: skewX(-2deg);
     opacity: 0.5;
   }
   17% {
@@ -354,7 +357,7 @@ top-vimeo img {
     opacity: 0.25;
   }
   28% {
-    transform: translate(-5px, -1px);
+    transform: skewX(5deg);
     opacity: 0.5;
   }
   30% {
@@ -366,7 +369,7 @@ top-vimeo img {
     opacity: 0.25;
   }
   38% {
-    transform: translate(-2px, -6px);
+    transform: none;
     opacity: 0.5;
   }
   40% {
@@ -385,7 +388,7 @@ top-vimeo img {
     opacity: 0.25;
   }
   3% {
-    transform: translate(2px, 3px);
+    transform: translatex(-6px);
     opacity: 0.5;
   }
   5% {
@@ -397,7 +400,7 @@ top-vimeo img {
     opacity: 0.25;
   }
   15% {
-    transform: translate(5px, 2px);
+    transform: translatex(6px);
     opacity: 0.5;
   }
   17% {
@@ -409,7 +412,7 @@ top-vimeo img {
     opacity: 0.25;
   }
   28% {
-    transform: translate(5px, 1px);
+    transform: translatex(-6px);
     opacity: 0.5;
   }
   30% {
@@ -421,7 +424,7 @@ top-vimeo img {
     opacity: 0.25;
   }
   38% {
-    transform: translate(2px, 6px);
+    transform: translatex(6px);
     opacity: 0.5;
   }
   40% {

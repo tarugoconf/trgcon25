@@ -10,14 +10,16 @@ menu:
     highlight: false
 blocks:
   - type: hero
-    title: >-
-      <picture>  <source srcset="/files/trgcon-desktop.png" media="(min-width:
+    title: TRGCONx
+    intro: |
+      Madrid, 23-25 de octubre de 2025
+
+      <picture>  <source srcset="/files/trgcon-desktop-2.png" media="(min-width:
       700px)" />  <img srcset="/files/trgcon-mobile.png"></picture> <picture>
-      <source srcset="/files/trgcon-desktop.png" media="(min-width: 700px)" />
+      <source srcset="/files/trgcon-desktop-2.png" media="(min-width: 700px)" />
       <img srcset="/files/trgcon-mobile.png"></picture> <picture>  <source
-      srcset="/files/trgcon-desktop.png" media="(min-width: 700px)" />  <img
+      srcset="/files/trgcon-desktop-2.png" media="(min-width: 700px)" />  <img
       srcset="/files/trgcon-mobile.png"></picture>
-    intro: "Madrid, 23-25 de octubre de 2025"
   - type: imagetext
     title: 3 días / 7 charlas / 1.000 asistentes / 1 comunidad
     id: intro
