@@ -263,12 +263,22 @@ top-vimeo img {
   }
 }
 
-.block-separator.is-full {
+#patrocinio2 + .block-separator.is-default {
   height: 92px;
-  background-image: url("/files/separator1.png");
+  background-image: url("/files/separator2.svg");
   background-repeat: repeat-x;
   background-position: center center;
-  background-size: 400px 122px;
+  background-size: 400px auto;
+  border: none;
+  grid-column: 1/-1;
+}
+
+.block-separator.is-full {
+  height: 200px;
+  background-image: url("/files/separator3.svg");
+  background-repeat: repeat-x;
+  background-position: center center;
+  background-size: auto 100%;
   border: none;
 }
 

@@ -1,12 +1,12 @@
 menu:
   - text: Cómo patrocinar
-    url: "#patrocinio"
+    url: '#patrocinio'
     highlight: false
   - text: Community Day
     url: /community-day/
     highlight: true
   - text: Contacto
-    url: "#contacto"
+    url: '#contacto'
     highlight: false
 blocks:
   - type: hero
@@ -14,12 +14,12 @@ blocks:
     intro: |
       Madrid, 23-25 de octubre de 2025
 
-      <picture>  <source srcset="/files/trgcon-desktop-2.png" media="(min-width:
-      700px)" />  <img srcset="/files/trgcon-mobile.png"></picture> <picture>
-      <source srcset="/files/trgcon-desktop-2.png" media="(min-width: 700px)" />
-      <img srcset="/files/trgcon-mobile.png"></picture> <picture>  <source
-      srcset="/files/trgcon-desktop-2.png" media="(min-width: 700px)" />  <img
-      srcset="/files/trgcon-mobile.png"></picture>
+      <picture>  <source srcset="/files/trgcon-desktop3.png" media="(min-width:
+      700px)" />  <img srcset="/files/trgcon-mobile3.png"></picture> <picture>
+      <source srcset="/files/trgcon-desktop3.png" media="(min-width: 700px)" />
+      <img srcset="/files/trgcon-mobile3.png"></picture> <picture>  <source
+      srcset="/files/trgcon-desktop3.png" media="(min-width: 700px)" />  <img
+      srcset="/files/trgcon-mobile3.png"></picture>
   - type: imagetext
     title: 3 días / 7 charlas / 1.000 asistentes / 1 comunidad
     id: intro
@@ -44,7 +44,7 @@ blocks:
       la asistencia en una experiencia** y aportar el mayor valor posible a
       asistentes, ponentes y patrocinadores.
   - type: vimeo
-    code: "1079153582"
+    code: '1079153582'
     cover: /files/video-cover.png
     caption: Resumen de la edición de 2024.
     id: video-resumen
@@ -87,9 +87,9 @@ blocks:
     id: calendar
     theme: width-full
     days:
-      - title: "Jueves, 14 de noviembre"
+      - title: 'Jueves, 14 de noviembre'
         events:
-          - time: "15:00h"
+          - time: '15:00h'
             title: Apertura de puertas y acreditación de asistentes
             id: apertura-jueves
             description: >
@@ -98,17 +98,17 @@ blocks:
               antes de disfrutar de todas las actividades y contenido de la TRG
               ¡Bienvenidos!
             speakers: []
-          - time: "15:30 - 18:00h"
+          - time: '15:30 - 18:00h'
             title: TALLERES de patrocinadores
             id: taller-sponsors
-            subtitle: "DIVERGER, IZERTIS y FACTORIAL"
+            subtitle: 'DIVERGER, IZERTIS y FACTORIAL'
             description: >-
               Talleres patrocinados por nuestros sponsors, que abren a los
               asistentes de la TRG que se hagan con una de las invitaciones
               ¡Hablad con ellos!
             speakers: []
-          - time: "15:30 - 18:00h"
-            title: "TALLER: Diseño de producto para no-diseñadores"
+          - time: '15:30 - 18:00h'
+            title: 'TALLER: Diseño de producto para no-diseñadores'
             id: taller-cris
             subtitle: por Cris Busquets
             description: >-
@@ -132,7 +132,7 @@ blocks:
               ampliando nuestros conocimientos.
             speakers:
               - cris
-          - time: "15:30 - 18:00h"
+          - time: '15:30 - 18:00h'
             title: >-
               TALLER: Herramientas y procesos para equipos de desarrollo de alto
               rendimiento
@@ -158,8 +158,8 @@ blocks:
               sea MEJOR.
             speakers:
               - recena
-          - time: "15:30 - 18:00h"
-            title: "TALLER: De técnicos a Tech Leads"
+          - time: '15:30 - 18:00h'
+            title: 'TALLER: De técnicos a Tech Leads'
             id: taller-felix
             subtitle: por Félix López
             description: >-
@@ -176,7 +176,7 @@ blocks:
               nivel.
             speakers:
               - felix
-          - time: "18:00 - 20:00h"
+          - time: '18:00 - 20:00h'
             title: Networking Tarugo
             id: networking-jueves
             subtitle: "Conoce a gente nueva \U0001F60A"
@@ -189,7 +189,7 @@ blocks:
               el resto de la conferencia y, si vienes acompañado, ampliarás el
               circulo con el que interactuarás durante el resto del evento.
             speakers: []
-          - time: "20:00 - 22:00h"
+          - time: '20:00 - 22:00h'
             title: Juicio al Trabajo Remoto
             id: podcasting-jueves
             subtitle: Crossover de los podcasts Mixx.io y Heavy Mental
@@ -209,9 +209,9 @@ blocks:
 
               Los has escuchado MUCHAS veces, pero NUNCA como hoy !!!
             speakers: []
-      - title: "Viernes, 15 de noviembre"
+      - title: 'Viernes, 15 de noviembre'
         events:
-          - time: "9:00h"
+          - time: '9:00h'
             title: Apertura de puerta y acreditación de asistentes
             id: apertura-viernes
             description: >-
@@ -228,7 +228,7 @@ blocks:
 
               ¡Bienvenidos!
             speakers: []
-          - time: "10:00 - 10:15h"
+          - time: '10:00 - 10:15h'
             title: Regreso al Futuro
             id: keynote
             subtitle: Keynote
@@ -243,7 +243,7 @@ blocks:
               del evento y nos planteará un reto imposible... o no.
             speakers:
               - david-bonilla
-          - time: "10:15 - 11:00h"
+          - time: '10:15 - 11:00h'
             title: Hardware abierto en tiempos de modelos cerrados
             id: charla-cuartielles
             subtitle: por David Cuartielles
@@ -259,7 +259,7 @@ blocks:
               Huele a cerrado. Es hora de airear.
             speakers:
               - david-cuartielles
-          - time: "11:00 - 11:45h"
+          - time: '11:00 - 11:45h'
             title: La tecnología para luchar contra la desinformación
             id: charla-clara
             subtitle: por Clara Jiménez Cruz
@@ -273,7 +273,7 @@ blocks:
               su día a día para determinar lo que es verdad y lo que no.
             speakers:
               - clara
-          - time: "11:45 - 12:00h"
+          - time: '11:45 - 12:00h'
             title: ¿Donde está Boni?
             subtitle: Demo del juego ¿de mesa? de la TRG24
             description: >-
@@ -284,7 +284,7 @@ blocks:
               En este ocasión, tendremos que encontrar a alguien muy particular
               en un contexto muy especial...
             speakers: []
-          - time: "12:00 - 12:45h"
+          - time: '12:00 - 12:45h'
             title: ☕ Coffe Break
             subtitle: ofrecido por Factorial
             description: >-
@@ -296,7 +296,7 @@ blocks:
               música que podría escuchar Marty McFly durante la primera mitad de
               la década de los 50.
             speakers: []
-          - time: "12:45 - 13:00h"
+          - time: '12:45 - 13:00h'
             title: ¡El precio Justo!
             subtitle: ofrecido por Diverger
             description: >-
@@ -304,7 +304,7 @@ blocks:
               podrán demostrar sus conocimientos sobre el bisnes de la
               Informática y ¡ganar suculentos premios!
             speakers: []
-          - time: "13:00 - 13:45h"
+          - time: '13:00 - 13:45h'
             title: Curar con algoritmos
             id: charla-aurelia
             subtitle: por Aurelia Bustos
@@ -325,8 +325,8 @@ blocks:
               Silicon Valley**.
             speakers:
               - aurelia
-          - time: "13:45 - 14:30h"
-            title: "Evangelismo técnico: qué, cómo y por qué"
+          - time: '13:45 - 14:30h'
+            title: 'Evangelismo técnico: qué, cómo y por qué'
             id: charla-trisha
             subtitle: Trisha Gee
             description: >-
@@ -346,7 +346,7 @@ blocks:
               software**.
             speakers:
               - trisha
-          - time: "14:30 - 16:30h"
+          - time: '14:30 - 16:30h'
             title: "\U0001F419 Comida y Pulpeirada"
             id: comida-viernes
             subtitle: ofrecido por SNGULAR
@@ -360,7 +360,7 @@ blocks:
 
               Y, por supuesto, contaremos con opciones veganas y sin gluten.
             speakers: []
-          - time: "16:30 - 16:45"
+          - time: '16:30 - 16:45'
             title: ¿Qué saben los muggles?
             subtitle: Video
             description: >-
@@ -368,7 +368,7 @@ blocks:
               en mano, para averiguar hasta qué punto el público general -sin
               experiencia técnica- conoce el día a día del sector informático.
             speakers: []
-          - time: "16:45 - 17:30"
+          - time: '16:45 - 17:30'
             title: No montes un estudio de videojuegos
             id: charla-daniel
             subtitle: por Daniel Sanchez-Crespo
@@ -384,7 +384,7 @@ blocks:
               con éxito
             speakers:
               - dani-novarama
-          - time: "17:30 - 18:15 "
+          - time: '17:30 - 18:15 '
             title: Effective data
             id: charla-giuseppe
             subtitle: por Giuseppe Sollazzo
@@ -399,7 +399,7 @@ blocks:
               verdadero impacto en la vida de los ciudadanos británicos.
             speakers:
               - giuseppe
-          - time: "18:15 - 19:00h"
+          - time: '18:15 - 19:00h'
             title: "\U0001F36A Merienda"
             id: merienda-viernes
             description: >-
@@ -410,7 +410,7 @@ blocks:
               al Futuro» con una selección de música para recargar las pilas con
               la energía de los 80.
             speakers: []
-          - time: "19:00 - 19:15"
+          - time: '19:00 - 19:15'
             title: "\U0001F3B0 La Jerocleta"
             description: >-
               Sorteo de jugosos premios entre todos los que hayan tuiteado con
@@ -422,7 +422,7 @@ blocks:
 
               Cuanto más tuitees, más posibilidades tendrás de ganar.
             speakers: []
-          - time: "19:15 - 20:00h"
+          - time: '19:15 - 20:00h'
             title: Cómo crear una App de pago único (y no morir en el intento)
             id: charla-rafa
             subtitle: por Rafael Pons
@@ -448,7 +448,7 @@ blocks:
               que decidió no seguir el cámino habitual.
             speakers:
               - rafa-pons
-          - time: "20:00 - 20:30h"
+          - time: '20:00 - 20:30h'
             title: Rendición de cuentas
             id: rendicion-cuentas
             description: >-
@@ -459,7 +459,7 @@ blocks:
               qué podemos esperar para el año que viene.
             speakers:
               - david-bonilla
-          - time: "20:30 - 22:30h"
+          - time: '20:30 - 22:30h'
             title: "\U0001F973 Legendaria Fiesta Taruga"
             id: fiesta
             subtitle: ofrecida por Eventbrite
@@ -476,9 +476,9 @@ blocks:
 
               * **MAIN EVENT** - Stay tuned Antunez!
             speakers: []
-      - title: "Sábado, 16 de noviembre"
+      - title: 'Sábado, 16 de noviembre'
         events:
-          - time: "11:00 - 16:00h"
+          - time: '11:00 - 16:00h'
             label: Community day
             description: >-
               Una jornada abierta, a la que podréis traer a familia, compañeros
@@ -503,7 +503,7 @@ blocks:
         image: /files/oyabun.jpg
         links:
           - icon: x-logo
-            url: "https://x.com/oyabun"
+            url: 'https://x.com/oyabun'
       - name: Paloma Barreiro
         id: paloma
         image: /files/Paloma Barreiro.jpg
@@ -556,27 +556,27 @@ blocks:
     items:
       - alt: Panel
         img: /files/panel_negro_2.png
-        url: "https://www.panel.es/"
+        url: 'https://www.panel.es/'
         description: El cambio empieza en TI.
       - alt: SNGULAR
         img: /files/logos/sngular-logo-big.png
-        url: "https://www.sngular.com/"
+        url: 'https://www.sngular.com/'
         description: Ecosistema global de talento y tecnología.
-      - alt: "540"
+      - alt: '540'
         img: /files/logos/logo_540_negro.png
-        url: "https://www.540deg.com/"
+        url: 'https://www.540deg.com/'
         description: Desarrollo de software de calidad con pragmatismo.
       - alt: Izertis
         img: /files/izertis_logo.png
-        url: "https://www.izertis.com/es/"
+        url: 'https://www.izertis.com/es/'
         description: Pasión por la tecnología.
       - alt: Diverger
         img: /files/dvg_logos-09.png
-        url: "https://diverger.ai/"
+        url: 'https://diverger.ai/'
         description: Desarrollamos software con IA Generativa y el mejor talento humano.
       - alt: Extramile
         img: /files/logos/extramile.png
-        url: "https://extramilecloud.com/"
+        url: 'https://extramilecloud.com/'
         description: Mapas Inteligentes.
       - alt: Factorial
         img: /files/lbqy_factorial_logo_color.png
@@ -587,27 +587,27 @@ blocks:
           personas.
       - alt: Tinybird
         img: /files/logos/tinybird.png
-        url: "https://www.tinybird.co/"
+        url: 'https://www.tinybird.co/'
         description: >-
           Construye proyectos de software basados en datos de forma sencilla y
           escalable.
       - alt: Next Digital
         img: /files/positivoverticalnextdigital.png
-        url: "https://www.nextdigital.es/"
+        url: 'https://www.nextdigital.es/'
         description: >-
           Especialistas en Desarrollo de Software de calidad e Ingeniería de
           Datos.
       - alt: Slimbook
         img: /files/slimbook_logo.png
-        url: "https://slimbook.com/"
+        url: 'https://slimbook.com/'
         description: Los mejores ordenadores Linux y Windows.
       - alt: DoIT
         img: /files/logos/doit_logo.png
-        url: "https://www.doit.com/"
-        description: "Simplify cloud costs, amplify engineering excellence."
+        url: 'https://www.doit.com/'
+        description: 'Simplify cloud costs, amplify engineering excellence.'
       - alt: STR Sistemas
         img: /files/logos/logo2_str.png
-        url: "https://www.strsistemas.com/"
+        url: 'https://www.strsistemas.com/'
         description: El SysAdmin de tu empresa
       - alt: ING
         img: /files/ing_logo.png
@@ -616,46 +616,45 @@ blocks:
         description: Do your thing.
       - alt: Playtomic
         img: /files/playtomic-logo.png
-        url: "https://playtomic.io/"
+        url: 'https://playtomic.io/'
         description: Encuentra dónde y con quién jugar a Pádel & Tenis al instante.
       - alt: SUPERMONO
         img: /files/supermono_logo_red.png
-        url: "https://supermo.no/"
+        url: 'https://supermo.no/'
         description: Get superpowers for your Mailchimp account!
       - alt: Holafly
         img: /files/holafly-logo.png
-        url: "https://esim.holafly.com/es/"
+        url: 'https://esim.holafly.com/es/'
         description: Mantente conectado donde sea que vayas.
       - alt: Shakers
         img: /files/logo_shakers.png
-        url: "https://www.shakersworks.com/"
+        url: 'https://www.shakersworks.com/'
         description: La casa del freeworking.
       - alt: Eventbrite
         img: /files/logos/eventbrite_logo.png
-        url: "https://www.eventbrite.es/"
+        url: 'https://www.eventbrite.es/'
         description: Proveedor Oficial de Ticketing de la TRG.
       - alt: Ayuntamiento de Madrid
         img: /files/logos/lanave_logo_footer.png
-        url: "https://www.lanavemadrid.com/"
+        url: 'https://www.lanavemadrid.com/'
         description: Ayuntamiento de Madrid.
-  - type: separator
-    width: is-default
   - type: logos
+    id: patrocinio2
     theme: width-full
     size: small
     items:
       - alt: Manfred
         img: /files/logos/manfred.png
-        url: "https://www.getmanfred.com/"
+        url: 'https://www.getmanfred.com/'
       - alt: Grupo Billingham
         img: /files/logos/logo_billingham.png
-        url: "https://www.grupobillingham.com/"
+        url: 'https://www.grupobillingham.com/'
       - alt: Metricool
         img: /files/logos/report-logo-metricool-1.png
-        url: "https://metricool.com/es/"
+        url: 'https://metricool.com/es/'
       - alt: Vyootrip
         img: /files/logos/logo_vyootrip.png
-        url: "https://www.vyootrip.com/trgcon/"
+        url: 'https://www.vyootrip.com/trgcon/'
   - type: separator
     width: is-default
   - type: people
@@ -666,100 +665,100 @@ blocks:
     items:
       - name: Fátima Ballesteros
         img: /files/people/fatima.jpg
-        url: "https://www.linkedin.com/in/fatima-ballesteros-11b1183b/"
+        url: 'https://www.linkedin.com/in/fatima-ballesteros-11b1183b/'
       - name: Daniel Ramos
         img: /files/people/danielramos.jpg
-        url: "https://twitter.com/danielramosl"
+        url: 'https://twitter.com/danielramosl'
       - name: David Pardo
         img: /files/people/davidpardo.jpg
-        url: "https://twitter.com/dei_biz"
+        url: 'https://twitter.com/dei_biz'
       - name: Daniel Torres-Burriel
         img: /files/people/torres-burriel.png
-        url: "https://twitter.com/torresburriel"
+        url: 'https://twitter.com/torresburriel'
       - name: Guillermo Montoya
         img: /files/people/GuillermoTRG_2.jpg
-        url: "https://twitter.com/Gmfdsr"
+        url: 'https://twitter.com/Gmfdsr'
       - name: Juán Gil Miqueo
         img: /files/people/juan-miqueo.jpeg
-        url: "https://twitter.com/juan_miqueo"
+        url: 'https://twitter.com/juan_miqueo'
       - name: Cris Santamarina
         img: /files/oayfz05p_400x400.jpg
-        url: "https://x.com/crissantamarina"
+        url: 'https://x.com/crissantamarina'
       - name: Jorge Galindo
         img: /files/jorge-galindo2.jpg
-        url: "https://www.jorgegalindo.me/en"
+        url: 'https://www.jorgegalindo.me/en'
       - name: Toño de la Torre
         img: /files/people/tono-de-la-torre.jpeg
-        url: "https://twitter.com/adelatorrefoss"
+        url: 'https://twitter.com/adelatorrefoss'
       - name: Daniel López
         img: /files/people/daniel-lopez.jpeg
-        url: "http://twitter.com/vomkriege"
+        url: 'http://twitter.com/vomkriege'
       - name: Dimas Suárez
         img: /files/people/dimas.jpg
-        url: "https://massuarez.es/"
+        url: 'https://massuarez.es/'
       - name: Elisardo González
         img: /files/people/elisardo.jpg
-        url: "https://x.com/odrasile"
+        url: 'https://x.com/odrasile'
       - name: Alejandro San Nicolás
         img: /files/people/alejandro.jpg
-        url: "https://www.linkedin.com/in/alejandrosnicolas/"
+        url: 'https://www.linkedin.com/in/alejandrosnicolas/'
       - name: Jordi Mon Companys
         img: /files/people/jordi.jpeg
-        url: "https://twitter.com/JordiMonPMM"
+        url: 'https://twitter.com/JordiMonPMM'
       - name: Boris Gragera
         img: /files/people/boris.jpeg
-        url: "https://www.linkedin.com/in/borisgragera/"
+        url: 'https://www.linkedin.com/in/borisgragera/'
       - name: Paco Gómez
         img: /files/people/francisco-jose.jpeg
-        url: "https://www.linkedin.com/in/fjgomez/"
+        url: 'https://www.linkedin.com/in/fjgomez/'
       - name: Álvaro Amor
         img: /files/people/alvaro-amor.jpeg
-        url: "https://www.linkedin.com/in/alvaroamor/"
+        url: 'https://www.linkedin.com/in/alvaroamor/'
       - name: Alejandro Gómez
         img: /files/people/alejandro_gomez.jpeg
-        url: "https://twitter.com/agomezmoron"
+        url: 'https://twitter.com/agomezmoron'
       - name: Juan Carlos Vez Vázquez
         img: /files/people/juan-carlos.jpeg
-        url: "https://www.linkedin.com/in/juancarlosvezvazquez/"
+        url: 'https://www.linkedin.com/in/juancarlosvezvazquez/'
       - name: Diego Mariño
         img: /files/people/diego-marino.jpeg
-        url: "https://twitter.com/diegomarino"
+        url: 'https://twitter.com/diegomarino'
       - name: Luis Ibañez
         img: /files/whatsapp-image-2024-07-13-at-11.00.04.jpeg
-        url: "https://x.com/ender3_"
+        url: 'https://x.com/ender3_'
       - name: Rubén Arevalillo
         img: /files/ruben.jpg
-        url: "https://x.com/rarevalillo"
+        url: 'https://x.com/rarevalillo'
       - name: Pablo Grueso
         img: /files/pablo_grueso.jpeg
-        url: "https://www.linkedin.com/in/pablogrueso/"
+        url: 'https://www.linkedin.com/in/pablogrueso/'
       - name: Rubén Morgade
         img: /files/ruben_morgade.jpeg
-        url: "https://www.linkedin.com/in/rubenmorgade/"
+        url: 'https://www.linkedin.com/in/rubenmorgade/'
       - name: Joaquín Fernández
         img: /files/joaquin_fernandez.png
-        url: "https://x.com/Iarwain"
+        url: 'https://x.com/Iarwain'
       - name: David Carrero
         img: /files/carrero.png
-        url: "https://carrero.es/"
+        url: 'https://carrero.es/'
       - name: Iván Fernandez
         img: /files/ivan.jpg
-        url: "https://www.linkedin.com/in/iv%C3%A1n-fern%C3%A1ndez-calvo-21425033/"
+        url: 'https://www.linkedin.com/in/iv%C3%A1n-fern%C3%A1ndez-calvo-21425033/'
       - name: Raúl Cotrina
         img: /files/whatsapp-image-2024-09-04-at-13.00.45.jpeg
-        url: "https://x.com/raulcotrina"
+        url: 'https://x.com/raulcotrina'
       - name: Jose Luis Cases
         img: /files/people/jose-luis-cases.jpeg
-        url: "https://x.com/jlcasesES"
+        url: 'https://x.com/jlcasesES'
       - name: Roberto Canales
         img: /files/people/roberto_canales.jpg
-        url: "https://x.com/rcanalesmora"
+        url: 'https://x.com/rcanalesmora'
       - name: Pablo Lara
         img: /files/pablo_lara.jpg
-        url: "https://www.linkedin.com/in/pablolc/"
+        url: 'https://www.linkedin.com/in/pablolc/'
       - name: Javier Ramírez
         img: /files/javier_ramirez.jpg
-        url: "https://www.linkedin.com/in/javierramirezblanes/"
+        url: 'https://www.linkedin.com/in/javierramirezblanes/'
   - type: faq
     title: FAQ
     id: faq
@@ -839,26 +838,26 @@ blocks:
       - title: Candela Milán Dopico
         info: Event manager
         links:
-          - url: "mailto:tarugoconf@bonillaware.com"
+          - url: 'mailto:tarugoconf@bonillaware.com'
             icon: envelope
             text: tarugoconf@bonillaware.com
-          - url: "https://twitter.com/candelamd"
+          - url: 'https://twitter.com/candelamd'
             icon: twitter-logo
-            text: "@candelamd"
+            text: '@candelamd'
       - title: Bonillaware SLU
-        info: "Castellana 194, Cink Coworking<br>28046 Madrid (España)"
+        info: 'Castellana 194, Cink Coworking<br>28046 Madrid (España)'
         links:
-          - url: "https://g.page/cink-coworking?share"
+          - url: 'https://g.page/cink-coworking?share'
             icon: map-pin
             text: Ver mapa
-          - url: "https://tarugoconf.slack.com"
+          - url: 'https://tarugoconf.slack.com'
             icon: slack-logo
             text: tarugoconf.slack.com
-          - url: "https://twitter.com/tarugoconf"
+          - url: 'https://twitter.com/tarugoconf'
             icon: twitter-logo
-            text: "@tarugoconf"
+            text: '@tarugoconf'
 metas:
-  image: ""
+  image: ''
 url: /
 title: TRGCON 25
 theme: is-dark
