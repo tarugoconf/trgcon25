@@ -5,6 +5,7 @@
     "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@63a62991a3557a6982f0f3fade05aa06fe94e397/",
     "lume/jsx-runtime": "https://deno.land/x/ssx@v0.1.10/jsx-runtime.ts"
   },
+  "lock": false,
   "tasks": {
     "lume": "echo \"import 'lume/cli.ts'\" | deno run -A --env-file -",
     "build": "deno task lume",
