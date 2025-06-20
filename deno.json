@@ -2,7 +2,7 @@
   "imports": {
     "lume/": "https://deno.land/x/lume@v3.0.0/",
     "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@57d5a08cf564ecd5e29225c0f644c94ae576e8ba/",
-    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.11.5/",
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@63a62991a3557a6982f0f3fade05aa06fe94e397/",
     "lume/jsx-runtime": "https://deno.land/x/ssx@v0.1.9/jsx-runtime.ts"
   },
   "tasks": {
