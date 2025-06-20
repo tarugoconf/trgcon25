@@ -1,9 +1,9 @@
 {
   "imports": {
-    "lume/": "https://deno.land/x/lume@v3.0.0/",
-    "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@16c75370dcea99eb3be1b1469a623404d04bcb85/",
-    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.11.5/",
-    "lume/jsx-runtime": "https://deno.land/x/ssx@v0.1.9/jsx-runtime.ts"
+    "lume/": "https://deno.land/x/lume@v3.0.3/",
+    "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@2475c842366ea41e1b152b900f599a72e4ed3a18/",
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.12.0/",
+    "lume/jsx-runtime": "https://deno.land/x/ssx@v0.1.10/jsx-runtime.ts"
   },
   "tasks": {
     "lume": "echo \"import 'lume/cli.ts'\" | deno run -A --env-file -",
@@ -20,11 +20,12 @@
     "jsxImportSource": "lume"
   },
   "unstable": [
-    "temporal"
+    "temporal",
+    "fmt-component"
   ],
   "lint": {
     "plugins": [
-      "https://deno.land/x/lume@v3.0.0/lint.ts"
+      "https://deno.land/x/lume@v3.0.3/lint.ts"
     ]
   }
 }

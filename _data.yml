@@ -3,14 +3,14 @@ metas:
   title: =title
   site: TRGCON X
   lang: es
-  twitter: '@tarugoconf'
-  color: '#0e111e'
+  twitter: "@tarugoconf"
+  color: "#0e111e"
   generator: true
-  image: ''
+  image: ""
 state: post-event
 cta:
   text: Consigue tu entrada
-  url: '/#faq'
+  url: /entradas/
 footer:
   logo: /files/logos/logo.png
   copyright: |

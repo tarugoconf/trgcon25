@@ -2,89 +2,29 @@ menu:
   - text: Cómo patrocinar
     url: '#patrocinio'
     highlight: false
+  - text: Community Day
+    url: /community-day/
+    highlight: true
   - text: Contacto
     url: '#contacto'
     highlight: false
 blocks:
   - type: hero
-    title: >-
-      <img class="hero-recreativa" src="/files/recreativa.png"> <svg width="876"
-      height="783" viewBox="0 0 876 783" fill="none"
-      xmlns="http://www.w3.org/2000/svg">  <path d="M312.94
-      547.36V488.4h65.57v58.96h74.71v-93.78l-45.06-39.92H282.84l-44.61
-      39.94v93.76h74.71ZM378.51 576.44v126.24h-65.57V576.44h-74.71v161.07l44.63
-      39.47h125.28l45.08-39.46V576.44h-74.71ZM552.05
-      137.41V79.34h63.37v27.27h76.47V44.46L645.45 5.04H522.02l-46.45
-      39.42v92.95h76.48ZM569.68
-      166.49v57.14h45.74v69.55h-63.37V166.49h-76.48v161.54l45.54
-      39.45h124.34l46.44-39.42V166.49H569.68ZM452.22
-      166.49H237.67v200.99h76.91V223.63h11.14l48.27
-      46.62v96.79h78.23V238.63l-32.14-30.92 32.14-28.86v-12.36ZM314.58
-      137.41V78.9h60.73v58.51h76.91v-92.9L407.59 5.04H237.67v132.37h76.91ZM4.6
-      4.6v74.74h66.84v59.6h76.91v-59.6h66.85V4.6M148.35
-      180.909v186.57H71.44v-199.45h76.49l.42 12.88ZM812.38
-      249.74l-14.49-65.98-14.23 65.98H726.1l34.76-127.59L727.32 4.6H784l13.93
-      65.78L812.38 4.6h56.33l-33.54 117.55 34.76 127.59h-57.55ZM50.21 414.1 5.6
-      454.04v93.32h74.71V488.4h61.17v26.4h74.72v-60.81l-45.98-39.89H50.21ZM211.6
-      674.09h-70.12v28.59H80.31V576.44H5.6v161.51l44.63
-      39.47h119.99l45.54-39.44v-59.29h-4.16v-4.6ZM691.57
-      414.1h-74.28v133.26h74.28V414.1ZM617.29
-      576.439v3.24l-1.25-3.24H475.69v200.98h74.28v-165.43l63.49
-      165.43h78.11v-200.98h-74.28ZM604.82 547.36 553.36
-      414.1h-77.67v133.26h129.13Z" class="logo-fill"/>  <path d="M9.19
-      112.56H0v307.02h9.19V112.56ZM862.62 9.19 830.4 122.12l33.52
-      123.02h-47.84l-18.22-82.99-17.9 82.99h-47.84l33.52-123.02L733.42
-      9.19h46.86l17.57 82.99 18.22-82.99h46.54M874.8 0h-66.11l-1.59 7.22-9.08
-      41.36-8.74-41.29L787.73 0h-66.49l3.34 11.71 31.52 110.46-32.85 120.54-3.16
-      11.61h67.29l1.56-7.25 8.99-41.7 9.17 41.74 1.59
-      7.22h67.26l-3.16-11.61-32.85-120.54 31.52-110.46L874.8 0Z"
-      class="logo-stroke"/>  <path fill-rule="evenodd" clip-rule="evenodd"
-      d="M178.35 163.48v9.191h-25.4V372.07H66.84V163.48h111.51ZM76.03
-      362.88h67.73V172.671H76.03V362.88Z" class="logo-stroke"/>  <path d="M210.6
-      0H0V83.93h66.84v55.01h9.19v-64.2H9.19V9.19H210.6v65.55h-66.84v64.2h9.19V83.93h66.84V0h-9.19ZM174.53
-      411.76l-2.59-2.25H48.45l-2.61 2.34-41.78 37.39L1
-      451.98v95.38h9.19v-91.27l41.78-37.39h116.54l43.09
-      37.39v54.11h-65.52v-26.39H75.71v63.55h9.2V493h51.97v26.39h83.91V451.9l-3.17-2.75-43.09-37.39ZM242.26
-      137.41V9.63h163.59l41.78
-      36.96v90.82h9.19V42.44l-3.1-2.74-41.78-36.95-2.61-2.31H233.07v136.97h9.19Z"
-      class="logo-stroke"/>  <path fill-rule="evenodd" clip-rule="evenodd"
-      d="m456.819 163.48.001 17.42-29.99 26.93 29.99
-      28.84v134.96h-87.43V272.2l-45.531-43.979h-4.679V372.08h-86.11V172.671h-29.31v-9.191h253.059ZM242.26
-      362.88h67.719V219.03h17.591l51.02 49.27v94.14h69.04V240.59l-34.3-33
-      34.3-30.79v-4.129H242.26V362.88Z" class="logo-stroke"/>  <path d="M309.98
-      74.3v63.111h9.2v-53.92h51.53v53.92h9.2v-63.11h-69.93ZM480.17
-      137.41V46.59l43.54-36.96h120.05l43.53
-      36.96v55.42h-67.28V74.74h-72.56v62.67h9.19V83.93h54.18V111.21h85.67V42.33l-3.25-2.75-43.53-36.95-2.57-2.19H520.33l-2.57
-      2.19-43.54 36.95-3.24 2.75v95.08h9.19ZM621.89
-      547.36V418.7h65.09v128.66h9.19V409.51H612.7v137.85h9.19ZM480.29
-      547.36V418.7h69.92l49.68
-      128.66h9.85l-50.95-131.97-2.27-5.88H471.1v137.85h9.19ZM317.54
-      547.36V493h56.37v54.36h9.2v-63.55h-74.76v63.55h9.19Z"
-      class="logo-stroke"/>  <path d="M242.82
-      547.36v-91.71l41.78-37.39h121.81l42.22
-      37.39v91.71h9.19v-95.85l-3.1-2.74-42.21-37.39-2.61-2.31H281.09l-2.62
-      2.34-41.78 37.39-3.06 2.74v95.82h9.19Z" class="logo-stroke"/>  <path
-      fill-rule="evenodd" clip-rule="evenodd" d="M556.65
-      172.671h-.009V288.58h54.179v-60.359h-45.74V163.48h147.981v9.191H696.49v157.51l-46.78
-      39.71-2.57 2.189H519.4l-2.59-2.25-45.83-39.7V163.48h85.67v9.191Zm-76.48
-      153.26 42.65
-      36.949h120.94l43.53-36.949v-153.26H574.28v46.359h45.73v78.75h-72.56V172.671h-67.28v153.26ZM326.471
-      573.43v9.19h-8.931v115.47h56.37V582.62h-3.42v-9.19h339.92v9.19h-14.24v199.4H610.3l-55.739-145.231V782.02h-83.46v-199.4H457.82v156.99l-3.14
-      2.741-44.81 39.229H281.12l-47.49-42V582.62h-14.89v-9.19h107.731ZM480.29
-      772.829h65.08V587.18l71.25
-      185.649h70.36V582.62h-65.089v21.72l-8.385-21.72H480.29v190.209ZM242.82
-      735.44l41.78
-      36.951h121.81l42.22-36.951V582.62h-65.52v124.659h-74.759V582.62H242.82v152.82ZM108.73
-      573.43v9.19H84.91v115.471h51.97V669.49h83.47v70.58l-48.42
-      41.951H48.49l-47.49-42V573.43h107.73ZM10.19 735.881l41.78
-      36.949h116.54l42.65-36.949V678.69h-65.08v28.59H75.71V582.62H10.19v153.261Z"
-      class="logo-stroke"/></svg>
-    intro: 'Madrid, 23-25 de octubre de 2025'
+    title: TRGCONx
+    intro: |
+      Madrid, 23-25 de octubre de 2025
+
+      <picture>  <source srcset="/files/trgcon-desktop3.png" media="(min-width:
+      700px)" />  <img srcset="/files/trgcon-mobile3.png"></picture> <picture>
+      <source srcset="/files/trgcon-desktop3.png" media="(min-width: 700px)" />
+      <img srcset="/files/trgcon-mobile3.png"></picture> <picture>  <source
+      srcset="/files/trgcon-desktop3.png" media="(min-width: 700px)" />  <img
+      srcset="/files/trgcon-mobile3.png"></picture>
   - type: imagetext
     title: 3 días / 7 charlas / 1.000 asistentes / 1 comunidad
     id: intro
-    theme: is-dark width-full box-fill
-    src: /files/recognizer.png
+    theme: width-full
+    src: /files/TRGCON 25 - icon ON LINE.svg
     text: >-
       La TRG es **una conferencia sobre diseño, desarrollo y comercialización de
       servicios digitales** que nace alrededor de la hiperactiva Comunidad de
@@ -111,7 +51,7 @@ blocks:
   - type: pdf
     title: Cómo patrocinar
     id: patrocinio
-    theme: is-dark width-box box-fill
+    theme: width-full
     text: >
       En la TRG intentamos huir de la figura del «sponsor» habitual y
       consideramos a nuestros patrocinadores verdaderos socios. Nos preocupamos
@@ -137,6 +77,415 @@ blocks:
 
 
       [Versión en inglés](/files/trg25_sponsors_deck_es.pdf){target=_blank}
+  - type: separator
+    width: is-full
+  - type: calendar
+    title: Agenda
+    description: >-
+      Una jornada abierta, a la que podréis traer a familia, compañeros y/o
+      amigos, con un montón de actividades para grandes y pequeños.
+    id: calendar
+    theme: width-full
+    days:
+      - title: 'Jueves, 14 de noviembre'
+        events:
+          - time: '15:00h'
+            title: Apertura de puertas y acreditación de asistentes
+            id: apertura-jueves
+            description: >
+              ¡Acredítate antes que nadie y evita las colas del viernes! Trae tu
+              entrada, impresa o en el móvil, y recoge tu awesómico welcome pack
+              antes de disfrutar de todas las actividades y contenido de la TRG
+              ¡Bienvenidos!
+            speakers: []
+          - time: '15:30 - 18:00h'
+            title: TALLERES de patrocinadores
+            id: taller-sponsors
+            subtitle: 'DIVERGER, IZERTIS y FACTORIAL'
+            description: >-
+              Talleres patrocinados por nuestros sponsors, que abren a los
+              asistentes de la TRG que se hagan con una de las invitaciones
+              ¡Hablad con ellos!
+            speakers: []
+          - time: '15:30 - 18:00h'
+            title: 'TALLER: Diseño de producto para no-diseñadores'
+            id: taller-cris
+            subtitle: por Cris Busquets
+            description: >-
+              En este taller, Cris nos enseñará los fundamentos de la
+              disciplina, pero —sobre todo— cómo implementar procesos de diseño
+              de producto que involucren a los diferentes roles necesarios para
+              desarrollar con éxito un producto digital, desde Product Managers
+              a desarrolladores.
+
+
+              Trabajaremos con **casos prácticos** para aprender a colaborar de
+              forma efectiva con un diseñador y cómo debe entregarnos este su
+              trabajo. Acabaremos, a golpe de **plantillas y ejemplos**, con el
+              mito de que los programadores son de Venus, los diseñadores de
+              Marte y jamás podrán entenderse.
+
+
+              Nos llevaremos, instaladas en nuestro ordenador, las
+              **herramientas** necesarias para empezar a hacer Product Design en
+              nuestro equipo; y **documentación y bibliografía** para seguir
+              ampliando nuestros conocimientos.
+            speakers:
+              - cris
+          - time: '15:30 - 18:00h'
+            title: >-
+              TALLER: Herramientas y procesos para equipos de desarrollo de alto
+              rendimiento
+            id: taller-recena
+            subtitle: por Manuel Recena
+            description: >-
+              Este taller lleva DOS AÑOS CONSECUTIVOS PETÁNDOLO, así que, hemos
+              decidido repetirlo de nuevo. Conoceremos las herramientas y
+              procesos necesarios para **conseguir que nuestro ciclo de
+              desarrollo de software sea lo más productivo posible**.
+
+
+              Desde definir OKRs que nos ayuden a medir nuestro progreso hasta
+              establecer el flujo de trabajo necesario para **conseguir que el
+              despliegue en producción de nuestro software sea tan frecuente
+              como ABURRIDO** —porque nunca pase nada— pasando por los
+              radiadores de información necesarios para que todo el mundo sepa
+              lo que está pasando en cada momento.
+
+
+              Da igual si tu equipo de desarrollo es mejor o peor, de este
+              taller te llevarás un montón de ideas y buenas prácticas para que
+              sea MEJOR.
+            speakers:
+              - recena
+          - time: '15:30 - 18:00h'
+            title: 'TALLER: De técnicos a Tech Leads'
+            id: taller-felix
+            subtitle: por Félix López
+            description: >-
+              En este taller se diseccionará el rol de Tech Lead y **los
+              asistentes aprenderán no solo las responsabilidades habituales del
+              mismo, sino también las métricas, herramientas, documentación y
+              procesos que les ayudarán a alcanzarlas**.
+
+
+              Pero un taller debe ser práctico, por eso Félix os planteará
+              algunas de las situaciones y experiencias más complejas que podrás
+              encontrar como líder técnico, y así experimentar cómo se puede
+              aplicar todo lo aprendido para llevar a tu equipo al próximo
+              nivel.
+            speakers:
+              - felix
+          - time: '18:00 - 20:00h'
+            title: Networking Tarugo
+            id: networking-jueves
+            subtitle: "Conoce a gente nueva \U0001F60A"
+            description: >-
+              Actividades y dinámicas divertidas para que los asistentes se
+              conozcan entre sí en un ambiente distendido y seguro.
+
+
+              Si no conoces a nadie, saldrás con un grupo con el que compartir
+              el resto de la conferencia y, si vienes acompañado, ampliarás el
+              circulo con el que interactuarás durante el resto del evento.
+            speakers: []
+          - time: '20:00 - 22:00h'
+            title: Juicio al Trabajo Remoto
+            id: podcasting-jueves
+            subtitle: Crossover de los podcasts Mixx.io y Heavy Mental
+            description: >-
+              Alex Barredo, del popular podcast de tecnología
+              [Mixx.io](https://x.com/mixx_io){target="_blank"}, y Miki, David y
+              Javi de [Heavy
+              Mental](https://x.com/HeavyMental_es){target="_blank"}, reeditarán
+              el crossover del año pasado sin evitar el elefante dentro de la
+              habitación, más bien ATROPELLÁNDOLO: **Trabajo Remoto... ¿sí o
+              no?**
+
+
+              El público podrá interactuar con los presentadores e intervenir en
+              un podcast único gestionado como un auténtico *late night show*.
+
+
+              Los has escuchado MUCHAS veces, pero NUNCA como hoy !!!
+            speakers: []
+      - title: 'Viernes, 15 de noviembre'
+        events:
+          - time: '9:00h'
+            title: Apertura de puerta y acreditación de asistentes
+            id: apertura-viernes
+            description: >-
+              ¡Acredítate antes que nadie y evita las colas! Trae tu entrada,
+              impresa o en el móvil, y disfruta de todas las actividades y
+              contenido de la TRG.
+
+
+              Te recibiremos con **café, bica gallega y fruta**... además de
+              amenizar la espera con la música [Don
+              Robot](https://www.youtube.com/watch?v=ltXX9Ab6vuo){target="_blank"},
+              nuestro DJ Residente.
+
+
+              ¡Bienvenidos!
+            speakers: []
+          - time: '10:00 - 10:15h'
+            title: Regreso al Futuro
+            id: keynote
+            subtitle: Keynote
+            description: >-
+              En la apertura de la TRG puede pasar cualquier cosa, desde que
+              alguien salga vestido de comandante de la Fuerza Aerea Gallega
+              hasta que aparezca Steve Jobs. Te podrá gustar más o menos, pero
+              no te dejará indiferente.
+
+
+              En esta keynote, David nos dará toda la información para disfrutar
+              del evento y nos planteará un reto imposible... o no.
+            speakers:
+              - david-bonilla
+          - time: '10:15 - 11:00h'
+            title: Hardware abierto en tiempos de modelos cerrados
+            id: charla-cuartielles
+            subtitle: por David Cuartielles
+            description: >-
+              En una era en la que las grandes multinacionales tecnológicas se
+              plantean desarrollar su propio *hierro* para soportar y optimizar
+              la inmensa capacidad de cálculo que necesitan para entrenar sus
+              modelos de IA, David nos explicará porqué es más necesario que
+              nunca que haya hardware abierto y potente disponible para
+              cualquiera.
+
+
+              Huele a cerrado. Es hora de airear.
+            speakers:
+              - david-cuartielles
+          - time: '11:00 - 11:45h'
+            title: La tecnología para luchar contra la desinformación
+            id: charla-clara
+            subtitle: por Clara Jiménez Cruz
+            description: >-
+              Cada día generamos más información que en los 2000 años anteriores
+              JUNTOS.
+
+
+              En este contexto, la tecnología se hace imprescindible para
+              separar el polvo de la paja y Clara nos contará como la utiliza en
+              su día a día para determinar lo que es verdad y lo que no.
+            speakers:
+              - clara
+          - time: '11:45 - 12:00h'
+            title: ¿Donde está Boni?
+            subtitle: Demo del juego ¿de mesa? de la TRG24
+            description: >-
+              Como en cada edición, cada asistente se llevará a casa un juego de
+              mesa original que disfrutar con amigos y familia.
+
+
+              En este ocasión, tendremos que encontrar a alguien muy particular
+              en un contexto muy especial...
+            speakers: []
+          - time: '12:00 - 12:45h'
+            title: ☕ Coffe Break
+            subtitle: ofrecido por Factorial
+            description: >-
+              Café, snacks y pastitas para llenar las tripitas.
+
+
+              Este intermedio estará amenizado por el DJ residente de la TRG
+              —**Don Robot**- que nos llevará a 1955 con un recorrido por la
+              música que podría escuchar Marty McFly durante la primera mitad de
+              la década de los 50.
+            speakers: []
+          - time: '12:45 - 13:00h'
+            title: ¡El precio Justo!
+            subtitle: ofrecido por Diverger
+            description: >-
+              Un concursote de Lanzarote en el que los asistentes de la TRG
+              podrán demostrar sus conocimientos sobre el bisnes de la
+              Informática y ¡ganar suculentos premios!
+            speakers: []
+          - time: '13:00 - 13:45h'
+            title: Curar con algoritmos
+            id: charla-aurelia
+            subtitle: por Aurelia Bustos
+            description: >-
+              Los medios dibujan la Inteligencia Artificial como una tecnología
+              que pareciera servir solo para crear imágenes más o menos
+              aparentes y generar canciones dándole a un botón, pero eso sólo
+              rasca la superficie de la revolución que va a suponer en nuestro
+              día a día.
+
+
+              En esta charla, Aurelia nos contará **una aplicación real de la
+              IA, alejada de la fanfarria de los *prompts* y las herramientas
+              generativas**: la mejora de diagnósticos clínicos a partir de
+              algoritmos que permitan —por ejemplo— identificar un tumor con más
+              precisión que el ojo humano. Y, también, **su experiencia creando
+              una startup alrededor de todo ese valor sin tener que marcharse a
+              Silicon Valley**.
+            speakers:
+              - aurelia
+          - time: '13:45 - 14:30h'
+            title: 'Evangelismo técnico: qué, cómo y por qué'
+            id: charla-trisha
+            subtitle: Trisha Gee
+            description: >-
+              *Developer Advocacy*, *Technical Evangelism*, *Developer Relations
+              (DevRel)*... no hemos parado de escuchar estos términos durante
+              los últimos diez años, pero ¿qué significan realmente?
+
+
+              En su presentación, Trisha nos contará la historia detrás de estos
+              roles, por qué una empresa podría necesitar una o más personas
+              para desempeñarlos, y las buenas y malas prácticas que ha
+              identificado a lo largo de su carrera.
+
+
+              Después de esta charla, comprenderás **por qué no podemos ignorar
+              el evangelismo técnico si trabajamos en la industría del
+              software**.
+            speakers:
+              - trisha
+          - time: '14:30 - 16:30h'
+            title: "\U0001F419 Comida y Pulpeirada"
+            id: comida-viernes
+            subtitle: ofrecido por SNGULAR
+            description: >-
+              Diferentes opciones gastronómicas ecológicas, sostenibles y mucho
+              gallegas... incluyendo a Anxo —nuestro pulpeiro de O Carballiño—
+              que distribuirá **300 raciones de pulpo *a feira* recien hecho**,
+              y muchas mas cosas distribuidas por las mesas para que nadie tenga
+              que esperar ninguna cola.
+
+
+              Y, por supuesto, contaremos con opciones veganas y sin gluten.
+            speakers: []
+          - time: '16:30 - 16:45'
+            title: ¿Qué saben los muggles?
+            subtitle: Video
+            description: >-
+              Nuestros intrépidos reporteros se lanzarán a la calle, micrófono
+              en mano, para averiguar hasta qué punto el público general -sin
+              experiencia técnica- conoce el día a día del sector informático.
+            speakers: []
+          - time: '16:45 - 17:30'
+            title: No montes un estudio de videojuegos
+            id: charla-daniel
+            subtitle: por Daniel Sanchez-Crespo
+            description: >-
+              ¿Cuánto cuesta desarrollar un videojuego? ¿Cuántas unidades tendré
+              que vender para que sea rentable?
+
+
+              En esta charla, Dani nos contará **todas las cifras que derías
+              saber —pero que nadie te contará— antes de montar un estudio de
+              videojuegos**. Si Dani no puede convencerte para que no lo hagas,
+              al menos te ayudará para que tengas más probabilidades de hacerlo
+              con éxito
+            speakers:
+              - dani-novarama
+          - time: '17:30 - 18:15 '
+            title: Effective data
+            id: charla-giuseppe
+            subtitle: por Giuseppe Sollazzo
+            description: >-
+              Los informáticos trabajan con la matería prima más cara y
+              peligrosa del mundo, la información.
+
+
+              En este charla, Giuseppe nos explicará las mejores prácticas sobre
+              gestión de datos que ha identificado liderando múltiples proyectos
+              para el Gobierno del Reino Unido. Información que ha generado un
+              verdadero impacto en la vida de los ciudadanos británicos.
+            speakers:
+              - giuseppe
+          - time: '18:15 - 19:00h'
+            title: "\U0001F36A Merienda"
+            id: merienda-viernes
+            description: >-
+              Café y bollería artesanal para aguantar hasta el final.
+
+
+              En esta ocasión, Don Robot nos llevará hasta ese 1985 de «Regreso
+              al Futuro» con una selección de música para recargar las pilas con
+              la energía de los 80.
+            speakers: []
+          - time: '19:00 - 19:15'
+            title: "\U0001F3B0 La Jerocleta"
+            description: >-
+              Sorteo de jugosos premios entre todos los que hayan tuiteado con
+              el hashtag
+              [#trg24](https://x.com/search?q=%23trg24&src=typed_query&f=live){target="_blank"},
+              realizado con la mítica «Jerocleta» de **Jerónimo López**. Sin
+              duda alguna, el software español más utilizado de la historía.
+
+
+              Cuanto más tuitees, más posibilidades tendrás de ganar.
+            speakers: []
+          - time: '19:15 - 20:00h'
+            title: Cómo crear una App de pago único (y no morir en el intento)
+            id: charla-rafa
+            subtitle: por Rafael Pons
+            description: >-
+              1. Crea software que resuelva un problema o ayude a realizar una
+              tarea por el que la gente esté dispuesta a pagar.
+
+              2. Cobra una cuota mensual o anual por usarlo.
+
+
+              PhotoPills se ha atrevido a desafiar la «receta del éxito» y con
+              más de 800.000 descargas en todo el mundo, se ha convertido en la
+              herramienta definitiva para planificar y ejecutar ideas
+              fotográficas... sin ninguna inversión externa.
+
+
+              Rafael nos contará su particular *receta* y como la han cocinado
+              no en Silicon Valley sino en Menorca.
+
+
+              En esta charla, descubrirás que hay otras formas de emprender en
+              Tecnología y ~~las hostias~~ lecciones aprendidas de una startup
+              que decidió no seguir el cámino habitual.
+            speakers:
+              - rafa-pons
+          - time: '20:00 - 20:30h'
+            title: Rendición de cuentas
+            id: rendicion-cuentas
+            description: >-
+              Como ya es tradición, **haremos públicas todas las cifras del
+              evento** -fuentes de ingresos, partidas de gastos y cuenta de
+              resultados-, agradeceremos el esfuerzo a todo el equipo de
+              profesionales y voluntarios que lo hacen posible y vislumbraremos
+              qué podemos esperar para el año que viene.
+            speakers:
+              - david-bonilla
+          - time: '20:30 - 22:30h'
+            title: "\U0001F973 Legendaria Fiesta Taruga"
+            id: fiesta
+            subtitle: ofrecida por Eventbrite
+            description: >-
+              Transformaremos La Nave en una auténtica "Sesión Vermú" con comida
+              y bebida, churros, música y las mejores conversaciones del planeta
+              porque... LA VIDA PUEDE SER MARAVILLOSA.
+
+
+              * **INTRO** - ¿Qué sonaba en 2015? Don Robot nos hará dar un
+              último salto musical para bailar grandes éxitos del rock y la
+              electrónica hasta el supuesto futuro que planteaba «Regreso al
+              Futuro II».
+
+              * **MAIN EVENT** - Stay tuned Antunez!
+            speakers: []
+      - title: 'Sábado, 16 de noviembre'
+        events:
+          - time: '11:00 - 16:00h'
+            label: Community day
+            description: >-
+              Una jornada abierta, a la que podréis traer a familia, compañeros
+              y/o
+                    amigos, con un montón de actividades para grandes y pequeños. Tenéis mucha
+                    más info [en esta página](/community-day/).
+            speakers: []
   - type: speakers
     title: Speakers
     description: >
@@ -144,14 +493,276 @@ blocks:
       HACE](https://github.com/tarugoconf/TRG24/blob/main/SPEAKERS.md). Estos
 
       son los awesómicos invitados con los que contaremos este año:
-    theme: is-dark width-full box-fill
-    speakers: []
+    theme: width-full
+    speakers:
+      - name: Javier Alonso
+        id: oyabun
+        company: Docker
+        role: Product Designer
+        bio: Lorem ipsum
+        image: /files/oyabun.jpg
+        links:
+          - icon: x-logo
+            url: 'https://x.com/oyabun'
+      - name: Paloma Barreiro
+        id: paloma
+        image: /files/Paloma Barreiro.jpg
+        links: []
+      - name: TBC
+        id: tbc1
+        image: /files/MODELO 3.jpg
+        links: []
+      - name: TBC
+        id: tbc2
+        image: /files/MODELO 4.jpg
+        links: []
+      - name: Hugo Tobío
+        id: hugo
+        image: /files/MODELO 2.jpg
+        links: []
+      - name: TBC
+        id: tbc3
+        image: /files/MODELO 5.jpg
+        links: []
+      - name: TBC
+        id: tbc4
+        image: /files/MODELO 6.jpg
+        links: []
+      - name: TBC
+        id: tbc5
+        image: /files/MODELO 7.jpg
+        links: []
   - type: separator
     width: is-full
+  - type: logos
+    title: Partners
+    id: patrocinio
+    theme: width-full
+    description: >-
+      Estas son las compañías que hacen que todo esto sea posible. Cada una de
+      estas empresas ha decidido apoyarnos para que la TRG pueda contar con una
+      mínima seguridad económica y así podamos centrarnos en ofrecer a la
+      Comunidad la calidad y el espíritu de siempre. Si quieres ser parte de
+      este esfuerzo, en esta o en la edición de 2024, [consulta nuestras
+      *awesómicas* oportunidades de
+      patrocinio](https://www.dropbox.com/scl/fi/06f7fbh2eqep3bab0vnxh/TRG24_sponsorship_deck_ES.pdf?rlkey=cz12k1c7wyxins6jv71qfjeyk&dl=0){target=_blank}
+      ¡graciñas!
+
+
+      [![Image](/files/automattic_logo.png)](https://automattic.com/)
+
+      Haciendo de la web un lugar mejor.
+    size: medium
+    items:
+      - alt: Panel
+        img: /files/panel_negro_2.png
+        url: 'https://www.panel.es/'
+        description: El cambio empieza en TI.
+      - alt: SNGULAR
+        img: /files/logos/sngular-logo-big.png
+        url: 'https://www.sngular.com/'
+        description: Ecosistema global de talento y tecnología.
+      - alt: '540'
+        img: /files/logos/logo_540_negro.png
+        url: 'https://www.540deg.com/'
+        description: Desarrollo de software de calidad con pragmatismo.
+      - alt: Izertis
+        img: /files/izertis_logo.png
+        url: 'https://www.izertis.com/es/'
+        description: Pasión por la tecnología.
+      - alt: Diverger
+        img: /files/dvg_logos-09.png
+        url: 'https://diverger.ai/'
+        description: Desarrollamos software con IA Generativa y el mejor talento humano.
+      - alt: Extramile
+        img: /files/logos/extramile.png
+        url: 'https://extramilecloud.com/'
+        description: Mapas Inteligentes.
+      - alt: Factorial
+        img: /files/lbqy_factorial_logo_color.png
+        url: >-
+          https://factorialhr.es/?MC=e~sG.f~g.g~fl.h~BsKGzsHHsF-szpCBwzwGHo.i~75U.j.~k.~l.~m~
+        description: >-
+          El software de recursos humanos con el que crece el negocio y las
+          personas.
+      - alt: Tinybird
+        img: /files/logos/tinybird.png
+        url: 'https://www.tinybird.co/'
+        description: >-
+          Construye proyectos de software basados en datos de forma sencilla y
+          escalable.
+      - alt: Next Digital
+        img: /files/positivoverticalnextdigital.png
+        url: 'https://www.nextdigital.es/'
+        description: >-
+          Especialistas en Desarrollo de Software de calidad e Ingeniería de
+          Datos.
+      - alt: Slimbook
+        img: /files/slimbook_logo.png
+        url: 'https://slimbook.com/'
+        description: Los mejores ordenadores Linux y Windows.
+      - alt: DoIT
+        img: /files/logos/doit_logo.png
+        url: 'https://www.doit.com/'
+        description: 'Simplify cloud costs, amplify engineering excellence.'
+      - alt: STR Sistemas
+        img: /files/logos/logo2_str.png
+        url: 'https://www.strsistemas.com/'
+        description: El SysAdmin de tu empresa
+      - alt: ING
+        img: /files/ing_logo.png
+        url: >-
+          https://www.ing.es/sobre-ing/trabaja-con-nosotros/ofertas-empleo?utm_source=event_home&utm_medium=web&utm_campaign=TRG24
+        description: Do your thing.
+      - alt: Playtomic
+        img: /files/playtomic-logo.png
+        url: 'https://playtomic.io/'
+        description: Encuentra dónde y con quién jugar a Pádel & Tenis al instante.
+      - alt: SUPERMONO
+        img: /files/supermono_logo_red.png
+        url: 'https://supermo.no/'
+        description: Get superpowers for your Mailchimp account!
+      - alt: Holafly
+        img: /files/holafly-logo.png
+        url: 'https://esim.holafly.com/es/'
+        description: Mantente conectado donde sea que vayas.
+      - alt: Shakers
+        img: /files/logo_shakers.png
+        url: 'https://www.shakersworks.com/'
+        description: La casa del freeworking.
+      - alt: Eventbrite
+        img: /files/logos/eventbrite_logo.png
+        url: 'https://www.eventbrite.es/'
+        description: Proveedor Oficial de Ticketing de la TRG.
+      - alt: Ayuntamiento de Madrid
+        img: /files/logos/lanave_logo_footer.png
+        url: 'https://www.lanavemadrid.com/'
+        description: Ayuntamiento de Madrid.
+  - type: logos
+    id: patrocinio2
+    theme: width-full
+    size: small
+    items:
+      - alt: Manfred
+        img: /files/logos/manfred.png
+        url: 'https://www.getmanfred.com/'
+      - alt: Grupo Billingham
+        img: /files/logos/logo_billingham.png
+        url: 'https://www.grupobillingham.com/'
+      - alt: Metricool
+        img: /files/logos/report-logo-metricool-1.png
+        url: 'https://metricool.com/es/'
+      - alt: Vyootrip
+        img: /files/logos/logo_vyootrip.png
+        url: 'https://www.vyootrip.com/trgcon/'
+  - type: separator
+    width: is-default
+  - type: people
+    title: Mecenas
+    description: |
+      Estas personas han contribuido con su mecenazgo a que la
+      #TRG24 sea posible, asegurando la sostenibilidad del evento.
+    items:
+      - name: Fátima Ballesteros
+        img: /files/people/fatima.jpg
+        url: 'https://www.linkedin.com/in/fatima-ballesteros-11b1183b/'
+      - name: Daniel Ramos
+        img: /files/people/danielramos.jpg
+        url: 'https://twitter.com/danielramosl'
+      - name: David Pardo
+        img: /files/people/davidpardo.jpg
+        url: 'https://twitter.com/dei_biz'
+      - name: Daniel Torres-Burriel
+        img: /files/people/torres-burriel.png
+        url: 'https://twitter.com/torresburriel'
+      - name: Guillermo Montoya
+        img: /files/people/GuillermoTRG_2.jpg
+        url: 'https://twitter.com/Gmfdsr'
+      - name: Juán Gil Miqueo
+        img: /files/people/juan-miqueo.jpeg
+        url: 'https://twitter.com/juan_miqueo'
+      - name: Cris Santamarina
+        img: /files/oayfz05p_400x400.jpg
+        url: 'https://x.com/crissantamarina'
+      - name: Jorge Galindo
+        img: /files/jorge-galindo2.jpg
+        url: 'https://www.jorgegalindo.me/en'
+      - name: Toño de la Torre
+        img: /files/people/tono-de-la-torre.jpeg
+        url: 'https://twitter.com/adelatorrefoss'
+      - name: Daniel López
+        img: /files/people/daniel-lopez.jpeg
+        url: 'http://twitter.com/vomkriege'
+      - name: Dimas Suárez
+        img: /files/people/dimas.jpg
+        url: 'https://massuarez.es/'
+      - name: Elisardo González
+        img: /files/people/elisardo.jpg
+        url: 'https://x.com/odrasile'
+      - name: Alejandro San Nicolás
+        img: /files/people/alejandro.jpg
+        url: 'https://www.linkedin.com/in/alejandrosnicolas/'
+      - name: Jordi Mon Companys
+        img: /files/people/jordi.jpeg
+        url: 'https://twitter.com/JordiMonPMM'
+      - name: Boris Gragera
+        img: /files/people/boris.jpeg
+        url: 'https://www.linkedin.com/in/borisgragera/'
+      - name: Paco Gómez
+        img: /files/people/francisco-jose.jpeg
+        url: 'https://www.linkedin.com/in/fjgomez/'
+      - name: Álvaro Amor
+        img: /files/people/alvaro-amor.jpeg
+        url: 'https://www.linkedin.com/in/alvaroamor/'
+      - name: Alejandro Gómez
+        img: /files/people/alejandro_gomez.jpeg
+        url: 'https://twitter.com/agomezmoron'
+      - name: Juan Carlos Vez Vázquez
+        img: /files/people/juan-carlos.jpeg
+        url: 'https://www.linkedin.com/in/juancarlosvezvazquez/'
+      - name: Diego Mariño
+        img: /files/people/diego-marino.jpeg
+        url: 'https://twitter.com/diegomarino'
+      - name: Luis Ibañez
+        img: /files/whatsapp-image-2024-07-13-at-11.00.04.jpeg
+        url: 'https://x.com/ender3_'
+      - name: Rubén Arevalillo
+        img: /files/ruben.jpg
+        url: 'https://x.com/rarevalillo'
+      - name: Pablo Grueso
+        img: /files/pablo_grueso.jpeg
+        url: 'https://www.linkedin.com/in/pablogrueso/'
+      - name: Rubén Morgade
+        img: /files/ruben_morgade.jpeg
+        url: 'https://www.linkedin.com/in/rubenmorgade/'
+      - name: Joaquín Fernández
+        img: /files/joaquin_fernandez.png
+        url: 'https://x.com/Iarwain'
+      - name: David Carrero
+        img: /files/carrero.png
+        url: 'https://carrero.es/'
+      - name: Iván Fernandez
+        img: /files/ivan.jpg
+        url: 'https://www.linkedin.com/in/iv%C3%A1n-fern%C3%A1ndez-calvo-21425033/'
+      - name: Raúl Cotrina
+        img: /files/whatsapp-image-2024-09-04-at-13.00.45.jpeg
+        url: 'https://x.com/raulcotrina'
+      - name: Jose Luis Cases
+        img: /files/people/jose-luis-cases.jpeg
+        url: 'https://x.com/jlcasesES'
+      - name: Roberto Canales
+        img: /files/people/roberto_canales.jpg
+        url: 'https://x.com/rcanalesmora'
+      - name: Pablo Lara
+        img: /files/pablo_lara.jpg
+        url: 'https://www.linkedin.com/in/pablolc/'
+      - name: Javier Ramírez
+        img: /files/javier_ramirez.jpg
+        url: 'https://www.linkedin.com/in/javierramirezblanes/'
   - type: faq
     title: FAQ
     id: faq
-    theme: is-dark width-full box-fill
+    theme: width-full
     questions:
       - question: ¿A quién está dirigido este evento? ¿Es para mi?
         answer: >
@@ -249,3 +860,4 @@ metas:
   image: ''
 url: /
 title: TRGCON 25
+theme: is-dark
