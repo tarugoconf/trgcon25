@@ -35,8 +35,8 @@ blocks:
       Es ante todo, **un punto de encuentro para gente que «hace cosas»
       alrededor del software, la innovación tecnológica e Internet**:
       desarrolladores, diseñadores, inversores, comerciales, gente de marketing
-      o soporte, administradores de sistemas o recruiters. Aquí nadie sobra y
-      todos son bienvenidos.
+      o soporte, administradores de sistemas o recruiters. Aquí nadie sobra.
+      Todos son bienvenidos.
 
 
       Se organiza cuidando cada detalle de forma enfermiza —desde las
@@ -48,42 +48,13 @@ blocks:
     cover: /files/video-cover.png
     caption: Resumen de la edición de 2024.
     id: video-resumen
-  - type: pdf
-    title: Cómo patrocinar
-    id: patrocinio
-    theme: width-full
-    text: >
-      En la TRG intentamos huir de la figura del «sponsor» habitual y
-      consideramos a nuestros patrocinadores verdaderos socios. Nos preocupamos
-      por entender sus objetivos y personalizamos los paquetes de patrocinio
-      para intentar alcanzarlos, trabajando mano a mano con ellos y creando
-      relaciones que perduran a lo largo de los años.
-
-
-      - Más de **1.000** asistentes a lo largo de los 3 días
-
-      - **2** días trending topic nacional
-
-      - **25** millones de impresiones en redes sociales
-
-
-      Si quieres que tu empresa sea parte de la próxima #trgX puedes mandarnos
-      un mail a [tarugoconf@bonillaware.com](mailto:tarugoconf@bonillaware.com)
-      ¡Nos encantará charlar contigo!
-    src: /files/trg25_sponsors_deck_es.pdf
-    caption: >-
-      [Descarga el dosier del
-      patrocinio](/files/trg25_sponsors_deck_es.pdf){target=_blank}{.button}
-
-
-      [Versión en inglés](/files/trg25_sponsors_deck_es.pdf){target=_blank}
   - type: separator
     width: is-full
   - type: calendar
     title: Agenda
     description: >-
-      Una jornada abierta, a la que podréis traer a familia, compañeros y/o
-      amigos, con un montón de actividades para grandes y pequeños.
+      Tres días llenos de actividades, pero sobre todo, de oportunidades para
+      conocer y ser conocido.
     id: calendar
     theme: width-full
     days:
@@ -101,61 +72,19 @@ blocks:
           - time: '15:30 - 18:00h'
             title: TALLERES de patrocinadores
             id: taller-sponsors
-            subtitle: 'DIVERGER, IZERTIS y FACTORIAL'
+            subtitle: POR CONFIRMAR
             description: >-
               Talleres patrocinados por nuestros sponsors, que abren a los
               asistentes de la TRG que se hagan con una de las invitaciones
               ¡Hablad con ellos!
             speakers: []
           - time: '15:30 - 18:00h'
-            title: 'TALLER: Diseño de producto para no-diseñadores'
-            id: taller-cris
-            subtitle: por Cris Busquets
-            description: >-
-              En este taller, Cris nos enseñará los fundamentos de la
-              disciplina, pero —sobre todo— cómo implementar procesos de diseño
-              de producto que involucren a los diferentes roles necesarios para
-              desarrollar con éxito un producto digital, desde Product Managers
-              a desarrolladores.
-
-
-              Trabajaremos con **casos prácticos** para aprender a colaborar de
-              forma efectiva con un diseñador y cómo debe entregarnos este su
-              trabajo. Acabaremos, a golpe de **plantillas y ejemplos**, con el
-              mito de que los programadores son de Venus, los diseñadores de
-              Marte y jamás podrán entenderse.
-
-
-              Nos llevaremos, instaladas en nuestro ordenador, las
-              **herramientas** necesarias para empezar a hacer Product Design en
-              nuestro equipo; y **documentación y bibliografía** para seguir
-              ampliando nuestros conocimientos.
-            speakers:
-              - cris
-          - time: '15:30 - 18:00h'
             title: >-
               TALLER: Herramientas y procesos para equipos de desarrollo de alto
               rendimiento
             id: taller-recena
-            subtitle: por Manuel Recena
-            description: >-
-              Este taller lleva DOS AÑOS CONSECUTIVOS PETÁNDOLO, así que, hemos
-              decidido repetirlo de nuevo. Conoceremos las herramientas y
-              procesos necesarios para **conseguir que nuestro ciclo de
-              desarrollo de software sea lo más productivo posible**.
-
-
-              Desde definir OKRs que nos ayuden a medir nuestro progreso hasta
-              establecer el flujo de trabajo necesario para **conseguir que el
-              despliegue en producción de nuestro software sea tan frecuente
-              como ABURRIDO** —porque nunca pase nada— pasando por los
-              radiadores de información necesarios para que todo el mundo sepa
-              lo que está pasando en cada momento.
-
-
-              Da igual si tu equipo de desarrollo es mejor o peor, de este
-              taller te llevarás un montón de ideas y buenas prácticas para que
-              sea MEJOR.
+            subtitle: POR CONFIRMAR
+            description: "Este taller lleva TRES AÑOS CONSECUTIVOS PETÁNDOLO, así que, le hemos pedido a Manuel Recena repetirlo de nuevo... aunque el solo  quiera venir como voluntario **¿conseguiremos convencerlo entre todos? \U0001F62C**\n\nConoceremos las herramientas y procesos necesarios para **conseguir que nuestro ciclo de desarrollo de software sea lo más productivo posible**.\n\nDesde definir OKRs que nos ayuden a medir nuestro progreso hasta establecer el flujo de trabajo necesario para **conseguir que el despliegue en producción de nuestro software sea tan frecuente como ABURRIDO** —porque nunca pase nada— pasando por los radiadores de información necesarios para que todo el mundo sepa lo que está pasando en cada momento.\n\nDa igual si tu equipo de desarrollo es mejor o peor, de este taller te llevarás un montón de ideas y buenas prácticas para que sea MEJOR."
             speakers:
               - recena
           - time: '15:30 - 18:00h'
@@ -190,24 +119,23 @@ blocks:
               circulo con el que interactuarás durante el resto del evento.
             speakers: []
           - time: '20:00 - 22:00h'
-            title: Juicio al Trabajo Remoto
+            title: 10 años en coma en el sector de la tecnología
             id: podcasting-jueves
-            subtitle: Crossover de los podcasts Mixx.io y Heavy Mental
+            subtitle: por Codely
             description: >-
-              Alex Barredo, del popular podcast de tecnología
-              [Mixx.io](https://x.com/mixx_io){target="_blank"}, y Miki, David y
-              Javi de [Heavy
-              Mental](https://x.com/HeavyMental_es){target="_blank"}, reeditarán
-              el crossover del año pasado sin evitar el elefante dentro de la
-              habitación, más bien ATROPELLÁNDOLO: **Trabajo Remoto... ¿sí o
-              no?**
+              ¿Os imignaís como se sentiría un programador que hubiera tenido un
+              accidente de tráfico en 2015, **se hubiera quedado en coma y
+              despertara hoy después de 10 años**?
+
+
+              Eso es lo que nos proponen Rafa y Javi, los dos miembros de
+              [Codely]([https://x.com/mixx_io](https://codely.com/)){target="_blank"},
+              que han demostrado a lo largo de los años que se puede hablar de
+              tecnología —y hasta enseñarla— de forma amena y divertida. 
 
 
               El público podrá interactuar con los presentadores e intervenir en
-              un podcast único gestionado como un auténtico *late night show*.
-
-
-              Los has escuchado MUCHAS veces, pero NUNCA como hoy !!!
+              un show único lleno de sorpresas para los asistentes.
             speakers: []
       - title: 'Viernes, 15 de noviembre'
         events:
@@ -533,7 +461,36 @@ blocks:
         image: /files/MODELO 7.jpg
         links: []
   - type: separator
-    width: is-full
+    width: is-default
+  - type: pdf
+    title: Cómo patrocinar
+    id: patrocinio
+    theme: width-full
+    text: >
+      En la TRG intentamos huir de la figura del «sponsor» habitual y
+      consideramos a nuestros patrocinadores verdaderos socios. Nos preocupamos
+      por entender sus objetivos y personalizamos los paquetes de patrocinio
+      para intentar alcanzarlos, trabajando mano a mano con ellos y creando
+      relaciones que perduran a lo largo de los años.
+
+
+      - Más de **1.000** asistentes a lo largo de los 3 días
+
+      - **2** días trending topic nacional
+
+      - **25** millones de impresiones en redes sociales
+
+
+      Si quieres que tu empresa sea parte de la próxima #trgX puedes mandarnos
+      un mail a [tarugoconf@bonillaware.com](mailto:tarugoconf@bonillaware.com)
+      ¡Nos encantará charlar contigo!
+    src: /files/trg25_sponsors_deck_es.pdf
+    caption: >-
+      [Descarga el dosier del
+      patrocinio](/files/trg25_sponsors_deck_es.pdf){target=_blank}{.button}
+
+
+      [Versión en inglés](/files/trg25_sponsors_deck_es.pdf){target=_blank}
   - type: logos
     title: Partners
     id: patrocinio
@@ -619,8 +576,6 @@ blocks:
       - alt: Deiser
         img: /files/logos/deiser_logo.png
         url: 'https://www.deiser.com/'
-  - type: separator
-    width: is-default
   - type: people
     title: Mecenas
     description: |
