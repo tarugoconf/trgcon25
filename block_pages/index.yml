@@ -547,29 +547,20 @@ blocks:
       *awesómicas* oportunidades de
       patrocinio](https://www.dropbox.com/scl/fi/06f7fbh2eqep3bab0vnxh/TRG24_sponsorship_deck_ES.pdf?rlkey=cz12k1c7wyxins6jv71qfjeyk&dl=0){target=_blank}
       ¡graciñas!
-
-
-      [![Image](/files/automattic_logo.png)](https://automattic.com/)
-
-      Haciendo de la web un lugar mejor.
     size: medium
     items:
       - alt: Panel
-        img: /files/panel_negro_2.png
+        img: /files/logos/logo_panel_blanco.png
         url: 'https://www.panel.es/'
         description: El cambio empieza en TI.
       - alt: SNGULAR
-        img: /files/logos/sngular-logo-big.png
+        img: /files/logos/sngular_logo_blanco.png
         url: 'https://www.sngular.com/'
         description: Ecosistema global de talento y tecnología.
       - alt: '540'
-        img: /files/logos/logo_540_negro.png
+        img: /files/logos/logo_540_blanco.png
         url: 'https://www.540deg.com/'
         description: Desarrollo de software de calidad con pragmatismo.
-      - alt: Izertis
-        img: /files/izertis_logo.png
-        url: 'https://www.izertis.com/es/'
-        description: Pasión por la tecnología.
       - alt: Diverger
         img: /files/dvg_logos-09.png
         url: 'https://diverger.ai/'
@@ -578,19 +569,6 @@ blocks:
         img: /files/logos/extramile.png
         url: 'https://extramilecloud.com/'
         description: Mapas Inteligentes.
-      - alt: Factorial
-        img: /files/lbqy_factorial_logo_color.png
-        url: >-
-          https://factorialhr.es/?MC=e~sG.f~g.g~fl.h~BsKGzsHHsF-szpCBwzwGHo.i~75U.j.~k.~l.~m~
-        description: >-
-          El software de recursos humanos con el que crece el negocio y las
-          personas.
-      - alt: Tinybird
-        img: /files/logos/tinybird.png
-        url: 'https://www.tinybird.co/'
-        description: >-
-          Construye proyectos de software basados en datos de forma sencilla y
-          escalable.
       - alt: Next Digital
         img: /files/positivoverticalnextdigital.png
         url: 'https://www.nextdigital.es/'
@@ -601,23 +579,10 @@ blocks:
         img: /files/slimbook_logo.png
         url: 'https://slimbook.com/'
         description: Los mejores ordenadores Linux y Windows.
-      - alt: DoIT
-        img: /files/logos/doit_logo.png
-        url: 'https://www.doit.com/'
-        description: 'Simplify cloud costs, amplify engineering excellence.'
       - alt: STR Sistemas
-        img: /files/logos/logo2_str.png
+        img: /files/logos/logo_str_blanco.png
         url: 'https://www.strsistemas.com/'
         description: El SysAdmin de tu empresa
-      - alt: ING
-        img: /files/ing_logo.png
-        url: >-
-          https://www.ing.es/sobre-ing/trabaja-con-nosotros/ofertas-empleo?utm_source=event_home&utm_medium=web&utm_campaign=TRG24
-        description: Do your thing.
-      - alt: Playtomic
-        img: /files/playtomic-logo.png
-        url: 'https://playtomic.io/'
-        description: Encuentra dónde y con quién jugar a Pádel & Tenis al instante.
       - alt: SUPERMONO
         img: /files/supermono_logo_red.png
         url: 'https://supermo.no/'
@@ -626,10 +591,6 @@ blocks:
         img: /files/holafly-logo.png
         url: 'https://esim.holafly.com/es/'
         description: Mantente conectado donde sea que vayas.
-      - alt: Shakers
-        img: /files/logo_shakers.png
-        url: 'https://www.shakersworks.com/'
-        description: La casa del freeworking.
       - alt: Eventbrite
         img: /files/logos/eventbrite_logo.png
         url: 'https://www.eventbrite.es/'
