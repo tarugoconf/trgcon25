@@ -655,6 +655,9 @@ blocks:
       - alt: Vyootrip
         img: /files/logos/logo_vyootrip.png
         url: 'https://www.vyootrip.com/trgcon/'
+      - alt: Deiser
+        img: /files/logos/deiser_logo.png
+        url: 'https://www.deiser.com/'
   - type: separator
     width: is-default
   - type: people
