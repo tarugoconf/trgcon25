@@ -562,7 +562,7 @@ blocks:
         url: 'https://www.540deg.com/'
         description: Desarrollo de software de calidad con pragmatismo.
       - alt: Diverger
-        img: /files/dvg_logos-09.png
+        img: /files/logos/logo_diverger_blanco.png
         url: 'https://diverger.ai/'
         description: Desarrollamos software con IA Generativa y el mejor talento humano.
       - alt: Extramile
@@ -576,7 +576,7 @@ blocks:
           Especialistas en Desarrollo de Software de calidad e Ingeniería de
           Datos.
       - alt: Slimbook
-        img: /files/slimbook_logo.png
+        img: /files/logos/logo_slimbook_blanco.png
         url: 'https://slimbook.com/'
         description: Los mejores ordenadores Linux y Windows.
       - alt: STR Sistemas
