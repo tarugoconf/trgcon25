@@ -160,7 +160,7 @@ blocks:
               ¡Bienvenidos!
             speakers: []
           - time: '10:00 - 10:15h'
-            title: Regreso al Futuro
+            title: TRON
             id: keynote
             subtitle: Keynote
             description: >-
@@ -171,7 +171,7 @@ blocks:
 
 
               En esta keynote, David nos dará toda la información para disfrutar
-              del evento y nos planteará un reto imposible... o no.
+              del evento.
             speakers:
               - david-bonilla
           - time: '10:15 - 11:00h'
@@ -437,30 +437,77 @@ blocks:
             url: 'https://x.com/oyabun'
       - name: Paloma Barreiro
         id: paloma
+        company: B100
+        role: Head of digital product
+        bio: TBD
         image: /files/Paloma Barreiro.jpg
-        links: []
+        links:
+          - icon: x-logo
+            url: 'https://x.com/pombita'
       - name: TBC
         id: tbc1
+        bio: >-
+          Ponente pendiente de anuncio. Stay tuned ANTUNEZ!
+
+
+          Si no quieres perderte las novedades y noticias de la TRGx, te
+          recomendamos seguir [nuestra cuenta en
+          X](https://x.com/tarugoconf){target="_blank"}.
         image: /files/MODELO 3.jpg
         links: []
       - name: TBC
         id: tbc2
+        bio: >-
+          Ponente pendiente de anuncio. Stay tuned ANTUNEZ!
+
+
+          Si no quieres perderte las novedades y noticias de la TRGx, te
+          recomendamos seguir [nuestra cuenta en
+          X](https://x.com/tarugoconf){target="_blank"}.
         image: /files/MODELO 4.jpg
         links: []
-      - name: Hugo Tobío
+      - name: TBC
         id: hugo
+        bio: >-
+          Ponente pendiente de anuncio. Stay tuned ANTUNEZ!
+
+
+          Si no quieres perderte las novedades y noticias de la TRGx, te
+          recomendamos seguir [nuestra cuenta en
+          X](https://x.com/tarugoconf){target="_blank"}.
         image: /files/MODELO 2.jpg
         links: []
       - name: TBC
         id: tbc3
+        bio: >-
+          Ponente pendiente de anuncio. Stay tuned ANTUNEZ!
+
+
+          Si no quieres perderte las novedades y noticias de la TRGx, te
+          recomendamos seguir [nuestra cuenta en
+          X](https://x.com/tarugoconf){target="_blank"}.
         image: /files/MODELO 5.jpg
         links: []
       - name: TBC
         id: tbc4
+        bio: >-
+          Ponente pendiente de anuncio. Stay tuned ANTUNEZ!
+
+
+          Si no quieres perderte las novedades y noticias de la TRGx, te
+          recomendamos seguir [nuestra cuenta en
+          X](https://x.com/tarugoconf){target="_blank"}.
         image: /files/MODELO 6.jpg
         links: []
       - name: TBC
         id: tbc5
+        bio: >-
+          Ponente pendiente de anuncio. Stay tuned ANTUNEZ!
+
+
+          Si no quieres perderte las novedades y noticias de la TRGx, te
+          recomendamos seguir [nuestra cuenta en
+          X](https://x.com/tarugoconf){target="_blank"}.
         image: /files/MODELO 7.jpg
         links: []
   - type: separator
