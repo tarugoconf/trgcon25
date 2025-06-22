@@ -581,106 +581,37 @@ blocks:
         url: 'https://www.deiser.com/'
   - type: people
     title: Mecenas
-    description: |
-      Estas personas han contribuido con su mecenazgo a que la
-      #TRG24 sea posible, asegurando la sostenibilidad del evento.
+    description: >-
+      Estas personas han contribuido con su mecenazgo han hecho posible una
+      #TRGx MEJOR para todos los asistentes.
+
+
+      Si quieres convertirte en mecenas, participar en «el Senado» de la TRG y
+      formar parte de la toma de decisiones del evento, puedes [adquirir tu
+      entrada](/entradas) directamente o ponerte en [contacto](#contacto) con
+      nosotros. 
     items:
-      - name: Fátima Ballesteros
-        img: /files/people/fatima.jpg
-        url: 'https://www.linkedin.com/in/fatima-ballesteros-11b1183b/'
       - name: Daniel Ramos
         img: /files/people/danielramos.jpg
         url: 'https://twitter.com/danielramosl'
       - name: David Pardo
         img: /files/people/davidpardo.jpg
         url: 'https://twitter.com/dei_biz'
-      - name: Daniel Torres-Burriel
-        img: /files/people/torres-burriel.png
-        url: 'https://twitter.com/torresburriel'
       - name: Guillermo Montoya
         img: /files/people/GuillermoTRG_2.jpg
         url: 'https://twitter.com/Gmfdsr'
-      - name: Juán Gil Miqueo
-        img: /files/people/juan-miqueo.jpeg
-        url: 'https://twitter.com/juan_miqueo'
-      - name: Cris Santamarina
-        img: /files/oayfz05p_400x400.jpg
-        url: 'https://x.com/crissantamarina'
-      - name: Jorge Galindo
-        img: /files/jorge-galindo2.jpg
-        url: 'https://www.jorgegalindo.me/en'
-      - name: Toño de la Torre
-        img: /files/people/tono-de-la-torre.jpeg
-        url: 'https://twitter.com/adelatorrefoss'
-      - name: Daniel López
-        img: /files/people/daniel-lopez.jpeg
-        url: 'http://twitter.com/vomkriege'
-      - name: Dimas Suárez
-        img: /files/people/dimas.jpg
-        url: 'https://massuarez.es/'
-      - name: Elisardo González
-        img: /files/people/elisardo.jpg
-        url: 'https://x.com/odrasile'
-      - name: Alejandro San Nicolás
-        img: /files/people/alejandro.jpg
-        url: 'https://www.linkedin.com/in/alejandrosnicolas/'
-      - name: Jordi Mon Companys
-        img: /files/people/jordi.jpeg
-        url: 'https://twitter.com/JordiMonPMM'
-      - name: Boris Gragera
-        img: /files/people/boris.jpeg
-        url: 'https://www.linkedin.com/in/borisgragera/'
-      - name: Paco Gómez
-        img: /files/people/francisco-jose.jpeg
-        url: 'https://www.linkedin.com/in/fjgomez/'
-      - name: Álvaro Amor
-        img: /files/people/alvaro-amor.jpeg
-        url: 'https://www.linkedin.com/in/alvaroamor/'
-      - name: Alejandro Gómez
-        img: /files/people/alejandro_gomez.jpeg
-        url: 'https://twitter.com/agomezmoron'
       - name: Juan Carlos Vez Vázquez
         img: /files/people/juan-carlos.jpeg
         url: 'https://www.linkedin.com/in/juancarlosvezvazquez/'
       - name: Diego Mariño
         img: /files/people/diego-marino.jpeg
         url: 'https://twitter.com/diegomarino'
-      - name: Luis Ibañez
-        img: /files/whatsapp-image-2024-07-13-at-11.00.04.jpeg
-        url: 'https://x.com/ender3_'
-      - name: Rubén Arevalillo
-        img: /files/ruben.jpg
-        url: 'https://x.com/rarevalillo'
-      - name: Pablo Grueso
-        img: /files/pablo_grueso.jpeg
-        url: 'https://www.linkedin.com/in/pablogrueso/'
-      - name: Rubén Morgade
-        img: /files/ruben_morgade.jpeg
-        url: 'https://www.linkedin.com/in/rubenmorgade/'
-      - name: Joaquín Fernández
-        img: /files/joaquin_fernandez.png
-        url: 'https://x.com/Iarwain'
       - name: David Carrero
         img: /files/carrero.png
         url: 'https://carrero.es/'
-      - name: Iván Fernandez
-        img: /files/ivan.jpg
-        url: 'https://www.linkedin.com/in/iv%C3%A1n-fern%C3%A1ndez-calvo-21425033/'
-      - name: Raúl Cotrina
-        img: /files/whatsapp-image-2024-09-04-at-13.00.45.jpeg
-        url: 'https://x.com/raulcotrina'
-      - name: Jose Luis Cases
-        img: /files/people/jose-luis-cases.jpeg
-        url: 'https://x.com/jlcasesES'
       - name: Roberto Canales
         img: /files/people/roberto_canales.jpg
         url: 'https://x.com/rcanalesmora'
-      - name: Pablo Lara
-        img: /files/pablo_lara.jpg
-        url: 'https://www.linkedin.com/in/pablolc/'
-      - name: Javier Ramírez
-        img: /files/javier_ramirez.jpg
-        url: 'https://www.linkedin.com/in/javierramirezblanes/'
   - type: faq
     title: FAQ
     id: faq
