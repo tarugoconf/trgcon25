@@ -197,14 +197,14 @@ blocks:
               puede serlo montar nuestro propio banco?
 
 
-              En esta charla, Paloma nos contará cómo concibió la idea de B100
-              —un neobanco que te recompensa economicamente por estar en forma—
-              y todos los retos regulatorios, organizativos y técnicos que han
-              tenido que superar para convertirlo en una realidad.
+              En esta charla, Paloma nos contará cómo se concibió la idea de
+              B100 —un neobanco que te recompensa económicamente por estar en
+              forma— y todos los retos regulatorios, organizativos y técnicos
+              que han tenido que superar para convertirlo en una realidad.
 
 
-              El «libro de instrucciones» que ella no tuvo, por si te da montar
-              el tuyo :)
+              El «libro de instrucciones» que ella no tuvo, por si te da por
+              montar el tuyo :)
             speakers:
               - paloma
           - time: '11:45 - 12:00h'
@@ -422,12 +422,28 @@ blocks:
       - name: Paloma Barreiro
         id: paloma
         company: B100
-        role: Head of digital product
-        bio: TBD
+        role: Head of Digital Product
+        bio: >-
+          Paloma es la responsable de Producto de B100, un neobanco lanzado por
+          ABANCA, donde fue responsable del área de Empendimiento e
+          Intraemprendimiento... hasta que decició intraemprender ella misma
+          ^__^
+
+
+          Además de su rol actual, en 2012 lanzó su primera startup, fue dueña
+          de su primer negocio de comercio electrónico de moda. Estudió
+          Publicidad y comenzó su carrera trabajando en agencias como Young &
+          Rubicam, y en la gestión de marcas en empresas como Estrella Galicia.
+
+
+          Es madre de 2 hijos preciosos y, aunque nació en Pontevedra, se siente
+          100% coruñesa y es muy del Depor.
         image: /files/Paloma Barreiro.jpg
         links:
           - icon: x-logo
             url: 'https://x.com/pombita'
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/palomabarreiro/'
       - name: TBC
         id: tbc1
         bio: >-
