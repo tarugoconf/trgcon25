@@ -93,7 +93,7 @@ blocks:
           - time: '15:30 - 18:00h'
             title: 'TALLER: De técnicos a Tech Leads'
             id: taller-felix
-            subtitle: por Félix López
+            subtitle: POR CONFIRMAR
             description: >-
               En este taller se diseccionará el rol de Tech Lead y **los
               asistentes aprenderán no solo las responsabilidades habituales del
@@ -175,106 +175,107 @@ blocks:
             speakers:
               - david-bonilla
           - time: '10:15 - 11:00h'
-            title: Hardware abierto en tiempos de modelos cerrados
+            title: Charla
             id: charla-cuartielles
-            subtitle: por David Cuartielles
+            subtitle: POR CONFIRMAR
             description: >-
-              En una era en la que las grandes multinacionales tecnológicas se
-              plantean desarrollar su propio *hierro* para soportar y optimizar
-              la inmensa capacidad de cálculo que necesitan para entrenar sus
-              modelos de IA, David nos explicará porqué es más necesario que
-              nunca que haya hardware abierto y potente disponible para
-              cualquiera.
+              Una de las awesómicas y originales charlas de la TRG. STAY TUNEZ
+              ANTUNEZ porque iremos confirmándolas poco a poco.
 
 
-              Huele a cerrado. Es hora de airear.
+              Si no quieres perderte las novedades y noticias de la TRGx, te
+              recomendamos seguir [nuestra cuenta en
+              X](https://x.com/tarugoconf){target="_blank"}.
             speakers:
               - david-cuartielles
           - time: '11:00 - 11:45h'
-            title: La tecnología para luchar contra la desinformación
-            id: charla-clara
-            subtitle: por Clara Jiménez Cruz
+            title: Como montar tu propio banco online
+            id: charla-paloma
+            subtitle: por Paloma Barreiro
             description: >-
-              Cada día generamos más información que en los 2000 años anteriores
-              JUNTOS.
+              Si es eslogan de la TRG es «TODO ES POSIBLE» entonces ¿por qué no
+              puede serlo montar nuestro propio banco?
 
 
-              En este contexto, la tecnología se hace imprescindible para
-              separar el polvo de la paja y Clara nos contará como la utiliza en
-              su día a día para determinar lo que es verdad y lo que no.
+              En esta charla, Paloma nos contará cómo concibió la idea de B100
+              —un neobanco que te recompensa economicamente por estar en forma—
+              y todos los retos regulatorios, organizativos y técnicos que han
+              tenido que superar para convertirlo en una realidad.
+
+
+              El «libro de instrucciones» que ella no tuvo, por si te da montar
+              el tuyo :)
             speakers:
-              - clara
+              - paloma
           - time: '11:45 - 12:00h'
-            title: ¿Donde está Boni?
-            subtitle: Demo del juego ¿de mesa? de la TRG24
+            title: Unicornio 3.0
+            subtitle: Demo del juego de cartas tipo Magic de la TRGx
             description: >-
               Como en cada edición, cada asistente se llevará a casa un juego de
               mesa original que disfrutar con amigos y familia.
 
 
-              En este ocasión, tendremos que encontrar a alguien muy particular
-              en un contexto muy especial...
+              En este ocasión, tendremos la nueva edición de uno de nuestros
+              juegos más populares ¡Unicornio! Un juego tipo Magic, pero con
+              algunas de las personalidades y startups más relevantes del sector
+              como protagonistas.
             speakers: []
           - time: '12:00 - 12:45h'
             title: ☕ Coffe Break
-            subtitle: ofrecido por Factorial
             description: >-
               Café, snacks y pastitas para llenar las tripitas.
 
 
               Este intermedio estará amenizado por el DJ residente de la TRG
-              —**Don Robot**- que nos llevará a 1955 con un recorrido por la
-              música que podría escuchar Marty McFly durante la primera mitad de
-              la década de los 50.
+              —**Don Robot**- que pinchará los mejores temas de Daft Punk,
+              incluyendo la bandaza sonora que se marcaron para la película
+              «Tron: Legacy»
             speakers: []
           - time: '12:45 - 13:00h'
             title: ¡El precio Justo!
-            subtitle: ofrecido por Diverger
             description: >-
               Un concursote de Lanzarote en el que los asistentes de la TRG
               podrán demostrar sus conocimientos sobre el bisnes de la
               Informática y ¡ganar suculentos premios!
             speakers: []
           - time: '13:00 - 13:45h'
-            title: Curar con algoritmos
-            id: charla-aurelia
-            subtitle: por Aurelia Bustos
+            title: 'Prompts Wars: IA en la linea de comandos'
+            id: charla-oyabun
+            subtitle: por Javier Alonso
             description: >-
-              Los medios dibujan la Inteligencia Artificial como una tecnología
-              que pareciera servir solo para crear imágenes más o menos
-              aparentes y generar canciones dándole a un botón, pero eso sólo
-              rasca la superficie de la revolución que va a suponer en nuestro
-              día a día.
+              Cuando oimos hablar de «diseño de producto» los técnicos solemos
+              pensar en botoncitos y colores brillantes, sin enmbargo, el
+              Product Design va mucho más allá de eso.
 
 
-              En esta charla, Aurelia nos contará **una aplicación real de la
-              IA, alejada de la fanfarria de los *prompts* y las herramientas
-              generativas**: la mejora de diagnósticos clínicos a partir de
-              algoritmos que permitan —por ejemplo— identificar un tumor con más
-              precisión que el ojo humano. Y, también, **su experiencia creando
-              una startup alrededor de todo ese valor sin tener que marcharse a
-              Silicon Valley**.
+              Por ejemplo, diseñar **la experiencia de uso de esos propios
+              técnicos cuando usan una herramienta cuya interfaz es una simple
+              línea de comandos**.
+
+
+              Sí, hay diseño de producto en la línea de comandos y —como todas
+              las facetas de la Informática— la IA también ha llegado hasta
+              aquí.
+
+
+              En esta charla, Javi nos contará cómo se está enfrentado Docker al
+              desafío que es integrar la IA en herramientas de desarrollo y nos
+              enseñará a aplicar esas lecciones aprendidas en nuestros propios
+              productos.
             speakers:
-              - aurelia
+              - oyabun
           - time: '13:45 - 14:30h'
-            title: 'Evangelismo técnico: qué, cómo y por qué'
+            title: Charla
             id: charla-trisha
-            subtitle: Trisha Gee
+            subtitle: POR CONFIRMAR
             description: >-
-              *Developer Advocacy*, *Technical Evangelism*, *Developer Relations
-              (DevRel)*... no hemos parado de escuchar estos términos durante
-              los últimos diez años, pero ¿qué significan realmente?
+              Una de las awesómicas y originales charlas de la TRG. STAY TUNEZ
+              ANTUNEZ porque iremos confirmándolas poco a poco.
 
 
-              En su presentación, Trisha nos contará la historia detrás de estos
-              roles, por qué una empresa podría necesitar una o más personas
-              para desempeñarlos, y las buenas y malas prácticas que ha
-              identificado a lo largo de su carrera.
-
-
-              Después de esta charla, comprenderás **por qué no podemos ignorar
-              el evangelismo técnico si trabajamos en la industría del
-              software**.
+              Si no quieres perderte las novedades y noticias de la TRGx, te
+              recomendamos seguir [nuestra cuenta en
+              X](https://x.com/tarugoconf){target="_blank"}.
             speakers:
               - trisha
           - time: '14:30 - 16:30h'
@@ -300,34 +301,31 @@ blocks:
               experiencia técnica- conoce el día a día del sector informático.
             speakers: []
           - time: '16:45 - 17:30'
-            title: No montes un estudio de videojuegos
+            title: Charla
             id: charla-daniel
-            subtitle: por Daniel Sanchez-Crespo
+            subtitle: POR CONFIRMAR
             description: >-
-              ¿Cuánto cuesta desarrollar un videojuego? ¿Cuántas unidades tendré
-              que vender para que sea rentable?
+              Una de las awesómicas y originales charlas de la TRG. STAY TUNEZ
+              ANTUNEZ porque iremos confirmándolas poco a poco.
 
 
-              En esta charla, Dani nos contará **todas las cifras que derías
-              saber —pero que nadie te contará— antes de montar un estudio de
-              videojuegos**. Si Dani no puede convencerte para que no lo hagas,
-              al menos te ayudará para que tengas más probabilidades de hacerlo
-              con éxito
+              Si no quieres perderte las novedades y noticias de la TRGx, te
+              recomendamos seguir [nuestra cuenta en
+              X](https://x.com/tarugoconf){target="_blank"}.
             speakers:
               - dani-novarama
           - time: '17:30 - 18:15 '
-            title: Effective data
+            title: Charla
             id: charla-giuseppe
-            subtitle: por Giuseppe Sollazzo
+            subtitle: POR CONFIRMAR
             description: >-
-              Los informáticos trabajan con la matería prima más cara y
-              peligrosa del mundo, la información.
+              Una de las awesómicas y originales charlas de la TRG. STAY TUNEZ
+              ANTUNEZ porque iremos confirmándolas poco a poco.
 
 
-              En este charla, Giuseppe nos explicará las mejores prácticas sobre
-              gestión de datos que ha identificado liderando múltiples proyectos
-              para el Gobierno del Reino Unido. Información que ha generado un
-              verdadero impacto en la vida de los ciudadanos británicos.
+              Si no quieres perderte las novedades y noticias de la TRGx, te
+              recomendamos seguir [nuestra cuenta en
+              X](https://x.com/tarugoconf){target="_blank"}.
             speakers:
               - giuseppe
           - time: '18:15 - 19:00h'
@@ -337,9 +335,9 @@ blocks:
               Café y bollería artesanal para aguantar hasta el final.
 
 
-              En esta ocasión, Don Robot nos llevará hasta ese 1985 de «Regreso
-              al Futuro» con una selección de música para recargar las pilas con
-              la energía de los 80.
+              En esta ocasión, Don Robot nos llevará hasta ese 1982 del primer
+              «Tron» con una selección de música para recargar las pilas con la
+              energía de los 80.
             speakers: []
           - time: '19:00 - 19:15'
             title: "\U0001F3B0 La Jerocleta"
@@ -354,29 +352,17 @@ blocks:
               Cuanto más tuitees, más posibilidades tendrás de ganar.
             speakers: []
           - time: '19:15 - 20:00h'
-            title: Cómo crear una App de pago único (y no morir en el intento)
+            title: Charla
             id: charla-rafa
-            subtitle: por Rafael Pons
+            subtitle: POR CONFIRMAR
             description: >-
-              1. Crea software que resuelva un problema o ayude a realizar una
-              tarea por el que la gente esté dispuesta a pagar.
-
-              2. Cobra una cuota mensual o anual por usarlo.
+              Una de las awesómicas y originales charlas de la TRG. STAY TUNEZ
+              ANTUNEZ porque iremos confirmándolas poco a poco.
 
 
-              PhotoPills se ha atrevido a desafiar la «receta del éxito» y con
-              más de 800.000 descargas en todo el mundo, se ha convertido en la
-              herramienta definitiva para planificar y ejecutar ideas
-              fotográficas... sin ninguna inversión externa.
-
-
-              Rafael nos contará su particular *receta* y como la han cocinado
-              no en Silicon Valley sino en Menorca.
-
-
-              En esta charla, descubrirás que hay otras formas de emprender en
-              Tecnología y ~~las hostias~~ lecciones aprendidas de una startup
-              que decidió no seguir el cámino habitual.
+              Si no quieres perderte las novedades y noticias de la TRGx, te
+              recomendamos seguir [nuestra cuenta en
+              X](https://x.com/tarugoconf){target="_blank"}.
             speakers:
               - rafa-pons
           - time: '20:00 - 20:30h'
@@ -393,7 +379,6 @@ blocks:
           - time: '20:30 - 22:30h'
             title: "\U0001F973 Legendaria Fiesta Taruga"
             id: fiesta
-            subtitle: ofrecida por Eventbrite
             description: >-
               Transformaremos La Nave en una auténtica "Sesión Vermú" con comida
               y bebida, churros, música y las mejores conversaciones del planeta
@@ -402,15 +387,14 @@ blocks:
 
               * **INTRO** - ¿Qué sonaba en 2015? Don Robot nos hará dar un
               último salto musical para bailar grandes éxitos del rock y la
-              electrónica hasta el supuesto futuro que planteaba «Regreso al
-              Futuro II».
+              electrónica hasta el supuesto futuro que planteaba «Tron».
 
               * **MAIN EVENT** - Stay tuned Antunez!
             speakers: []
       - title: 'Sábado, 16 de noviembre'
         events:
-          - time: '11:00 - 16:00h'
-            label: Community day
+          - time: '11:00 - 17:00h'
+            label: Community Day
             description: >-
               Una jornada abierta, a la que podréis traer a familia, compañeros
               y/o
@@ -685,7 +669,7 @@ blocks:
           amigos, con un montón de actividades para grandes y pequeños.
 
 
-          ¡Muy pronto publicaremos toda la información
+          Tenéis toda la info actualizada en [esta página](/community-day).
       - question: ¿Ofrecéis ayuda para gestionar viajes y/o hoteles?
         answer: >
           Sí, gracias a nuestro partnership con Vyootrip, podéis reservar
