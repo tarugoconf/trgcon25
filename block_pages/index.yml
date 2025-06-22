@@ -414,11 +414,30 @@ blocks:
         id: oyabun
         company: Docker
         role: Product Designer
-        bio: Lorem ipsum
+        bio: >-
+          Aunque muchos lo conocen por su actividad como sketchnoter, Javi es
+          mucho, MUCHO más.
+
+
+          Actualmente trabaja como Staff Product Designer en Docker donde se
+          encarga de que la experiencia de uso de los técnicos con las
+          herramientas de desarrollo sean lo más agradables y productivas
+          posible.
+
+
+          Pero Javi tiene una laaaaarguísima trayectoria en la industria y la
+          Comunidad técnica. Fue CEO de Intexmedia —un grupo de empresas que
+          llegó a tener con 44 portales de diversas temáticas en 9 idiomas
+          distintos—, es inversor en proyectos digitales en fase semilla,
+          promotor de la iniciativa Bellota Valley, CIO de Uvalent y organizador
+          de theEvnt, el evento que inspiró a David Bonilla para crear la
+          TRGCON.
         image: /files/oyabun.jpg
         links:
           - icon: x-logo
             url: 'https://x.com/oyabun'
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/javieralonsogomez/'
       - name: Paloma Barreiro
         id: paloma
         company: B100
