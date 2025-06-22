@@ -7,8 +7,8 @@ blocks:
   - type: header
     title: Entradas
     description: >
-      La TRG se celebrará **del 14 al 16 de noviembre de 2024 en La Nave
-      (Madrid)**.<br><br>Las entradas se pondrán a la venta **el 21 de julio a
+      La TRG se celebrará **del 23 al 25 de octubre de 2025 en La Nave
+      (Madrid)**.<br><br>Las entradas se pondrán a la venta **el 6 de julio a
       las 11:00h GMT** (Galician Mean Time). Los suscriptores de [La
       Bonilista](https://www.bonilista.com/){target=_blank} podrán acceder a las
       entradas *early bird* desde ese mismo momento y, un día después, —si
@@ -35,7 +35,7 @@ blocks:
       - id: workshop
         text: Entrada a un taller práctico (jueves)
       - id: dinner
-        text: "Entrada a la cena de mecenas, patrocinadores y ponentes (jueves)"
+        text: 'Entrada a la cena de mecenas, patrocinadores y ponentes (jueves)'
       - id: food
         text: Comida y bebida ilimitada durante la jornada principal (viernes)
       - id: party
@@ -62,8 +62,8 @@ blocks:
         img: /files/TRGCON 25 - icon EARLY BIRD.svg
         buy:
           text: Comprar
-          url: "https://trg24.eventbrite.es/"
-          disabled: false
+          url: 'https://trgx.eventbrite.es'
+          disabled: true
         features:
           - sold_out
           - conferences
@@ -78,8 +78,8 @@ blocks:
         img: /files/TRGCON 25 - icon NORMAL.svg
         buy:
           text: Comprar
-          url: "https://trg24.eventbrite.es/"
-          disabled: false
+          url: 'https://trgx.eventbrite.es'
+          disabled: true
         features:
           - sold_out
           - conferences
@@ -94,8 +94,8 @@ blocks:
         img: /files/TRGCON 25 - icon KILLER_COMBO.svg
         buy:
           text: Comprar
-          url: "https://trg24.eventbrite.es/"
-          disabled: false
+          url: 'https://trgx.eventbrite.es'
+          disabled: true
         features:
           - sold_out
           - conferences
@@ -111,8 +111,8 @@ blocks:
         img: /files/TRGCON 25 - icon TALLERES.svg
         buy:
           text: Comprar
-          url: "https://trg24.eventbrite.es/"
-          disabled: false
+          url: 'https://trg24.eventbrite.es/'
+          disabled: true
         features:
           - sold_out
           - workshop
@@ -121,8 +121,8 @@ blocks:
         img: /files/TRGCON 25 - icon MECENAS.svg
         buy:
           text: Comprar
-          url: "https://trg24.eventbrite.es/"
-          disabled: false
+          url: 'https://trg24.eventbrite.es/'
+          disabled: true
         features:
           - sold_out
           - conferences
@@ -140,5 +140,5 @@ blocks:
           - extra
 title: Entradas
 metas:
-  image: ""
+  image: ''
 theme: is-dark
