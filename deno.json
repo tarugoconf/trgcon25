@@ -1,7 +1,7 @@
 {
   "imports": {
     "lume/": "https://deno.land/x/lume@v3.0.3/",
-    "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@2475c842366ea41e1b152b900f599a72e4ed3a18/",
+    "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@5a0271798afdb7239d0c9ab726b9c9287befa74f/",
     "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@63a62991a3557a6982f0f3fade05aa06fe94e397/",
     "lume/jsx-runtime": "https://deno.land/x/ssx@v0.1.10/jsx-runtime.ts"
   },

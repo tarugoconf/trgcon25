@@ -533,7 +533,7 @@ blocks:
         image: /files/MODELO 7.jpg
         links: []
   - type: separator
-    width: is-default
+    width: is-invisible
   - type: pdf
     title: Cómo patrocinar
     id: patrocinio

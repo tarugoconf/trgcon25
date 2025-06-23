@@ -201,6 +201,7 @@ top-vimeo img {
   .markdown-alert {
     background: var(--color-highlight);
     margin-top: 20px;
+    border: solid 1px var(--color-secondary);
   }
 }
 .block-tickets {
@@ -263,7 +264,8 @@ top-vimeo img {
   }
 }
 
-#patrocinio2 + .block-separator.is-default {
+.block-separator.is-invisible {
+  visibility: visible;
   height: 92px;
   background-image: url("/files/separator4.png");
   background-repeat: repeat-x;
