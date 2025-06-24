@@ -106,12 +106,24 @@ blocks:
           - tshirt
           - welcome_pack
           - networking
+      - name: Online
+        pricing: 75€ + IVA
+        img: /files/TRGCON 25 - icon ON LINE.svg
+        buy:
+          text: COMPRAR
+          url: 'https://trgx.eventbrite.es/'
+          disabled: true
+        features:
+          - streaming
+          - community_day
+          - networking
+          - tshirt
       - name: Taller
         pricing: 150€ + IVA
         img: /files/TRGCON 25 - icon TALLERES.svg
         buy:
           text: Comprar
-          url: 'https://trg24.eventbrite.es/'
+          url: 'https://trgx.eventbrite.es/'
           disabled: true
         features:
           - sold_out
@@ -121,7 +133,7 @@ blocks:
         img: /files/TRGCON 25 - icon MECENAS.svg
         buy:
           text: Comprar
-          url: 'https://trg24.eventbrite.es/'
+          url: 'https://trgx.eventbrite.es/'
           disabled: true
         features:
           - sold_out
