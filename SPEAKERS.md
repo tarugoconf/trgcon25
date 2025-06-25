@@ -20,6 +20,8 @@ En esta edición queremos que las charlas en su conjunto provoquen **una reflexi
 
 Si aceptas nuestra invitación, nos reuniremos contigo para explicarte nuestra idea y conocer tu visión de la charla. Propondrás las lineas maestras de tu presentación y, tras la propuesta, se confirmará tu ponencia. Si lo deseas, te ayudaremos con el *storytelling* y el diseño de la presentación para que esta sea PERFECTA, pero tú tendrás SIEMPRE la última palabra.
 
+Esta décima edición se celebrará en [La Nave (Madrid)](https://www.lanavemadrid.com/quienes-somos/), **del 23 al 25 de octubre**, pero todas las charlas se imparten el 24, la jornada principal del evento.
+
 <div align="center">
  
 ![Timeline de Speakers](files/timeline_trg25.png)
@@ -119,8 +121,34 @@ Materiales e información que puede ayudar a los speakers a entender mejor la fi
 ## ❓ FAQ
 
 <details>
+ <summary>¿Qué día y hora será mi charla?</summary>
+  <p><br/>Todas las charlas se imparten **el viernes 24 de octubre, de 10 de la mañana hasta las 8 de la noche**. Si tienes alguna restricción de disponibilidad (por ejemplo, porque tu vuelo llegue tarde o salga pronto), no te preocupes. Ajustaremos la <a href="https://trgcon.com/#agenda" target="_blank">agenda</a> a tus necesidades.</p>
+
+</details>
+<details>
+ <summary>¿Tengo que llevar mi ordenador?</summary>
+  <p><br/>No. Todas las presentaciones van montadas en un único fichero de Keynote que se ejecuta en un ordenador conectado directamente al control audiovisual del evento. Por eso te pedimos que nos entregues la presentación por adelantado. Además, así podemos hacer pruebas en la pantalla del evento, para comprobar que las diapositivas se ven correctamente con el contraste y resoulción de la misma.</p>
+
+</details>
+<details>
+ <summary>¿En qué formato tengo que hacer mi charla?</summary>
+  <p><br/>Puedes hacerla con tu editor favorito —Powerpoint, Canva, GoogleDocs o lo que quieras—, pero nosotras lo montaremos en una presentación de Keynote, así que, si quieres asegurarte la mayor compatibilidad, te recomendamos que la entregues en formato Keynote o en PDF.</p>
+
+</details>
+<details>
+ <summary>¿Tengo que ir todos los días del evento?</summary>
+  <p><br/>No. Basta con que estés el viernes 24, al menos una hora antes de tu charla, pero esperamos que la TRG tenga una agenda lo suficientemente atractiva como para quieras estar antes y quedarte después.</p>
+
+</details>
+<details>
+ <summary>¿Qué eso de «la cena de patrocinadores, mecenas y ponentes»?</summary>
+  <p><br/>Una forma de agradeceros a todos vuestra generosidad y cooperación para hacer que el evento sea posible. Creemos que el mayor valor que podemos daros a cambio es poneros en contacto a todos, para crear relaciones profesionales —y personales— que perduren en el tiempo.</p>
+
+</details>
+
+<details>
  <summary>¿No hay <em>call for papers</em>?</summary>
-  <p><br/>Pues, hasta ahora, no. Todos los ponentes han sido invitados por la organización, pero este año <b>hemos reservado una de las charlas</b> para propuestas de la Comunidad. Si te animas, puedes enviar la tuya <a href="https://docs.google.com/forms/d/1d6ouzdXtsfQ4DVrXIH_07LAbkvWud-KcS-sLqr4XNnU/viewform?edit_requested=true" target="_blank">aquí</a>.</p>
+  <p><br/>Proactivamente, no. En 2024 hicimos un experimento y salío bastante bien, pero la verdad es que no recibimos muchas propuestas de la Comunidad. Parece que se fían de nuestro ciriterio de selección 😀 Si te animas, puedes enviar la tuya <a href="https://docs.google.com/forms/d/1d6ouzdXtsfQ4DVrXIH_07LAbkvWud-KcS-sLqr4XNnU/viewform?edit_requested=true" target="_blank">aquí</a>.</p>
 
 </details>
 
