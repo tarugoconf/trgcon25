@@ -648,6 +648,9 @@ blocks:
       - alt: Deiser
         img: /files/logos/deiser_logo.png
         url: 'https://www.deiser.com/'
+      - alt: Codely
+        img: /files/logos/codely_logo_blanco.png
+        url: 'https://codely.com/'
   - type: people
     title: Mecenas
     description: >-
