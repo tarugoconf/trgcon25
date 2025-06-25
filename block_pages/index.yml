@@ -681,6 +681,9 @@ blocks:
       - name: Roberto Canales
         img: /files/people/roberto_canales.jpg
         url: 'https://x.com/rcanalesmora'
+      - name: Pablo Grueso
+        img: /files/pablo_grueso.jpeg
+        url: 'https://www.linkedin.com/in/pablogrueso/'
   - type: faq
     title: FAQ
     id: faq
