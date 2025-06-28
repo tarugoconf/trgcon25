@@ -265,19 +265,28 @@ blocks:
             speakers:
               - oyabun
           - time: '13:45 - 14:30h'
-            title: Charla
-            id: charla-trisha
-            subtitle: POR CONFIRMAR
+            title: Los billetes de avión se compran los martes
+            id: charla-alberto
+            subtitle: Por Alberto Rey
             description: >-
-              Una de las awesómicas y originales charlas de la TRG. STAY TUNEZ
-              ANTUNEZ porque iremos confirmándolas poco a poco.
+              En esta charla descubrirás la algoritmía, infraestructura técnica
+              y modelo de negocio detrás de la estrategía de precios dinámicos
+              de las líneas areas, de la mano de alguien que las conoce
+              pefectamente porque LAS HA CREADO.
 
 
-              Si no quieres perderte las novedades y noticias de la TRGx, te
-              recomendamos seguir [nuestra cuenta en
-              X](https://x.com/tarugoconf){target="_blank"}.
+              ¿Es verdad que si visitamos la web de una aerolínea más de una vez
+              nos suben el precio de los billetes? ¿Es cierto que los martes los
+              vuelos se pueden comprar más baratos? ¿Si reservo más tarde tengo
+              la oportunidad encontrar viajes más baratos? Después de asistir a
+              esta ponencia, revisarás muchos de los mitos más extendidos sobre
+              el precio de los vuelos.
+
+
+              Nunca volverás a comprar un billete de avión como hacías hasta
+              ahora.
             speakers:
-              - trisha
+              - alberto
           - time: '14:30 - 16:30h'
             title: "\U0001F419 Comida y Pulpeirada"
             id: comida-viernes
@@ -466,17 +475,28 @@ blocks:
             url: 'https://x.com/pombita'
           - icon: linkedin-logo
             url: 'https://www.linkedin.com/in/palomabarreiro/'
-      - name: TBC
-        id: tbc1
+      - name: Alberto Rey
+        id: alberto
+        company: Zalando
+        role: VP de Pricing
         bio: >-
-          Ponente pendiente de anuncio. Stay tuned ANTUNEZ!
+          Alberto es un gestor aeronaútico al que la vida ha ido alejando de los
+          hangares para llevarle hasta los centro de datos.
 
 
-          Si no quieres perderte las novedades y noticias de la TRGx, te
-          recomendamos seguir [nuestra cuenta en
-          X](https://x.com/tarugoconf){target="_blank"}.
-        image: /files/MODELO 3.jpg
-        links: []
+          Tiene un master en *Data Science* por la Universidad de Westminster y
+          ha trabajado en un montón de compañías donde ha podido aplicar todo lo
+          aprendido.
+
+
+          Entre otras muchas cosas, fue *Head of Data Science* en **easyJet**,
+          *Chief Data Officer *de **JUST EAT**, *Director of Advanced Analytics
+          and Data Sience* en **Virgin Media / O2** y ahora es Vicepresidente de
+          Precios y *MarTech* de **Zalando**.
+        image: /files/alberto_rey.jpg
+        links:
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/albertoreyvillaverde/'
       - name: TBC
         id: tbc2
         bio: >-
@@ -687,6 +707,9 @@ blocks:
       - name: Pablo Grueso
         img: /files/pablo_grueso.jpeg
         url: 'https://www.linkedin.com/in/pablogrueso/'
+      - name: Boris Grajera
+        img: /files/people/boris.jpeg
+        url: 'https://www.linkedin.com/in/borisgragera/'
   - type: faq
     title: FAQ
     id: faq
