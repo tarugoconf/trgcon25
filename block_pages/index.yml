@@ -707,7 +707,7 @@ blocks:
       - name: Pablo Grueso
         img: /files/pablo_grueso.jpeg
         url: 'https://www.linkedin.com/in/pablogrueso/'
-      - name: Boris Grajera
+      - name: Boris Gragera
         img: /files/people/boris.jpeg
         url: 'https://www.linkedin.com/in/borisgragera/'
   - type: faq

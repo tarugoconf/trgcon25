@@ -112,7 +112,7 @@ blocks:
         buy:
           text: COMPRAR
           url: 'https://trgx.eventbrite.es/'
-          disabled: true
+          disabled: false
         features:
           - streaming
           - community_day
@@ -134,7 +134,7 @@ blocks:
         buy:
           text: Comprar
           url: 'https://trgx.eventbrite.es/'
-          disabled: true
+          disabled: false
         features:
           - sold_out
           - conferences
