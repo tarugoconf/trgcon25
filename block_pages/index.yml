@@ -710,6 +710,21 @@ blocks:
       - name: Boris Gragera
         img: /files/people/boris.jpeg
         url: 'https://www.linkedin.com/in/borisgragera/'
+      - name: Luis Ibañez
+        img: /files/people/luis_ibanez.jpeg
+        url: 'https://x.com/ender3_'
+      - name: Joaquín Fernández
+        img: /files/joaquin_fernandez.png
+        url: 'https://x.com/Iarwain'
+      - name: Toño de la Torre
+        img: /files/people/tono-de-la-torre.jpeg
+        url: 'https://twitter.com/adelatorrefoss'
+      - name: Rubén Arevalillo
+        img: /files/ruben.jpg
+        url: 'https://x.com/rarevalillo'
+      - name: Daniel Torres-Burriel
+        img: /files/people/torres-burriel.png
+        url: 'https://twitter.com/torresburriel'
   - type: faq
     title: FAQ
     id: faq
