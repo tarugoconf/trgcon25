@@ -93,7 +93,7 @@ blocks:
           - time: '15:30 - 18:00h'
             title: 'TALLER: De técnicos a Tech Leads'
             id: taller-felix
-            subtitle: POR CONFIRMAR
+            subtitle: Por Felix López
             description: >-
               En este taller se diseccionará el rol de Tech Lead y **los
               asistentes aprenderán no solo las responsabilidades habituales del
@@ -175,12 +175,13 @@ blocks:
             speakers:
               - david-bonilla
           - time: '10:15 - 11:00h'
-            title: Charla
+            title: Charla de Apertura
             id: charla-cuartielles
             subtitle: POR CONFIRMAR
             description: >-
-              Una de las awesómicas y originales charlas de la TRG. STAY TUNEZ
-              ANTUNEZ porque iremos confirmándolas poco a poco.
+              La charla de apertura de la TRG, la que marcará el tono y el
+              ambiente del evento... es posible que por eso sea la última en
+              cerrarse ¡Quién sabe!
 
 
               Si no quieres perderte las novedades y noticias de la TRGx, te
@@ -264,29 +265,27 @@ blocks:
               productos.
             speakers:
               - oyabun
-          - time: '13:45 - 14:30h'
-            title: Los billetes de avión se compran los martes
-            id: charla-alberto
-            subtitle: Por Alberto Rey
+          - time: '13:45 - 14:30'
+            title: Todos soñamos alguna vez con programar un videojuego
+            id: charla-javier
+            subtitle: Javier «Jare» Arévalo
             description: >-
-              En esta charla descubrirás la algoritmía, infraestructura técnica
-              y modelo de negocio detrás de la estrategía de precios dinámicos
-              de las líneas areas, de la mano de alguien que las conoce
-              pefectamente porque LAS HA CREADO.
+              ¿Quién no ha querido alguna vez hacer un videojuego? Sin embargo,
+              a la mayoría nuestra carrera nos ha llevado por otros derroteros.
 
 
-              ¿Es verdad que si visitamos la web de una aerolínea más de una vez
-              nos suben el precio de los billetes? ¿Es cierto que los martes los
-              vuelos se pueden comprar más baratos? ¿Si reservo más tarde tengo
-              la oportunidad encontrar viajes más baratos? Después de asistir a
-              esta ponencia, revisarás muchos de los mitos más extendidos sobre
-              el precio de los vuelos.
+              En esta charla, conocerás las tecnologías, metodologías, buenas
+              prácticas y herramientas a aprender para desarrollar un juego —si
+              te animas a dar el salto, aunque sea como *side project*— con las
+              máximas garantías de éxito, de la mano de alguien que recorrió el
+              camino contrario.
 
 
-              Nunca volverás a comprar un billete de avión como hacías hasta
-              ahora.
+              Y, de paso, **aprenderás las peculiaridades y diferencias entre el
+              desarrollo de software corporativo y videojuegos**. Dos mundos
+              aparentemente alejados, pero que pueden enriquecerse mutuamente.
             speakers:
-              - alberto
+              - the-jare
           - time: '14:30 - 16:30h'
             title: "\U0001F419 Comida y Pulpeirada"
             id: comida-viernes
@@ -309,20 +308,29 @@ blocks:
               en mano, para averiguar hasta qué punto el público general -sin
               experiencia técnica- conoce el día a día del sector informático.
             speakers: []
-          - time: '16:45 - 17:30'
-            title: Charla
-            id: charla-daniel
-            subtitle: POR CONFIRMAR
+          - time: '16:45 - 17:30h'
+            title: Los billetes de avión se compran los martes
+            id: charla-alberto
+            subtitle: Por Alberto Rey
             description: >-
-              Una de las awesómicas y originales charlas de la TRG. STAY TUNEZ
-              ANTUNEZ porque iremos confirmándolas poco a poco.
+              En esta charla descubrirás la algoritmía, infraestructura técnica
+              y modelo de negocio detrás de la estrategía de precios dinámicos
+              de las líneas areas, de la mano de alguien que las conoce
+              pefectamente porque LAS HA CREADO.
 
 
-              Si no quieres perderte las novedades y noticias de la TRGx, te
-              recomendamos seguir [nuestra cuenta en
-              X](https://x.com/tarugoconf){target="_blank"}.
+              ¿Es verdad que si visitamos la web de una aerolínea más de una vez
+              nos suben el precio de los billetes? ¿Es cierto que los martes los
+              vuelos se pueden comprar más baratos? ¿Si reservo más tarde tengo
+              la oportunidad encontrar viajes más baratos? Después de asistir a
+              esta ponencia, revisarás muchos de los mitos más extendidos sobre
+              el precio de los vuelos.
+
+
+              Nunca volverás a comprar un billete de avión como hacías hasta
+              ahora.
             speakers:
-              - dani-novarama
+              - alberto
           - time: '17:30 - 18:15 '
             title: Charla
             id: charla-giuseppe
@@ -497,16 +505,29 @@ blocks:
         links:
           - icon: linkedin-logo
             url: 'https://www.linkedin.com/in/albertoreyvillaverde/'
-      - name: TBC
-        id: tbc2
-        bio: >-
-          Ponente pendiente de anuncio. Stay tuned ANTUNEZ!
+      - name: Javier Arévalo
+        id: the-jare
+        company: Lingokids
+        role: Lead Game Engineer
+        bio: >
+          Javier Arévalo es uno de los desarrolladores de videojuegos más
+          prolíficos de la historia de España.
 
 
-          Si no quieres perderte las novedades y noticias de la TRGx, te
-          recomendamos seguir [nuestra cuenta en
-          X](https://x.com/tarugoconf){target="_blank"}.
-        image: /files/MODELO 4.jpg
+          Formó **parte de *la edad de oro* del videojuego español**,
+          programando «Stardust» y «Bronx» para máquinas de 8 bits. Dio el salto
+          a las 3D con el clásico «Speed Haste» y, durante su época en Pyro
+          Studios, desarrolló algunos de los juegos más míticos del
+          entretenimiento electrónico en nuestro país como «Commandos»,
+          «Commandos 2» o «Praetorians».
+
+
+          También ha desarrollado videojuegos para móviles y software
+          empresarial, ha sido Director Académico en la U-tad y, durante los
+          últimos 7 años, responsable técnico del desarrollo de juegos en
+          Lingokids, una plataforma educativa para niños, con más de 100
+          millones de familias registradas.
+        image: /files/jare.jpg
         links: []
       - name: TBC
         id: hugo
@@ -528,7 +549,7 @@ blocks:
           Si no quieres perderte las novedades y noticias de la TRGx, te
           recomendamos seguir [nuestra cuenta en
           X](https://x.com/tarugoconf){target="_blank"}.
-        image: /files/MODELO 5.jpg
+        image: /files/MODELO 4.jpg
         links: []
       - name: TBC
         id: tbc4
@@ -693,7 +714,7 @@ blocks:
         img: /files/people/GuillermoTRG_2.jpg
         url: 'https://twitter.com/Gmfdsr'
       - name: Juan Carlos Vez Vázquez
-        img: /files/people/juan-carlos.jpeg
+        img: /files/people/juan_carlos.png
         url: 'https://www.linkedin.com/in/juancarlosvezvazquez/'
       - name: Diego Mariño
         img: /files/people/diego-marino.jpeg
@@ -718,13 +739,19 @@ blocks:
         url: 'https://x.com/Iarwain'
       - name: Toño de la Torre
         img: /files/people/tono-de-la-torre.jpeg
-        url: 'https://twitter.com/adelatorrefoss'
+        url: 'https://es.linkedin.com/in/antoniodelatorre/es'
       - name: Rubén Arevalillo
         img: /files/ruben.jpg
         url: 'https://x.com/rarevalillo'
       - name: Daniel Torres-Burriel
         img: /files/people/torres-burriel.png
         url: 'https://twitter.com/torresburriel'
+      - name: Álvaro Amor
+        img: /files/people/alvaro-amor.jpeg
+        url: 'https://www.linkedin.com/in/alvaroamor/'
+      - name: Dimas Suárez
+        img: /files/people/dimas.jpg
+        url: 'https://massuarez.es/'
   - type: faq
     title: FAQ
     id: faq
