@@ -17,12 +17,12 @@ blocks:
     intro: |
       Madrid, 23-25 de octubre de 2025
 
-      <picture>  <source srcset="/files/trgcon-desktop4.png" media="(min-width:
-      700px)" />  <img srcset="/files/trgcon-mobile4.png"></picture> <picture>
-      <source srcset="/files/trgcon-desktop4.png" media="(min-width: 700px)" />
-      <img srcset="/files/trgcon-mobile4.png"></picture> <picture>  <source
-      srcset="/files/trgcon-desktop4.png" media="(min-width: 700px)" />  <img
-      srcset="/files/trgcon-mobile4.png"></picture>
+      <picture>  <source srcset="/files/trgcon-desktop3.png" media="(min-width:
+      700px)" />  <img srcset="/files/trgcon-mobile3.png"></picture> <picture>
+      <source srcset="/files/trgcon-desktop3.png" media="(min-width: 700px)" />
+      <img srcset="/files/trgcon-mobile3.png"></picture> <picture>  <source
+      srcset="/files/trgcon-desktop3.png" media="(min-width: 700px)" />  <img
+      srcset="/files/trgcon-mobile3.png"></picture>
   - type: imagetext
     title: 3 días / 7 charlas / 1.000 asistentes / 1 comunidad
     id: intro
