@@ -63,7 +63,7 @@ blocks:
         buy:
           text: Comprar
           url: 'https://trgx.eventbrite.es'
-          disabled: true
+          disabled: false
         features:
           - sold_out
           - conferences
@@ -79,7 +79,7 @@ blocks:
         buy:
           text: Comprar
           url: 'https://trgx.eventbrite.es'
-          disabled: true
+          disabled: false
         features:
           - sold_out
           - conferences
@@ -95,7 +95,7 @@ blocks:
         buy:
           text: Comprar
           url: 'https://trgx.eventbrite.es'
-          disabled: true
+          disabled: false
         features:
           - sold_out
           - conferences
@@ -124,7 +124,7 @@ blocks:
         buy:
           text: Comprar
           url: 'https://trgx.eventbrite.es/'
-          disabled: true
+          disabled: false
         features:
           - sold_out
           - workshop

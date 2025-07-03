@@ -86,14 +86,14 @@ blocks:
               TALLER: Herramientas y procesos para equipos de desarrollo de alto
               rendimiento
             id: taller-recena
-            subtitle: POR CONFIRMAR
+            subtitle: por Manuel Recena
             description: "Este taller lleva TRES AÑOS CONSECUTIVOS PETÁNDOLO, así que, le hemos pedido a Manuel Recena repetirlo de nuevo... aunque el solo  quiera venir como voluntario **¿conseguiremos convencerlo entre todos? \U0001F62C**\n\nConoceremos las herramientas y procesos necesarios para **conseguir que nuestro ciclo de desarrollo de software sea lo más productivo posible**.\n\nDesde definir OKRs que nos ayuden a medir nuestro progreso hasta establecer el flujo de trabajo necesario para **conseguir que el despliegue en producción de nuestro software sea tan frecuente como ABURRIDO** —porque nunca pase nada— pasando por los radiadores de información necesarios para que todo el mundo sepa lo que está pasando en cada momento.\n\nDa igual si tu equipo de desarrollo es mejor o peor, de este taller te llevarás un montón de ideas y buenas prácticas para que sea MEJOR."
             speakers:
               - recena
           - time: '15:30 - 18:00h'
             title: 'TALLER: De técnicos a Tech Leads'
             id: taller-felix
-            subtitle: Por Felix López
+            subtitle: por Félix López
             description: >-
               En este taller se diseccionará el rol de Tech Lead y **los
               asistentes aprenderán no solo las responsabilidades habituales del
@@ -268,7 +268,7 @@ blocks:
           - time: '13:45 - 14:30'
             title: Todos soñamos alguna vez con programar un videojuego
             id: charla-javier
-            subtitle: Javier «Jare» Arévalo
+            subtitle: por Javier «Jare» Arévalo
             description: >-
               ¿Quién no ha querido alguna vez hacer un videojuego? Sin embargo,
               a la mayoría nuestra carrera nos ha llevado por otros derroteros.
@@ -311,7 +311,7 @@ blocks:
           - time: '16:45 - 17:30h'
             title: Los billetes de avión se compran los martes
             id: charla-alberto
-            subtitle: Por Alberto Rey
+            subtitle: por Alberto Rey
             description: >-
               En esta charla descubrirás la algoritmía, infraestructura técnica
               y modelo de negocio detrás de la estrategía de precios dinámicos
@@ -752,6 +752,12 @@ blocks:
       - name: Dimas Suárez
         img: /files/people/dimas.jpg
         url: 'https://massuarez.es/'
+      - name: Rubén Morgade
+        img: /files/ruben_morgade.jpeg
+        url: 'https://www.linkedin.com/in/rubenmorgade/'
+      - name: Iván Fernandez
+        img: /files/ivan.jpg
+        url: 'https://www.linkedin.com/in/iv%C3%A1n-fern%C3%A1ndez-calvo-21425033/'
   - type: faq
     title: FAQ
     id: faq
