@@ -693,6 +693,9 @@ blocks:
       - alt: Manfred
         img: /files/logos/manfred.png
         url: 'https://www.getmanfred.com/'
+      - alt: Merlin Software
+        img: /files/logos/merlin_logo_white-1-768x232.png
+        url: 'https://merlinsoftware.es/'
       - alt: Grupo Billingham
         img: /files/logos/logo_billingham.png
         url: 'https://www.grupobillingham.com/'
