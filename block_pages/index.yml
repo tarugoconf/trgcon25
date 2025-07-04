@@ -75,11 +75,15 @@ blocks:
           - time: '15:30 - 18:00h'
             title: TALLERES de patrocinadores
             id: taller-sponsors
-            subtitle: POR CONFIRMAR
+            subtitle: SNGULAR
             description: >-
               Talleres patrocinados por nuestros sponsors, que abren a los
               asistentes de la TRG que se hagan con una de las invitaciones
               ¡Hablad con ellos!
+
+
+              * SNGULAR (con su división Tecnofor) dará un taller de «Vibe
+              Coding».
             speakers: []
           - time: '15:30 - 18:00h'
             title: >-
@@ -667,7 +671,7 @@ blocks:
         description: Dominios y Alojamiento web de calidad
       - alt: Jakala
         img: /files/logos/jakala_logo.png
-        url: 'https://www.jakala.com/es/ '
+        url: 'https://www.jakala.com/es/'
         description: 'Datos, IA y experiencias con un impacto útil y duradero.'
       - alt: Shakers
         img: /files/logos/logo_shakers_blanco.png
@@ -770,6 +774,9 @@ blocks:
       - name: Iván Fernandez
         img: /files/ivan.jpg
         url: 'https://www.linkedin.com/in/iv%C3%A1n-fern%C3%A1ndez-calvo-21425033/'
+      - name: Marc de Mena
+        img: /files/people/1751265423364.jpeg
+        url: 'https://www.linkedin.com/in/mdemena/'
   - type: faq
     title: FAQ
     id: faq
