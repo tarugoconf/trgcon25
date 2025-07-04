@@ -661,6 +661,18 @@ blocks:
         img: /files/holafly-logo.png
         url: 'https://esim.holafly.com/es/'
         description: Mantente conectado donde sea que vayas.
+      - alt: Raiola Networks
+        img: /files/logos/logo_raiola.png
+        url: 'https://raiolanetworks.com/'
+        description: Dominios y Alojamiento web de calidad
+      - alt: Jakala
+        img: /files/logos/jakala_logo.png
+        url: 'https://www.jakala.com/es/ '
+        description: 'Datos, IA y experiencias con un impacto útil y duradero.'
+      - alt: Shakers
+        img: /files/logos/logo_shakers_blanco.png
+        url: 'https://www.shakersworks.com/'
+        description: La casa del freeworking
       - alt: Eventbrite
         img: /files/logos/eventbrite_logo.png
         url: 'https://www.eventbrite.es/'
