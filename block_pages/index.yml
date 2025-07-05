@@ -711,6 +711,9 @@ blocks:
       - alt: Codely
         img: /files/logos/codely_logo_blanco.png
         url: 'https://codely.com/'
+      - alt: Genially
+        img: /files/logos/genially_logo_blanco.png
+        url: 'https://genially.com/'
   - type: people
     title: Mecenas
     description: >-
