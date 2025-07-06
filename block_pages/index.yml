@@ -780,6 +780,9 @@ blocks:
       - name: Marc de Mena
         img: /files/people/1751265423364.jpeg
         url: 'https://www.linkedin.com/in/mdemena/'
+      - name: Pablo Santos
+        img: /files/people/pablo-santos.jpg
+        url: 'https://www.linkedin.com/in/psantosl/'
   - type: faq
     title: FAQ
     id: faq
