@@ -783,6 +783,15 @@ blocks:
       - name: Pablo Santos
         img: /files/people/pablo-santos.jpg
         url: 'https://www.linkedin.com/in/psantosl/'
+      - name: Juan Miqueo
+        img: /files/people/juan-miqueo.jpeg
+        url: 'https://twitter.com/juan_miqueo'
+      - name: Brais Méndez
+        img: /files/people/brais_mendez.jpeg
+        url: 'https://www.linkedin.com/in/brais-mendez/'
+      - name: Ricardo Bartolomé
+        img: /files/people/ricardo-bartolome.jpeg
+        url: 'https://www.linkedin.com/in/ricardobartolome/'
   - type: faq
     title: FAQ
     id: faq
