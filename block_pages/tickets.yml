@@ -61,9 +61,9 @@ blocks:
         pricing: 165€ + IVA
         img: /files/TRGCON 25 - icon EARLY BIRD.svg
         buy:
-          text: Comprar
+          text: AGOTADAS
           url: 'https://trgx.eventbrite.es'
-          disabled: false
+          disabled: true
         features:
           - sold_out
           - conferences
