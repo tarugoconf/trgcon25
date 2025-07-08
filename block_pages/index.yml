@@ -792,6 +792,15 @@ blocks:
       - name: Ricardo Bartolomé
         img: /files/people/ricardo-bartolome.jpeg
         url: 'https://www.linkedin.com/in/ricardobartolome/'
+      - name: Daniel López
+        img: /files/people/daniel-lopez.jpeg
+        url: 'http://twitter.com/vomkriege'
+      - name: Guillermo de Haro
+        img: /files/people/guillermo_haro.jpeg
+        url: 'https://www.linkedin.com/in/guillermodeharo/'
+      - name: Alberto Barranco
+        img: /files/alberto_barranco.jpeg
+        url: 'https://www.linkedin.com/in/alberto-barranco-ramon/'
   - type: faq
     title: FAQ
     id: faq
