@@ -801,6 +801,9 @@ blocks:
       - name: Alberto Barranco
         img: /files/alberto_barranco.jpeg
         url: 'https://www.linkedin.com/in/alberto-barranco-ramon/'
+      - name: Rei Aguilera
+        img: /files/people/rei_aguilera.jpg
+        url: 'https://www.linkedin.com/in/reiaguilera/'
   - type: faq
     title: FAQ
     id: faq
