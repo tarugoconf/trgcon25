@@ -621,6 +621,12 @@ blocks:
       *awesómicas* oportunidades de
       patrocinio](https://www.dropbox.com/scl/fi/06f7fbh2eqep3bab0vnxh/TRG24_sponsorship_deck_ES.pdf?rlkey=cz12k1c7wyxins6jv71qfjeyk&dl=0){target=_blank}
       ¡graciñas!
+
+
+      <!--
+      [![Image](files/logos/wordpresscom_white.png){width=600}](https://wordpress.com/es/ppc/creador-de-paginas-web-wordpress/?utm_medium=referral&utm_source=TRG2025&utm_campaign=eventhomepage){target=_blank}
+
+      Crea tu web con los mejores. -->
     size: medium
     items:
       - alt: Panel
@@ -750,6 +756,9 @@ blocks:
       - name: Boris Gragera
         img: /files/people/boris.jpeg
         url: 'https://www.linkedin.com/in/borisgragera/'
+      - name: Anca Gabriela Munteanu
+        img: /files/people/1693560140064.jpeg
+        url: 'https://www.linkedin.com/in/ancagmun/'
       - name: Luis Ibañez
         img: /files/people/luis_ibanez.jpeg
         url: 'https://x.com/ender3_'
@@ -801,6 +810,12 @@ blocks:
       - name: Alberto Barranco
         img: /files/alberto_barranco.jpeg
         url: 'https://www.linkedin.com/in/alberto-barranco-ramon/'
+      - name: Ricardo Sanz
+        img: /files/people/1678785630423.jpeg
+        url: 'https://www.linkedin.com/in/ricardosanzmartinez/'
+      - name: Sebastián Vidal
+        img: /files/people/1590677484641.jpeg
+        url: 'https://www.linkedin.com/in/sebasvidal/'
   - type: faq
     title: FAQ
     id: faq
