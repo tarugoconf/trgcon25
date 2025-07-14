@@ -816,6 +816,9 @@ blocks:
       - name: Sebastián Vidal
         img: /files/people/1590677484641.jpeg
         url: 'https://www.linkedin.com/in/sebasvidal/'
+      - name: Rei Aguilera
+        img: /files/people/rei_aguilera.jpg
+        url: 'https://www.linkedin.com/in/reiaguilera/'
   - type: faq
     title: FAQ
     id: faq
