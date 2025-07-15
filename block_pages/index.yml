@@ -819,6 +819,9 @@ blocks:
       - name: Rei Aguilera
         img: /files/people/rei_aguilera.jpg
         url: 'https://www.linkedin.com/in/reiaguilera/'
+      - name: Alfonso Gutierrez
+        img: /files/people/alfonso.jpg
+        url: 'https://www.linkedin.com/in/alfonsogu/'
   - type: faq
     title: FAQ
     id: faq
