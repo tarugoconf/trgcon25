@@ -14,15 +14,23 @@ menu:
 blocks:
   - type: hero
     title: TRGCONx
-    intro: |
+    intro: >
       Madrid, 23-25 de octubre de 2025
 
-      <picture>  <source srcset="/files/trgcon-desktop3.png" media="(min-width:
-      700px)" />  <img srcset="/files/trgcon-mobile3.png"></picture> <picture>
-      <source srcset="/files/trgcon-desktop3.png" media="(min-width: 700px)" />
-      <img srcset="/files/trgcon-mobile3.png"></picture> <picture>  <source
-      srcset="/files/trgcon-desktop3.png" media="(min-width: 700px)" />  <img
-      srcset="/files/trgcon-mobile3.png"></picture>
+
+      <picture>  <source srcset="/files/trgcon-desktop3wp.png"
+      media="(min-width:
+
+      700px)" />  <img srcset="/files/trgcon-mobile3wp.png"></picture> <picture>
+
+      <source srcset="/files/trgcon-desktop3wp.png" media="(min-width: 700px)"
+      />
+
+      <img srcset="/files/trgcon-mobile3wp.png"></picture> <picture>  <source
+
+      srcset="/files/trgcon-desktop3wp.png" media="(min-width: 700px)" />  <img
+
+      srcset="/files/trgcon-mobile3wp.png"></picture>
   - type: imagetext
     title: 3 días / 7 charlas / 1.000 asistentes / 1 comunidad
     id: intro
@@ -623,10 +631,9 @@ blocks:
       ¡graciñas!
 
 
-      <!--
       [![Image](files/logos/wordpresscom_white.png){width=600}](https://wordpress.com/es/ppc/creador-de-paginas-web-wordpress/?utm_medium=referral&utm_source=TRG2025&utm_campaign=eventhomepage){target=_blank}
 
-      Crea tu web con los mejores. -->
+      Crea, publica, y despega.
     size: medium
     items:
       - alt: Panel
@@ -641,10 +648,10 @@ blocks:
         img: /files/logos/logo_540_blanco.png
         url: 'https://www.540deg.com/'
         description: Desarrollo de software de calidad con pragmatismo.
-      - alt: Diverger
-        img: /files/logos/logo_diverger_blanco.png
-        url: 'https://diverger.ai/'
-        description: Desarrollamos software con IA Generativa y el mejor talento humano.
+      - alt: Pétalo
+        img: /files/logos/petalo-logo-negativo-blanco.png
+        url: 'https://petalo.xyz/'
+        description: Las empresas no se venden.
       - alt: Extramile
         img: /files/logos/extramile.png
         url: 'https://extramilecloud.com/'
@@ -822,6 +829,9 @@ blocks:
       - name: Alfonso Gutierrez
         img: /files/people/alfonso.jpg
         url: 'https://www.linkedin.com/in/alfonsogu/'
+      - name: Elisardo González
+        img: /files/people/elisardo.jpg
+        url: 'https://x.com/odrasile'
   - type: faq
     title: FAQ
     id: faq
