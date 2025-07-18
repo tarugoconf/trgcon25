@@ -784,9 +784,14 @@ blocks:
       - name: Álvaro Amor
         img: /files/people/alvaro-amor.jpeg
         url: 'https://www.linkedin.com/in/alvaroamor/'
+      - name: Ricardo Bartolomé
+        img: /files/people/ricardo-bartolome.jpeg
+        url: 'https://www.linkedin.com/in/ricardobartolome/'
       - name: Dimas Suárez
         img: /files/people/dimas.jpg
         url: 'https://massuarez.es/'
+      - name: Sofía Rodríguez
+        img: /files/people/sofia.jpg
       - name: Rubén Morgade
         img: /files/ruben_morgade.jpeg
         url: 'https://www.linkedin.com/in/rubenmorgade/'
@@ -805,9 +810,6 @@ blocks:
       - name: Brais Méndez
         img: /files/people/brais_mendez.jpeg
         url: 'https://www.linkedin.com/in/brais-mendez/'
-      - name: Ricardo Bartolomé
-        img: /files/people/ricardo-bartolome.jpeg
-        url: 'https://www.linkedin.com/in/ricardobartolome/'
       - name: Daniel López
         img: /files/people/daniel-lopez.jpeg
         url: 'http://twitter.com/vomkriege'
