@@ -103,6 +103,47 @@ blocks:
             speakers:
               - recena
           - time: '15:30 - 18:00h'
+            title: >-
+              TALLER: Revoluciona tus formaciones. De «cursos» a experiencias de
+              aprendizaje
+            id: taller-maria
+            subtitle: por María Berenguer
+            description: >-
+              ¿Quieres crear formaciones memorables y que las personas conecten
+              y aprendan de forma activa?
+
+
+              Basado en neurociencia cognitiva, la **metodología Training from
+              the BACK of the Room!** propone dejar de centrar la formación en
+              quien la imparte y ponerla en manos de quienes aprenden: activar
+              su mente, hacerles practicar y aplicar para lograr un aprendizaje
+              profundo y duradero.
+
+
+              En este taller María te guiará a través del formato de diseño de
+              las 4C (Conexiones, Conceptos, Práctica Concreta y Conclusiones)
+              para **que empieces a crear desde cero las mejores formaciones o
+              mejores los que ya tengas**. Trabajarás con otras personas,
+              compartirás ideas y aprenderás herramientas que podrás aplicar de
+              inmediato.
+
+
+              ¿Qué te llevarás?
+
+              * Un primer borrador de tu formación (curso, taller, webinar,
+              workshop…), listo para seguir desarrollando tras el taller.
+
+              * Una primera aproximación a TBR, entendiendo cómo puede ayudarte
+              a diseñar sesiones más participativas y efectivas.
+
+
+              No necesitas experiencia previa en TBR; este taller está pensado
+              tanto para quienes llevan años formando como para quienes empiezan
+              ahora. Solo necesitas traer una idea de la formación que quieras
+              diseñar… ¡y muchas ganas de experimentar!
+            speakers:
+              - recena
+          - time: '15:30 - 18:00h'
             title: 'TALLER: De técnicos a Tech Leads'
             id: taller-felix
             subtitle: por Félix López
