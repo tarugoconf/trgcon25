@@ -60,6 +60,18 @@ blocks:
         description: >-
           Zona para que los niños de 3 a 6 años puedan jugar, vigilados por
           monitores titulados.
+      - title: Taller de Caligrafía
+        tags:
+          - Niños
+          - Jóvenes
+          - Adultos
+        img: /files/logos/raulmuro1.jpg
+        description: >-
+          Con el ilustrador [Raúl
+          Muro](https://www.instagram.com/raul_muro/){target="_blank"},
+          aprenderás los trazos básicos de la caligrafía utilizando *brushpen*.
+          También verás la diferencia que existe con el lettering, entre otras
+          muchas cosas.
       - title: Taller de DJs
         tags:
           - Niños
