@@ -176,7 +176,7 @@ blocks:
             speakers: []
           - time: '20:00 - 22:00h'
             title: 10 años en coma en el sector de la tecnología
-            id: podcasting-jueves
+            id: show-jueves
             subtitle: por Codely
             description: >-
               ¿Os imignaís como se sentiría un programador que hubiera tenido un
