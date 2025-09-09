@@ -228,20 +228,32 @@ blocks:
             speakers:
               - david-bonilla
           - time: '10:15 - 11:00h'
-            title: Charla de Apertura
-            id: charla-cuartielles
-            subtitle: POR CONFIRMAR
+            title: Hackeando Silicon Valley
+            id: charla-aitor
+            subtitle: por Aitor Guevara
             description: >-
-              La charla de apertura de la TRG, la que marcará el tono y el
-              ambiente del evento... es posible que por eso sea la última en
-              cerrarse ¡Quién sabe!
+              Silicon Valley, El Valle, «The Bay Area»... la zona que se ha
+              erigido en epicentro mundial de la innovación y el negocio
+              tecnológicos, hasta el punto de <strong>instalarse en el
+              imaginario popular como el sitio donde hay que estar para pintar
+              algo en la industria</strong>.
 
 
-              Si no quieres perderte las novedades y noticias de la TRGx, te
-              recomendamos seguir [nuestra cuenta en
-              X](https://x.com/tarugoconf){target="_blank"}.
+              ¿Pero es Silicon Valley un lugar o, más bien, una idea exportable
+              al resto del mundo?
+
+
+              En esta charla, Aitor compartirá <strong>su experiencia creando
+              equipo aquí para importantes empresas de allá</strong>, logrando
+              influir e incluso liderar de manera definitiva parte de la
+              estrategia tecnológica de las mismas sin moverse de Barcelona.
+
+
+              Si te preguntas <strong>cómo tener impacto en un «unicornio»
+              tecnológico desde dentro sin renunciar a la tortilla de
+              patatas</strong>, esta es tu charla.
             speakers:
-              - david-cuartielles
+              - aitor
           - time: '11:00 - 11:45h'
             title: Como montar tu propio banco online
             id: charla-paloma
@@ -582,6 +594,26 @@ blocks:
           millones de familias registradas.
         image: /files/jare.jpg
         links: []
+      - name: Aitor Guevara
+        id: aitor
+        company: Stripe
+        role: Head of Engineering
+        bio: >-
+          Ingeniero con más de 20 años de experiencia. Co-fundador y CTO de
+          Ducksboard que fue adquirida por New Relic, donde llegó a ser
+          Vicepresidente de Tecnología.
+
+
+          Lidera desde mayo de 2021 el área de plataforma de frontend en Stripe,
+          coordinando desde Barcelona equipos globales dedicados a la
+          infraestructura que impulsa pagos y comercio digital. Asegura que su
+          nombre significa «tío molón» en euskera.
+        image: /files/aitor_guevara.jpg
+        links:
+          - icon: x-logo
+            url: 'https://x.com/aitorciki'
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/aitorciki/'
       - name: TBC
         id: hugo
         bio: >-
@@ -603,17 +635,6 @@ blocks:
           recomendamos seguir [nuestra cuenta en
           X](https://x.com/tarugoconf){target="_blank"}.
         image: /files/MODELO 4.jpg
-        links: []
-      - name: TBC
-        id: tbc4
-        bio: >-
-          Ponente pendiente de anuncio. Stay tuned ANTUNEZ!
-
-
-          Si no quieres perderte las novedades y noticias de la TRGx, te
-          recomendamos seguir [nuestra cuenta en
-          X](https://x.com/tarugoconf){target="_blank"}.
-        image: /files/MODELO 6.jpg
         links: []
       - name: TBC
         id: tbc5
@@ -876,6 +897,12 @@ blocks:
       - name: Elisardo González
         img: /files/people/elisardo.jpg
         url: 'https://x.com/odrasile'
+      - name: Javier Ramírez
+        img: files/people/fotojavi.jpeg
+        url: 'https://www.linkedin.com/in/javierramirezblanes/'
+      - name: Diego Rodriguez-Losada
+        img: /files/people/diego_rodriguez.jpeg
+        url: 'https://www.linkedin.com/in/diego-rodriguez-losada-47339910/'
   - type: faq
     title: FAQ
     id: faq
