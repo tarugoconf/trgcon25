@@ -903,6 +903,12 @@ blocks:
       - name: Diego Rodriguez-Losada
         img: /files/people/diego_rodriguez.jpeg
         url: 'https://www.linkedin.com/in/diego-rodriguez-losada-47339910/'
+      - name: Fátima Ballesteros
+        img: /files/people/fatima.jpg
+        url: 'https://www.linkedin.com/in/fatima-ballesteros-11b1183b/'
+      - name: Alejandro San Nicolás
+        img: /files/people/alejandro.jpg
+        url: 'https://www.linkedin.com/in/alejandrosnicolas/'
   - type: faq
     title: FAQ
     id: faq
