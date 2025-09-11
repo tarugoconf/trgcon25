@@ -462,16 +462,19 @@ blocks:
             title: "\U0001F973 Legendaria Fiesta Taruga"
             id: fiesta
             description: >-
-              Transformaremos La Nave en una auténtica "Sesión Vermú" con comida
-              y bebida, churros, música y las mejores conversaciones del planeta
-              porque... LA VIDA PUEDE SER MARAVILLOSA.
+              Transformaremos La Nave en una auténtica «discoteque» con comida y
+              bebida, **suministro ilimitado de churros con y sin chocolate**,
+              música y las mejores conversaciones del planeta porque... LA VIDA
+              PUEDE SER MARAVILLOSA.
 
 
-              * **INTRO** - ¿Qué sonaba en 2015? Don Robot nos hará dar un
-              último salto musical para bailar grandes éxitos del rock y la
-              electrónica hasta el supuesto futuro que planteaba «Tron».
+              * **INTRO** - Este año contaremos con la actuación de **Fake
+              Punk**, una pareja de DJs que rendirá homenaje a Daft Punk con un
+              set lleno de energía y buena música.
 
-              * **MAIN EVENT** - Stay tuned Antunez!
+              * **MAIN EVENT** - Una estrella de la música, uno de esos artistas
+              que todos conocemos, nos ayudará a poner el broche final al día.
+              Stay tuned Antunez!
             speakers: []
       - title: 'Sábado, 25 de octubre'
         events:
