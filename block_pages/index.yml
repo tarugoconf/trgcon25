@@ -760,7 +760,7 @@ blocks:
         url: 'https://www.eventbrite.es/'
         description: Proveedor Oficial de Ticketing de la TRG.
       - alt: Secuoyas
-        img: /files/logos/secuoyas white.png
+        img: /files/logos/secuoyas-white.png
         url: 'https://www.secuoyas.com/'
         description: Innovación para humanistas digitales
       - alt: Ayuntamiento de Madrid
