@@ -1,9 +1,9 @@
 {
   "imports": {
-    "lume/": "https://deno.land/x/lume@v3.0.3/",
-    "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@5a0271798afdb7239d0c9ab726b9c9287befa74f/",
-    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@63a62991a3557a6982f0f3fade05aa06fe94e397/",
-    "lume/jsx-runtime": "https://deno.land/x/ssx@v0.1.10/jsx-runtime.ts"
+    "lume/": "https://deno.land/x/lume@v3.0.11/",
+    "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@0.4.0/",
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.12.5/",
+    "lume/jsx-runtime": "https://deno.land/x/ssx@v0.1.12/jsx-runtime.ts"
   },
   "lock": false,
   "tasks": {
@@ -26,7 +26,12 @@
   ],
   "lint": {
     "plugins": [
-      "https://deno.land/x/lume@v3.0.3/lint.ts"
-    ]
+      "https://deno.land/x/lume@v3.0.11/lint.ts"
+    ],
+    "rules": {
+      "exclude": [
+        "no-import-prefix"
+      ]
+    }
   }
 }
