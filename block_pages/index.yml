@@ -940,7 +940,7 @@ blocks:
       - name: Alejandro San Nicolás
         img: /files/people/alejandro.jpg
         url: 'https://www.linkedin.com/in/alejandrosnicolas/'
-      - name: David Serrra
+      - name: David Serrano
         img: /files/people/david_serra.jpeg
         url: 'https://www.linkedin.com/in/davidserr/'
   - type: faq
