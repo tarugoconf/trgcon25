@@ -397,19 +397,23 @@ blocks:
             speakers:
               - alberto
           - time: '17:30 - 18:15 '
-            title: Charla
-            id: charla-giuseppe
-            subtitle: POR CONFIRMAR
+            title: La tecnología detrás de la lucha contra el fuego
+            id: charla-macarena
+            subtitle: por Macarena Ortega
             description: >-
-              Una de las awesómicas y originales charlas de la TRG. STAY TUNEZ
-              ANTUNEZ porque iremos confirmándolas poco a poco.
+              Este verano, España ha sufrido seis de los diez mayores incendios
+              forestales del siglo XXI y tanto el incremento de temperaturas
+              provocado por el cambio climático como el abandono del medio rural
+              hacen a los expertos vaticinar que lo que viene puede ser mucho
+              peor.
 
 
-              Si no quieres perderte las novedades y noticias de la TRGx, te
-              recomendamos seguir [nuestra cuenta en
-              X](https://x.com/tarugoconf){target="_blank"}.
+              En esta charla Macarena nos contará cómo una pequeña empresa
+              española decidió no rendirse y encontrar una solución, combinando
+              software, hardware y ciencia de datos hasta convertirse en un
+              referente mundial en la lucha contra el fuego.
             speakers:
-              - giuseppe
+              - macarena
           - time: '18:15 - 19:00h'
             title: "\U0001F36A Merienda"
             id: merienda-viernes
@@ -461,6 +465,7 @@ blocks:
           - time: '20:30 - 22:30h'
             title: "\U0001F973 Legendaria Fiesta Taruga"
             id: fiesta
+            subtitle: ofrecida por Slimbook
             description: >-
               Transformaremos La Nave en una auténtica «discoteque» con comida y
               bebida, **suministro ilimitado de churros con y sin chocolate**,
@@ -617,17 +622,33 @@ blocks:
             url: 'https://x.com/aitorciki'
           - icon: linkedin-logo
             url: 'https://www.linkedin.com/in/aitorciki/'
-      - name: TBC
-        id: hugo
+      - name: Macarena Ortega
+        id: macarena
+        company: Technosylva
+        role: Data QA Manager
         bio: >-
-          Ponente pendiente de anuncio. Stay tuned ANTUNEZ!
+          Macarena es una ingeniera² (de Montes y de Obras Públicas) que ha
+          desarrollado su trayectoria profesional en el ámbito de los incendios
+          forestales.
 
 
-          Si no quieres perderte las novedades y noticias de la TRGx, te
-          recomendamos seguir [nuestra cuenta en
-          X](https://x.com/tarugoconf){target="_blank"}.
-        image: /files/MODELO 2.jpg
-        links: []
+          Apasionada por los montes y su protección, ha combinado la experiencia
+          práctica con la investigación científica, especializándose en el
+          análisis y la validación de datos. Su paso por el dispositivo de
+          extinción de incendios forestales de Andalucía (INFOCA) le permitió
+          descubrir de primera mano la complejidad del fuego y el impacto social
+          del mismo.
+
+
+          Actualmente, lidera en Technosylva el equipo responsable de garantizar
+          la calidad de datos, asegurando que sean precisos, consistentes y
+          confiables, con el fin de <strong>permitir la toma de decisiones
+          críticas para la protección de vidas humanas<strong> y la conservación
+          de los ecosistemas forestales.
+        image: /files/macarena_ortega.jpg
+        links:
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/macarena-ortega-pardo-3598aaa9/'
       - name: TBC
         id: tbc3
         bio: >-
@@ -919,6 +940,9 @@ blocks:
       - name: Alejandro San Nicolás
         img: /files/people/alejandro.jpg
         url: 'https://www.linkedin.com/in/alejandrosnicolas/'
+      - name: David Serrra
+        img: /files/people/david_serra.jpeg
+        url: 'https://www.linkedin.com/in/davidserr/'
   - type: faq
     title: FAQ
     id: faq
