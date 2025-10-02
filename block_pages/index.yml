@@ -943,6 +943,9 @@ blocks:
       - name: David Serrano
         img: /files/people/david_serra.jpeg
         url: 'https://www.linkedin.com/in/davidserr/'
+      - name: Jose Luis Cases
+        img: /files/people/jose-luis-cases.jpeg
+        url: 'https://www.linkedin.com/in/jose-luis-cases-lozano/'
   - type: faq
     title: FAQ
     id: faq
