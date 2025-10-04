@@ -504,12 +504,14 @@ blocks:
             id: pasillo-central
           - title: Rincón Smart Troll
             id: smart-troll
+          - title: Stand Slimbook
+            id: slimbook
           - title: Aula 1
             id: aula1
           - title: Aula 2
             id: aula2
-          - title: Pista de Padel
-            id: pista-padel
+          - title: Pista de Windjammers
+            id: pista-windjammers
           - title: Cafetería
             id: cafeteria
           - title: Escenario
@@ -666,16 +668,23 @@ blocks:
             track: smart-troll
             speakers: []
           - time: '11:00 - 12:30h'
-            title: "\U0001F3C6 Torneo Benéfico de Padel"
-            track: pista-padel
+            title: "\U0001F3C6 Torneo Benéfico de Windjammers"
+            track: pista-windjammers
             speakers: []
           - time: '12:30 - 16:00h'
-            title: "\U0001F3BE Fun & Padel"
-            track: pista-padel
+            title: "\U0001F94F Fun & Frisbee"
+            track: pista-windjammers
             speakers: []
           - time: '12:00 - 14:00h'
             title: Carrera de LEDs
             track: zona-infantil
+            speakers: []
+          - time: '11:00 - 15:00'
+            title: Torneo Fortnite apto para Boomers
+            id: torneo-fortnite
+            subtitle: powered by Team Heretics
+            track: slimbook
+            description: Torneo de Fortnite apto para jugadores de todas las edades.
             speakers: []
   - type: speakers
     title: Speakers
