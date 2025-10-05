@@ -481,16 +481,6 @@ blocks:
               que todos conocemos, nos ayudará a poner el broche final al día.
               Stay tuned Antunez!
             speakers: []
-      - title: 'Sábado, 25 de octubre'
-        events:
-          - time: '11:00 - 17:00h'
-            label: Community Day
-            description: >-
-              Una jornada abierta, a la que podréis traer a familia, compañeros
-              y/o
-                    amigos, con un montón de actividades para grandes y pequeños. Tenéis mucha
-                    más info [en esta página](/community-day/).
-            speakers: []
   - type: multitrack-calendar
     title: Sábado 25 de octubre
     description: >-
@@ -502,41 +492,27 @@ blocks:
       - tracks:
           - title: Pasillo central
             id: pasillo-central
-          - title: Rincón Smart Troll
-            id: smart-troll
           - title: Stand Slimbook
             id: slimbook
+          - title: Cafetería - Open Space
+            id: cafeteria
           - title: Aula 1
             id: aula1
           - title: Aula 2
             id: aula2
           - title: Pista de Windjammers
             id: pista-windjammers
-          - title: Cafetería
-            id: cafeteria
           - title: Escenario
             id: escenario
           - title: Stand Next Digital
             id: next-digital
           - title: Zona Infantil
             id: zona-infantil
+          - title: Flynn's Arcade
+            id: flynns
           - title: Parking exterior
             id: parking
         events:
-          - time: '11:00 - 17:00h'
-            title: Juegos tradicionales de madera
-            id: juegos-madera
-            track: pasillo-central
-            speakers: []
-          - time: '11:00 - 17:00h'
-            title: Arcades y Simuladores
-            id: arcades
-            track: pasillo-central
-            speakers: []
-          - time: '11:00 - 17:00h'
-            title: Futbolines
-            track: pasillo-central
-            speakers: []
           - time: '11:00h - 17:00h'
             title: "\U0001F3CE️ Scalextric GIGANTE de 4 pistas"
             track: pasillo-central
@@ -544,6 +520,26 @@ blocks:
           - time: '11:00 - 17:00h'
             title: 'Twister, Jenga, Conecta 4 y damas MEGAGIGANTES'
             track: pasillo-central
+            speakers: []
+          - time: '11:00 - 17:00h'
+            title: Juegos tradicionales de madera
+            id: juegos-madera
+            track: pasillo-central
+            speakers: []
+          - time: '11:00 - 17:00h'
+            title: Futbolines
+            track: pasillo-central
+            speakers: []
+          - time: '11:00 - 17:00'
+            title: Ludoteca para niños de 3 a 6 años
+            id: ludoteca
+            track: pasillo-central
+            description: |-
+              Zona de juegos para edades de 3 a 6 años, compuesta por:
+              * Tapiz de suelo con construcciones
+              * Toboganes
+              * Balancines
+              * Mesas y silla para taller de pinta y colorea
             speakers: []
           - time: '11:00 - 16:00h'
             title: Tienda
@@ -571,6 +567,12 @@ blocks:
             title: Ludoteca
             id: ludoteca
             track: zona-infantil
+            description: |-
+              Zona de juegos para edades de 3 a 6 años, compuesta por:
+              * Tapiz de suelo con construcciones
+              * Toboganes
+              * Balancines
+              * Mesas y silla para taller de pinta y colorea
             speakers: []
           - time: '11:00 - 16:00h'
             title: Juegos de conos
@@ -582,40 +584,86 @@ blocks:
             id: taller-chapas
             track: next-digital
             speakers: []
-          - time: '11:00 - 12:30h'
-            title: JuegoConSentido
-            id: juegoconsentido
+          - time: '11:30 - 12:30h'
+            title: Cuidado con las macros ocultas
+            id: macrosocultas
             label: Podcast
             track: escenario
+            description: >-
+              Los amigochos del podcast ["Cuidado con las Macros
+              Ocultas"](https://open.spotify.com/show/5tMKmeiQlKlyZC2qC8TyTb){target=_blank}
+              grabaran un podcast en directo en el que contarán con interesantes
+              invitados:
+
+
+              * **Claudia Caso**, presidenta Fundación Sol y miembro de la
+              Plataforma Control Z
+
+              * **Francisco Pérez Bes**, abogado especializado en derecho
+              digital y adjunto a la Asociación Española de Protección de Datos
+
+              * **Óscar Martín Centeno**, Director de la escuela Danto Domingo
+              de Algete y presidente del Consejo de Directores de Madrid. 
             speakers: []
-          - time: '12:30 - 14:00h'
-            title: Heavy Mental!
-            id: heavymental-sabado
+          - time: '12:30 - 13:15'
+            title: Cambiemos la Dislexia
+            label: Charla
+            track: escenario
+            description: >-
+              Dentro de poco anunciaremos más sobre esta interesante charla...
+              ¡Stay tuned Antunez!
+            speakers: []
+          - time: '13:15 - 14:15h'
+            title: CodelyTV !!!
+            id: codely-sabado
             label: Podcast
             track: escenario
+            description: >-
+              Los chicos de
+              [Codely](https://www.youtube.com/@CodelyTV){target=_blank}
+              repasarán la actualidad informativa del sector en directo e
+              interactuando con los asistentes.
+
+
+              ¡No te lo pierdas!
             speakers: []
-          - time: '14:00 - 14:45h'
+          - time: '14:15 - 15:00h'
             title: "\U0001FA84 Exhibición de magia con Juanto"
             id: magia-juanto
             track: escenario
+            description: >-
+              El mítico programador-mago [Juan Tomás García
+              Molina](https://www.linkedin.com/in/juantomasgarcia/){target=_blank}
+              nos mostrará un año más sus trucos de magía mezclada con
+              informática... ¿o era al revés? 
             speakers: []
           - time: '11:15 - 12:15h'
             title: Marketplace de Ideas
             id: tarugoff-marketplace
             label: TarugOff
             track: cafeteria
+            description: >-
+              La TarugOff es un *open space* así que **serán los propios
+              participantes los que decidirán los contenidos de la
+              des-conferencia** en este mercado de ideas.
             speakers: []
           - time: '12:30 - 13:20h'
             title: Sesiones
             id: tarugoff-sesiones1
             label: TarugOff
             track: cafeteria
+            description: >-
+              Primera tanda de sesiones que hayan salido del *marketplace* de
+              ideas.
             speakers: []
           - time: '13:30 - 14:20h'
             title: Sesiones
             id: tarugoff-sesiones2
             label: TarugOff
             track: cafeteria
+            description: >-
+              Después de un pequeño descanso, segunda tanda de sesiones que
+              hayan salido del *marketplace* de ideas.
             speakers: []
           - time: '11:15 - 12:15h'
             title: Dibujo para pequeños grandes artistas
@@ -635,14 +683,12 @@ blocks:
             title: Diseño de juegos de mesa
             id: taller-dam
             label: Taller
-            subtitle: con David Amorin (La mesa de Dam)
             track: aula1
             speakers: []
           - time: '11:15 - 12:00h'
             title: Fundamentos de la Programación (de 6 a 12 años)
             id: taller-esther1
             label: Taller
-            subtitle: con Esther Elías (FunTech Rocket)
             track: aula2
             speakers: []
           - time: '12:15 - 13:15h'
@@ -656,35 +702,83 @@ blocks:
             title: Fundamentos de la Programación (de 6 a 12 años)
             id: taller-esther2
             label: Taller
-            subtitle: con Esther Elías (FunTech Rocket)
             track: aula2
             speakers: []
-          - time: '11:00 - 15:30h'
-            title: >-
-              Partidas dinamizadas de juegos de mesa... ¡con los creadores de
-              los juegos!
-            id: partidas-juegos-mesa
-            subtitle: con David Amorin y Ramón Redondo
-            track: smart-troll
-            speakers: []
-          - time: '11:00 - 12:30h'
+          - time: '11:30 - 12:30h'
             title: "\U0001F3C6 Torneo Benéfico de Windjammers"
+            id: torneo-windjammers
             track: pista-windjammers
+            description: >-
+              ¿Conoces el videojuego
+              ["Windjammers"](https://www.youtube.com/watch?v=HYATiJRNUZM&t=14s){target=_blank}?
+              Pues hemos montado una pista para que puedas jugarlo... en la vida
+              real !!!
+
+
+              En este torneo los participantes necesitaran convencer a los
+              patrocinadores de la TRGx para que también patrocinen su entrada
+              en el torneo y con el dinero que recaudemos sufragar una
+              incubadora que enviaremos a un país que la necesite.
+
+
+              ¡Hazte con una de las 16 únicas plazas o disfruta como espectador!
             speakers: []
-          - time: '12:30 - 16:00h'
+          - time: '12:30 - 17:00h'
             title: "\U0001F94F Fun & Frisbee"
+            id: fun-frisbee
             track: pista-windjammers
+            description: >-
+              Contaréis con la pista de Windjammers y hasta 7 tipos de frisbees
+              diferentes para enfrentaros en divertidas partidas rápidas, aptas
+              para todos los niveles y edades.
             speakers: []
           - time: '12:00 - 14:00h'
             title: Carrera de LEDs
             track: zona-infantil
             speakers: []
           - time: '11:00 - 15:00'
-            title: Torneo Fortnite apto para Boomers
+            title: "\U0001F579️ Torneo Fortnite apto para Boomers"
             id: torneo-fortnite
             subtitle: powered by Team Heretics
             track: slimbook
-            description: Torneo de Fortnite apto para jugadores de todas las edades.
+            description: "Torneo de Fortnite apto para jugadores de todos los niveles y todas las edades, con el apoyo de [Team Heretics](https://teamheretics.com/es/content/sobre-nosotros){target=_blank} y el famoso *pro-player* [BoniDani](https://www.youtube.com/@BoniDaniTV){target=_blank}.\n\nOrganizaremos partidas rápidas 2vs2 o 3vs3 en formato «rey de la mesa» y, cada hora, los que hayan acumulado más puntos ganaran distintos premios.\n\nSi te gusta Fortnite, una estupenda ocasión para jugar con nuevos compañeros y si nunca lo has probado, una fantástica excusa para hacerlo por primera vez \U0001F604"
+            speakers: []
+          - time: '11:00 - 17:00'
+            title: Salón de recreativos de los 80
+            id: recreativos
+            track: flynns
+            description: >-
+              Disfrutarás de un auténtico salón recreativo de los 80. El que
+              podrías encontrar en 1982, el año en el que se entrenó «Tron».
+
+
+              8 máquinas que son HISTORIA VIVA de los videojuegos y 2 que
+              constituyen un guiño a la TRGx.
+
+
+              1. Pong (1972)
+
+              2. Defender (1980)
+
+              3. Centipede (1980)
+
+              4. Galaga (1981)
+
+              5. Donkey Kong (1981)
+
+              6. Fogger (1981)
+
+              7. Miss Pac-Man (1982)
+
+              8. Pole Position (1982)
+
+
+              **BOLA EXTRA**
+
+
+              9. Discs of Tron (1983)
+
+              10. Windjammers (1994)
             speakers: []
   - type: speakers
     title: Speakers
