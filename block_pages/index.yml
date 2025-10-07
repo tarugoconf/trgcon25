@@ -255,11 +255,11 @@ blocks:
             speakers:
               - aitor
           - time: '11:00 - 11:45h'
-            title: Como montar tu propio banco online
+            title: Cómo montar tu propio banco online
             id: charla-paloma
             subtitle: por Paloma Barreiro
             description: >-
-              Si es eslogan de la TRG es «TODO ES POSIBLE» entonces ¿por qué no
+              Si el eslogan de la TRG es «TODO ES POSIBLE» entonces ¿por qué no
               puede serlo montar nuestro propio banco?
 
 
@@ -612,7 +612,7 @@ blocks:
               * **Francisco Pérez Bes**, abogado especializado en derecho
               digital y adjunto a la Asociación Española de Protección de Datos
 
-              * **Óscar Martín Centeno**, Director de la escuela Danto Domingo
+              * **Óscar Martín Centeno**, Director de la escuela Santo Domingo
               de Algete y presidente del Consejo de Directores de Madrid. 
             speakers: []
           - time: '12:30 - 13:15'
