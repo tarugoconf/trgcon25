@@ -309,9 +309,9 @@ blocks:
             id: charla-oyabun
             subtitle: por Javier Alonso
             description: >-
-              Cuando oimos hablar de «diseño de producto» los técnicos solemos
-              pensar en botoncitos y colores brillantes, sin enmbargo, el
-              Product Design va mucho más allá de eso.
+              Cuando oímos hablar de «diseño de producto» los técnicos solemos
+              pensar en botoncitos y colores brillantes, sin embargo, el Product
+              Design va mucho más allá de eso.
 
 
               Por ejemplo, diseñar **la experiencia de uso de esos propios
@@ -438,19 +438,29 @@ blocks:
               Cuanto más tuitees, más posibilidades tendrás de ganar.
             speakers: []
           - time: '19:15 - 20:00h'
-            title: Charla
-            id: charla-rafa
-            subtitle: POR CONFIRMAR
+            title: Open Source que salva vidas
+            id: charla-pablo
+            subtitle: por Pablo Sánchez
             description: >-
-              Una de las awesómicas y originales charlas de la TRG. STAY TUNEZ
-              ANTUNEZ porque iremos confirmándolas poco a poco.
+              Pablo nos contará cómo ha aplicado muchas de las metodologías que
+              ha aprendido en su carrera como ingeniero de hardware a un
+              proyecto social, lo que le ha permitido fabricar incubadoras con
+              un coste de 350€ en vez de los 30.000€.
 
 
-              Si no quieres perderte las novedades y noticias de la TRGx, te
-              recomendamos seguir [nuestra cuenta en
-              X](https://x.com/tarugoconf){target="_blank"}.
+              No es magia, solo tecnología y buenas prácticas. Desde el enfoque
+              open source, para que el proceso pueda ser auditable y escalable,
+              hasta la priorización de funciones en los dispositivos para
+              demostrar —una vez más— la Ley de Pareto «de libro» aplicado el
+              desarrollo de tecnología: con el 20% del presupuesto total, se
+              pueden desarrollar el 80% de las funcionalidades de un proyecto.
+
+
+              En esta charla conocerás un caso práctico de la teoría que todos
+              conocemos. Quien sabe, quizás sea la inspiración que necesites
+              para aplicarlas en tu día a día.
             speakers:
-              - rafa-pons
+              - pablo-sanchez
           - time: '20:00 - 20:30h'
             title: Rendición de cuentas
             id: rendicion-cuentas
@@ -938,6 +948,30 @@ blocks:
         links:
           - icon: linkedin-logo
             url: 'https://www.linkedin.com/in/macarena-ortega-pardo-3598aaa9/'
+      - name: Pablo Sánchez
+        id: pablo-sanchez
+        company: Medical Open World
+        role: CEO
+        bio: >-
+          Pablo es un ingeniero pamplonés que ha desarrollado su carrera en el
+          diseño de hardware en empresas como Azkoyen, BQ o Amper, además de
+          fundar y dirigir la ONG Medical Open World, que impulsa la fabricación
+          y distribución de una incubadora neonatal open source y de bajo coste
+          destinada a hospitales de bajos recursos.
+
+
+          El proyecto ya ha salvado la vida de cientos de recién nacidos en más
+          de 30 países. Y lo ha logrado apostando por el código abierto,
+          permitiendo que otras organizaciones repliquen su modelo en diferentes
+          contextos. 
+        image: /files/pablo_sanchez.jpg
+        links:
+          - icon: book-open
+            url: 'https://es.wikipedia.org/wiki/Pablo_S%C3%A1nchez_Bergasa'
+          - icon: linkedin-logo
+            url: 'https://www.linkedin.com/in/pablosanchezbergasa/'
+          - icon: instagram-logo
+            url: 'https://www.instagram.com/pablo_sanber/'
       - name: TBC
         id: tbc3
         bio: >-
@@ -948,17 +982,6 @@ blocks:
           recomendamos seguir [nuestra cuenta en
           X](https://x.com/tarugoconf){target="_blank"}.
         image: /files/MODELO 4.jpg
-        links: []
-      - name: TBC
-        id: tbc5
-        bio: >-
-          Ponente pendiente de anuncio. Stay tuned ANTUNEZ!
-
-
-          Si no quieres perderte las novedades y noticias de la TRGx, te
-          recomendamos seguir [nuestra cuenta en
-          X](https://x.com/tarugoconf){target="_blank"}.
-        image: /files/MODELO 7.jpg
         links: []
   - type: separator
     width: is-invisible
