@@ -681,6 +681,11 @@ blocks:
             label: Taller
             subtitle: con Hugo Tobio
             track: aula1
+            description: >-
+              Aprende técnicas básicas de dibujo, que te harán parecer un
+              experto, de la mano de [Hugo
+              Tobio](https://twitter.com/HugoTobio){target=_blank} ¡El mismísimo
+              ilustrador de la Bonilista!
             speakers: []
           - time: '12:15 - 13:15h'
             title: Sketchnoting
@@ -688,12 +693,28 @@ blocks:
             label: Taller
             subtitle: con Javier Alonso (@oyabun)
             track: aula1
+            description: >-
+              Aprende a dibujar ideas.
+
+
+              Impartido por el mítico [Javier «Oyabun»
+              Alonso](https://twitter.com/oyabun){target=_blank}, Product
+              Designer en Docker y sketchnoter oficial de la TRG.
             speakers: []
           - time: '13:15 - 14:15h'
-            title: Diseño de juegos de mesa
-            id: taller-dam
+            title: Taller de caligrafía
+            id: taller-raul
             label: Taller
+            subtitle: con Raúl Muro
             track: aula1
+            description: >-
+              Aprenderás los trazos básicos de la caligrafía utilizando
+              brushpen, con la guía del ilustrador [Raúl
+              Muro](https://www.instagram.com/raul_muro/){target=_blank}.
+
+
+              También verás la diferencia que existe con el lettering, entre
+              otras muchas cosas.
             speakers: []
           - time: '11:15 - 12:00h'
             title: Fundamentos de la Programación (de 6 a 12 años)
