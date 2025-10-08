@@ -378,18 +378,18 @@ blocks:
             id: charla-alberto
             subtitle: por Alberto Rey
             description: >-
-              En esta charla descubrirás la algoritmía, infraestructura técnica
+              En esta charla descubrirás la algoritmia, infraestructura técnica
               y modelo de negocio detrás de la estrategía de precios dinámicos
-              de las líneas areas, de la mano de alguien que las conoce
-              pefectamente porque LAS HA CREADO.
+              de las líneas aéreas, de la mano de alguien que las conoce
+              perfectamente porque LAS HA CREADO.
 
 
               ¿Es verdad que si visitamos la web de una aerolínea más de una vez
               nos suben el precio de los billetes? ¿Es cierto que los martes los
               vuelos se pueden comprar más baratos? ¿Si reservo más tarde tengo
-              la oportunidad encontrar viajes más baratos? Después de asistir a
-              esta ponencia, revisarás muchos de los mitos más extendidos sobre
-              el precio de los vuelos.
+              la oportunidad de encontrar viajes más baratos? Después de asistir
+              a esta ponencia, revisarás muchos de los mitos más extendidos
+              sobre el precio de los vuelos.
 
 
               Nunca volverás a comprar un billete de avión como hacías hasta
@@ -1109,14 +1109,18 @@ blocks:
         img: /files/logos/logo_shakers_blanco.png
         url: 'https://www.shakersworks.com/'
         description: La casa del freeworking
-      - alt: Eventbrite
-        img: /files/logos/eventbrite_logo.png
-        url: 'https://www.eventbrite.es/'
-        description: Proveedor Oficial de Ticketing de la TRG.
       - alt: Secuoyas
         img: /files/logos/secuoyas-white.png
         url: 'https://www.secuoyas.com/'
         description: Innovación para humanistas digitales
+      - alt: IE School of Science & Technology
+        img: /files/logos/ie_horizontal.png
+        url: 'https://landings.ie.edu/schoolland-sst-science-technology-cro'
+        description: Built to breakthrough
+      - alt: Eventbrite
+        img: /files/logos/eventbrite_logo.png
+        url: 'https://www.eventbrite.es/'
+        description: Proveedor Oficial de Ticketing de la TRG.
       - alt: Ayuntamiento de Madrid
         img: /files/logos/lanave_logo_footer.png
         url: 'https://www.lanavemadrid.com/'
