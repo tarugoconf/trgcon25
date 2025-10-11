@@ -1283,6 +1283,12 @@ blocks:
       - name: Jose Luis Cases
         img: /files/people/jose-luis-cases.jpeg
         url: 'https://www.linkedin.com/in/jose-luis-cases-lozano/'
+      - name: Aleix Rodriguez
+        img: /files/people/aleix_rodriguez.jpeg
+        url: 'https://www.linkedin.com/in/arodriala/'
+      - name: Raúl Jiménez
+        img: /files/people/raul_jimenez.jpg
+        url: 'https://links.rauljimenez.info/'
   - type: faq
     title: FAQ
     id: faq
