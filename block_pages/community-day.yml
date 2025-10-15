@@ -84,6 +84,18 @@ blocks:
           Montoya](https://x.com/lmontoya/status/1718246506308718837){target=_blank}
           que volará directamente desde Ibiza para estar en la TRG</br></br>
           ¡Traed vuestros portatiles!
+      - title: "Torneo de W1ndj4mm3rs \U0001F3C6"
+        tags:
+          - Jóvenes
+          - Mayores
+        img: /files/activities/w1ndj4mm3rs.jpg
+        description: >-
+          Nos hemos venido arriba llevando a la vida real [el videojuego clásico
+          de
+          1994](https://www.youtube.com/watch?v=vOynFbfOejo){target=_blank}.</br></br>Anímate
+          a [participar en el
+          torneo](https://docs.google.com/forms/d/e/1FAIpQLSexu1LOy3gv7SpsDi9WodneRw0jKdbMZIrZKGQDAt5NghVuIg/viewform){target=_blank}
+          más salvaje o disfruta del espectáculo como espectador.
       - title: Taller de dibujo para pequeños grandes artistas
         tags:
           - Jóvenes
@@ -94,15 +106,17 @@ blocks:
           de la mano de [Hugo
           Tobio](https://twitter.com/HugoTobio){target=_blank} ¡El mismísimo
           ilustrador de la Bonilista!
-      - title: Taller de fundamentos de la Programación (de 6 a 12 años)
+      - title: Taller de Ajedrez (de 7 a 99 años)
         tags:
           - Niños
-        img: /files/activities/coding_trgx.jpg
+          - Jóvenes
+          - Mayores
+        img: /files/activities/talleres-ajedrez_1.max-1200x900.jpg
         description: >-
-          Los más pequeños conocerán los pilares básicos de la programación de
-          forma amena y divertida.</br></br>¡Saldréis de este taller con vuestro
-          primer programa creado y todo lo necesario para seguir profundizando
-          en el fascinante mundo de la iInformática!
+          Pequeños y mayores conocerán las reglas básicas del ajedrez, para
+          aprender divirtiéndose y adquirir una base que nos permita seguir
+          descubriendo este apasionante juego que nos permitirá tanto conocer a
+          más gente como conocernos a nosotros mismos.
       - title: Taller de Sketchnoting
         tags:
           - Jóvenes
@@ -112,7 +126,7 @@ blocks:
           Aprende a dibujar ideas.</br></br>Impartido por el mítico [Javier
           «Oyabun» Alonso](https://twitter.com/oyabun){target=_blank}, Product
           Designer en Docker y sketchnoter oficial de la TRG.
-      - title: Torneo de Fortnite
+      - title: "Torneo de Fortnite \U0001F3C6"
         tags:
           - Jóvenes
           - Mayores
@@ -175,17 +189,6 @@ blocks:
         description: >-
           Diviértete y haz ejercicio con nuestros juegos de conos para toda la
           familia.
-      - title: Zona de juegos de mesa
-        tags:
-          - Niños
-          - Jóvenes
-          - Mayores
-        img: /files/activities/TRG23_juegosmesa.jpg
-        description: >-
-          Partidas organizadas de juegos de mesa para TODAS las
-          edades.</br></br>Podréis disfrutar de una selección de los mejores
-          títulos de la historia y... ¡algunas partidas organizadas por los
-          propios diseñadores de los juegos!
       - title: Laboratorio de personalización de chapas
         tags:
           - Niños

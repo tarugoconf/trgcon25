@@ -510,6 +510,8 @@ blocks:
             id: aula1
           - title: Aula 2
             id: aula2
+          - title: Aula 3
+            id: aula3
           - title: Pista de Windjammers
             id: pista-windjammers
           - title: Escenario
@@ -717,26 +719,56 @@ blocks:
               otras muchas cosas.
             speakers: []
           - time: '11:15 - 12:00h'
-            title: Fundamentos de la Programación (de 6 a 12 años)
-            id: taller-esther1
+            title: Taller de ajedrez (de 7 a 99 años) ♟️
+            id: taller-ajedrez-1
             label: Taller
             track: aula2
+            description: >-
+              Taller de ajedrez a cargo de [Antonio José Villegas
+              Acosta](https://www.linkedin.com/in/antoniovillegasacosta/){target=_blank},
+              que enseñará los movimientos y reglas básicas a grandes y
+              pequeños, para que aprendan de la mejor manera posible: ¡jugando!
+
+
+              A ver... no saldrás del taller siendo Bobby Fischer, pero tendrás
+              las herramientas necesarias para adentrarte en el apasionante
+              mundo del ajedrez.
             speakers: []
           - time: '12:15 - 13:15h'
             title: Conviértete en DJs
             id: taller-guillermo
             label: Taller
             subtitle: con DJ Montoya
-            track: aula2
+            track: aula3
             speakers: []
-          - time: '13:30 - 14:15h'
-            title: Fundamentos de la Programación (de 6 a 12 años)
-            id: taller-esther2
+          - time: '12:00 - 13:00'
+            title: Juego libre de ajedrez
+            id: juego-ajedrez
+            track: aula2
+            description: >-
+              Tendréis un buen puñado de tableros libres para poder jugar y el
+              lujo de contar con [Antonio José Villegas
+              Acosta](https://www.linkedin.com/in/antoniovillegasacosta/){target=_blank}
+              como monitor para aconsejaros vuestro próximo movimiento...
+            speakers: []
+          - time: '13:15 - 14:00h'
+            title: Taller de ajedrez (de 7 a 99 años) ♟️
+            id: taller-ajedrez-2
             label: Taller
             track: aula2
+            description: >-
+              Taller de ajedrez a cargo de [Antonio José Villegas
+              Acosta](https://www.linkedin.com/in/antoniovillegasacosta/){target=_blank},
+              que enseñará los movimientos y reglas básicas a grandes y
+              pequeños, para que aprendan de la mejor manera posible: ¡jugando!
+
+
+              A ver... no saldrás del taller siendo Bobby Fischer, pero tendrás
+              las herramientas necesarias para adentrarte en el apasionante
+              mundo del ajedrez.
             speakers: []
           - time: '11:30 - 12:30h'
-            title: "\U0001F3C6 Torneo Benéfico de Windjammers"
+            title: "\U0001F3C6 Torneo de W1ndj4mm3rs"
             id: torneo-windjammers
             track: pista-windjammers
             description: >-
@@ -746,13 +778,9 @@ blocks:
               real !!!
 
 
-              En este torneo los participantes necesitaran convencer a los
-              patrocinadores de la TRGx para que también patrocinen su entrada
-              en el torneo y con el dinero que recaudemos sufragar una
-              incubadora que enviaremos a un país que la necesite.
-
-
-              ¡Hazte con una de las 16 únicas plazas o disfruta como espectador!
+              ¡[Apúntate]([Link](https://docs.google.com/forms/d/e/1FAIpQLSexu1LOy3gv7SpsDi9WodneRw0jKdbMZIrZKGQDAt5NghVuIg/viewform?usp=header)){target=_blank}
+              y demuestra que eres quien mejor maneja el frisbee o disfruta como
+              espectador del mayor torneo de la TRG!
             speakers: []
           - time: '12:30 - 17:00h'
             title: "\U0001F94F Fun & Frisbee"
