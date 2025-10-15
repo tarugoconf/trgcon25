@@ -77,9 +77,9 @@ blocks:
         pricing: 250€ + IVA
         img: /files/TRGCON 25 - icon NORMAL.svg
         buy:
-          text: Comprar
+          text: AGOTADAS
           url: 'https://trgx.eventbrite.es'
-          disabled: false
+          disabled: true
         features:
           - sold_out
           - conferences
@@ -93,9 +93,9 @@ blocks:
         pricing: 350€ + IVA
         img: /files/TRGCON 25 - icon KILLER_COMBO.svg
         buy:
-          text: Comprar
+          text: AGOTADAS
           url: 'https://trgx.eventbrite.es'
-          disabled: false
+          disabled: true
         features:
           - sold_out
           - conferences
@@ -132,9 +132,9 @@ blocks:
         pricing: 500€ + IVA
         img: /files/TRGCON 25 - icon MECENAS.svg
         buy:
-          text: Comprar
+          text: AGOTADAS
           url: 'https://trgx.eventbrite.es/'
-          disabled: false
+          disabled: true
         features:
           - sold_out
           - conferences
