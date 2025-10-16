@@ -497,6 +497,7 @@ blocks:
       Una jornada abierta, a la que podréis traer a familia, compañeros y/o
       amigos, con un montón de actividades para grandes y pequeños. Tenéis mucha
       más info [en esta página](/community-day/).
+    id: agenda-sabado
     fullwidth: true
     days:
       - tracks:
