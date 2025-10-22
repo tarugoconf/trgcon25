@@ -511,8 +511,6 @@ blocks:
             id: aula1
           - title: Aula 2
             id: aula2
-          - title: Aula 3
-            id: aula3
           - title: Pista de Windjammers
             id: pista-windjammers
           - title: Escenario
@@ -619,12 +617,23 @@ blocks:
               de Algete y presidente del Consejo de Directores de Madrid. 
             speakers: []
           - time: '12:30 - 13:15'
-            title: Cambiemos la Dislexia
+            title: >-
+              Observación de la tierra e Inteligencia Artificial: el Gran
+              Hermano de la sostenibilidad
+            id: charla-ie
             label: Charla
+            subtitle: por Javier Muro
             track: escenario
             description: >-
-              Dentro de poco anunciaremos más sobre esta interesante charla...
-              ¡Stay tuned Antunez!
+              Javier Muro es profesor en la Escuela de Ciencia y Tecnología de
+              IE University, donde aplica metodologías de vanguardia para
+              avanzar en la investigación ambiental.
+
+
+              Obtuvo su doctorado en teledetección por la Universidad de Bonn
+              (Alemania) en 2019, especializándose en aprendizaje automático y
+              análisis de series temporales de datos de satélite para
+              fundamentar decisiones políticas.
             speakers: []
           - time: '13:15 - 14:15h'
             title: CodelyTV !!!
@@ -734,13 +743,6 @@ blocks:
               A ver... no saldrás del taller siendo Bobby Fischer, pero tendrás
               las herramientas necesarias para adentrarte en el apasionante
               mundo del ajedrez.
-            speakers: []
-          - time: '12:15 - 13:15h'
-            title: Conviértete en DJs
-            id: taller-guillermo
-            label: Taller
-            subtitle: con DJ Montoya
-            track: aula3
             speakers: []
           - time: '12:00 - 13:00'
             title: Juego libre de ajedrez
