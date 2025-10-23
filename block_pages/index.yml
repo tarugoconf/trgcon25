@@ -811,34 +811,34 @@ blocks:
             track: flynns
             description: >-
               Disfrutarás de un auténtico salón recreativo de los 80. El que
-              podrías encontrar en 1982, el año en el que se entrenó «Tron».
+              podrías encontrar en la época en la que se entrenó «Tron».
 
 
-              8 máquinas que son HISTORIA VIVA de los videojuegos y 2 que
-              constituyen un guiño a la TRGx.
+              9 máquinas que son HISTORIA VIVA de los videojuegos y 1 que
+              constituye un guiño a la TRGx.
 
 
-              1. Pong (1972)
+              1. Defender (1980)
 
-              2. Defender (1980)
+              2. Centipede (1980)
 
-              3. Centipede (1980)
+              3. Galaga (1981)
 
-              4. Galaga (1981)
+              4. Donkey Kong (1981)
 
-              5. Donkey Kong (1981)
+              5. Fogger (1981)
 
-              6. Fogger (1981)
+              6. Miss Pac-Man (1982)
 
-              7. Miss Pac-Man (1982)
+              7. Pole Position (1982)
 
-              8. Pole Position (1982)
+              8. Tetris (1988)
+
+              9. Pang (1989)
 
 
               **BOLA EXTRA**
 
-
-              9. Discs of Tron (1983)
 
               10. Windjammers (1994)
             speakers: []
@@ -1024,17 +1024,6 @@ blocks:
             url: 'https://www.linkedin.com/in/pablosanchezbergasa/'
           - icon: instagram-logo
             url: 'https://www.instagram.com/pablo_sanber/'
-      - name: TBC
-        id: tbc3
-        bio: >-
-          Ponente pendiente de anuncio. Stay tuned ANTUNEZ!
-
-
-          Si no quieres perderte las novedades y noticias de la TRGx, te
-          recomendamos seguir [nuestra cuenta en
-          X](https://x.com/tarugoconf){target="_blank"}.
-        image: /files/MODELO 4.jpg
-        links: []
   - type: separator
     width: is-invisible
   - type: pdf
