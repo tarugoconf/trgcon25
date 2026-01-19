@@ -1411,3 +1411,12 @@ metas:
 url: /
 title: TRGCON 25
 theme: is-dark
+extra_head: >-
+  <div style="background-color: var(--color-secondary); text-align: center;">
+
+  <h1 style="color: white;">No te pierdas la TRG 26 en Madrid, del 22 al 24 de
+  Octubre de 2026</h1>
+
+  <h3 style="color: white;">Próximamente actualizaremos la web</h3>
+
+  </div>
