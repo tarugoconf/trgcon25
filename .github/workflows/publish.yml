@@ -19,7 +19,7 @@ jobs:
           deno-version: canary
 
       - name: Build site
-        run: deno task build --location=https://www.trgcon.com/
+        run: deno task build --location=https://2026.trgcon.com/
 
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main
